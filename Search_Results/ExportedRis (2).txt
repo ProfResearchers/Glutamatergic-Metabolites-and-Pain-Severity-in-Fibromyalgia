@@ -1,0 +1,2982 @@
+TY  - JOUR
+T1  - [CENTRALIZED PAIN AND FIBROMYALGIA: WHAT DO WE MEAN WHEN WE SAY "IT'S ALL IN YOUR HEAD"?].
+JF  - Harefuah
+A1  - Ablin JN
+ST  - Ablin (2017)
+KW  - eppi-reviewer
+KW  - *Chronic Pain
+KW  - Fatigue
+KW  - Fibromyalgia/*psychology
+KW  - Humans
+KW  - Hyperalgesia/*physiopathology
+KW  - Syndrome
+PY  - 2017
+DA  - 2017/12//
+Y1  - 2017/12//
+AB  - Fibromyalgia is a syndrome characterized by chronic widespread musculoskeletal pain, tenderness, fatigue and associated symptoms which include cognitive difficulties, abdominal symptoms etc. A leading paradigm regarding the pathogenesis of fibromyalgia (and similar functional disorders) focuses on the concept of central sensitization. This concept describes a situation in which there is an increased sensitivity of the central nervous system to the processing and transmission of pain, leading to the development of clinical phenomena such as allodynia and hyperalgesia. Various lines of evidence have contributed to the development of the central sensitization paradigm. A decrease in the capacity of the nervous system to perform descending pain inhibition is one aspect of this paradigm. Increased windup and long term potentiation are additional phenomena. An increase in the CSF-level of pain-facilitating neurotransmitters, coupled with a decrease in pain inhibitory transmitters, has also been described. Novel mechanisms such as microglia cell activation are under investigation. Certain clinical characteristics may alert the clinician to the possibility that a patient is suffering from centralized pain (i.e. fibromyalgia or related syndromes). Multiple sites of pain are typical, as well as a long history of pain- related complaints in the same patients. Disturbed sleep, fatigue and dyscognition are typical. Various triggers such as physical trauma, infection and stress are often reported and tenderness is demonstrable on physical examination. Functional imaging of the central nervous system, including techniques such as fMRI, proton magnetic resonance spectroscopy and resting connectivity analysis, are improving our understanding regarding the neural mechanism underlying central sensitization.
+VL  - 156
+IS  - 12
+SP  - 762
+EP  - 766
+CY  - Israel
+SN  - 0017-7768 (Linking)
+U1  - 132250861
+U2  - 29292613
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Effect of Repetitive Transcranial Magnetic Stimulation on the Symptoms and Brain Imaging in Patients with Fibromyalgia Syndrome: A Randomized Controlled Pilot Trial.
+JF  - Pain and therapy
+A1  - Ackermann L
+A1  - Zeller D
+A1  - Odorfer T
+A1  - Homola GA
+A1  - Kampf T
+A1  - Pham M
+A1  - Aster HC
+A1  - Sommer C
+ST  - Ackermann (2025)
+KW  - eppi-reviewer
+KW  - Brain imaging
+KW  - Diffusion tensor imaging
+KW  - Dorsolateral prefrontal cortex
+KW  - Fibromyalgia syndrome
+KW  - Gray matter volume
+KW  - HF-rTMS
+KW  - Neuromodulation
+KW  - Pain
+KW  - Proton MR spectroscopy
+KW  - Resting-state functional MRI
+PY  - 2025
+DA  - 2025/10//
+Y1  - 2025/10//
+AB  - INTRODUCTION: Repetitive transcranial magnetic stimulation (rTMS) of the left dorsolateral prefrontal cortex (DLPFC) has been shown to reduce the symptoms of patients with fibromyalgia syndrome (FMS). We tested whether rTMS of the left DLPFC can reduce the main symptoms in FMS and whether TMS induces changes in brain functional and structural connectivity, cortical gray matter volume, and the metabolites/neurotransmitters GABA and combined glutamate/glutamine (Glx). METHODS: Twenty-seven women diagnosed with FMS according to the 2010 ACR criteria were included in a randomized controlled trial. They received either ten sessions of active or sham 10-Hz stimulation over 2 weeks embedded in a longitudinal neuroimaging setup, including one pre-treatment (T1), one post-treatment (T2), and one follow-up (T3) 3 T MRI scan. Pain and pain catastrophizing, depression, daily life/quality of life, and anxiety were assessed using standard questionnaires. RESULTS: Linear mixed-model analysis of clinical data showed a significant main effect of the main factor time but did not reveal group differences or group-time interactions, indicating a large placebo effect with symptom reduction in both groups. Fractional anisotropy (FA) values of the pontine crossing tract, the sagittal stratum, and the right cingulum in the active rTMS group increased between pre-TMS and the follow-up time points. Subgroup analysis of responders of the treatment group revealed higher functional connectivity between the left DLPFC and the right cerebellum. We did not find evidence for changes in the treatment group in the gray matter of the left DLPFC and for the concentrations of GABA and Glx, but a trend towards decreasing Glx levels for the factor time in all patients could be detected. CONCLUSIONS: While these results may be due to small sample size and short treatment duration, the findings of increased FA after active rTMS and higher functional connectivity between DLPFC and cerebellum in responders should be further explored. TRIAL REGISTRATION: Auswirkungen der nicht-invasiven Neuromodulation auf das Gehirn bei Fibromyalgiepatienten. DRKS-ID: DRKS00019051.
+DO  - 10.1007/s40122-025-00770-2 
+VL  - 14
+IS  - 5
+SP  - 1547
+EP  - 1572
+CY  - New Zealand
+SN  - 2193-651X (Electronic)
+U1  - 132250837
+U2  - 40884738
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Creatine supplementation in fibromyalgia: a randomized, double-blind, placebo-controlled trial.
+JF  - Arthritis care & research
+A1  - Alves CR
+A1  - Santiago BM
+A1  - Lima FR
+A1  - Otaduy MC
+A1  - Calich AL
+A1  - Tritto AC
+A1  - de Sa Pinto AL
+A1  - Roschel H
+A1  - Leite CC
+A1  - Benatti FB
+A1  - Bonfa E
+A1  - Gualano B
+ST  - Alves (2013)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Creatine/*administration & dosage/metabolism
+KW  - *Dietary Supplements
+KW  - Double-Blind Method
+KW  - Female
+KW  - Fibromyalgia/*diagnosis/*drug therapy/metabolism
+KW  - Humans
+KW  - Middle Aged
+KW  - Phosphocreatine/metabolism
+PY  - 2013
+DA  - 2013/09//
+Y1  - 2013/09//
+AB  - OBJECTIVE: To investigate the efficacy and safety of creatine supplementation in fibromyalgia patients. METHODS: A 16-week, randomized, double-blind, placebo-controlled, parallel-group trial was conducted. Fibromyalgia patients were randomly assigned to receive either creatine monohydrate or placebo in a double-blind manner. The patients were evaluated at baseline and after 16 weeks. Muscle function, aerobic conditioning, cognitive function, quality of sleep, quality of life, kidney function, and adverse events were assessed. Muscle phosphorylcreatine content was measured through (31) P magnetic resonance spectroscopy. RESULTS: After the intervention, the creatine group presented higher muscle phosphorylcreatine content when compared with the placebo group (+80.3% versus -2.7%; P = 0.04). Furthermore, the creatine group presented greater muscle strength than the placebo group in the leg press and chest press exercises (+9.8% and +1.2% for creatine versus -0.5% and -7.2% for placebo, respectively; P = 0.02 and P = 0.002, respectively). Isometric strength was greater in the creatine group than in the placebo group (+6.4% versus -3.2%; P = 0.007). However, no general changes were observed in aerobic conditioning, pain, cognitive function, quality of sleep, and quality of life. Food intake remained unaltered and no side effects were reported. CONCLUSION: Creatine supplementation increased intramuscular phosphorylcreatine content and improved lower- and upper-body muscle function, with minor changes in other fibromyalgia features. These findings introduce creatine supplementation as a useful dietary intervention to improve muscle function in fibromyalgia patients.
+DO  - 10.1002/acr.22020 
+VL  - 65
+IS  - 9
+SP  - 1449
+EP  - 59
+CY  - United States
+SN  - 2151-464X (Linking)
+U1  - 132250873
+U2  - 23554283
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Reduced N-acetylaspartate in the hippocampus in patients with fibromyalgia: a meta-analysis.
+JF  - Psychiatry research
+A1  - Aoki Y
+A1  - Inokuchi R
+A1  - Suwa H
+ST  - Aoki (2013)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/*analogs & derivatives/metabolism
+KW  - Databases, Factual/statistics & numerical data
+KW  - Fibromyalgia/*pathology
+KW  - Hippocampus/*metabolism/pathology
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Magnetic resonance spectroscopy (MRS)
+KW  - N-acetylaspartate (NAA)
+KW  - Pain
+PY  - 2013
+DA  - 2013/09//
+Y1  - 2013/09//
+AB  - Fibromyalgia (FM) is a stress-associated syndrome with chronic, widespread pain. Patients with FM also present disturbances of cognition and memory. As the hippocampus is vulnerable to stress exposure and involved in cognition, memory and pain perception, we hypothesize that the abnormal function of the hippocampus is implicated in the pathophysiology of FM. N-acetylaspartate (NAA), a metabolite that can be measured using proton magnetic resonance spectroscopy (1H MRS), is recognized as a marker of neuronal structure and function. We performed a systematic review and meta-analysis of 1H MRS studies investigating NAA levels in patients with FM. A comprehensive literature search through MEDLINE, Embase and Web of Science yielded nine studies; among these nine, four studies met our criteria for inclusion. A random effect model with 51 patients with FM and 38 controls revealed a significant NAA reduction in the hippocampus. The current meta-analysis suggested a neuronal abnormality in the hippocampus in patients with FM.
+DO  - 10.1016/j.pscychresns.2013.03.008 
+VL  - 213
+IS  - 3
+SP  - 242
+EP  - 8
+CY  - Ireland
+SN  - 0165-1781 (Linking)
+U1  - 132250872
+U2  - 23835064
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Insights into muscle diseases gained by phosphorus magnetic resonance spectroscopy.
+JF  - Muscle & nerve
+A1  - Argov Z
+A1  - Lofberg M
+A1  - Arnold DL
+ST  - Argov (2000)
+KW  - eppi-reviewer
+KW  - Energy Metabolism
+KW  - Exercise
+KW  - Humans
+KW  - *Magnetic Resonance Spectroscopy
+KW  - Muscular Diseases/*diagnosis/metabolism
+KW  - Phosphorus
+PY  - 2000
+DA  - 2000/09//
+Y1  - 2000/09//
+AB  - Phosphorus magnetic resonance spectroscopy (P-MRS) has now been used in the investigation of muscle energy metabolism in health and disease for over 15 years. The present review describes the basics of the metabolic observations made by P-MRS including the assumptions and problems associated with the use of this technique. Extramuscular factors, which may affect the P-MRS results, are detailed. The important P-MRS observations in patients with mitochondrial myopathies, including the monitoring of experimental therapies, are emphasized. The findings in other metabolic myopathies (those associated with glycolytic defects or endocrine disturbances) and in the destructive myopathies (the dystrophies and the inflammatory myopathies) are also described. Observations made in normal and abnormal fatigue, fibromyalgia, and malignant hyperthermia are considered. Finally, a summary of the possible diagnostic use of P-MRS in exercise intolerance is provided.
+DO  - 10.1002/1097-4598(200009)23:9<1316::aid-mus2>3.0.co;2-i 
+VL  - 23
+IS  - 9
+SP  - 1316
+EP  - 34
+CY  - United States
+SN  - 0148-639X (Linking)
+U1  - 132250897
+U2  - 10951434
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Subacute changes in brain functional network connectivity after nocturnal sodium oxybate intake are associated with anterior cingulate GABA.
+JF  - Cerebral cortex (New York, N.Y. : 1991)
+A1  - Bavato F
+A1  - Esposito F
+A1  - Dornbierer DA
+A1  - Zolch N
+A1  - Quednow BB
+A1  - Staempfli P
+A1  - Landolt HP
+A1  - Seifritz E
+A1  - Bosch OG
+ST  - Bavato (2023)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - Male
+KW  - *Sodium Oxybate/pharmacology
+KW  - Gyrus Cinguli/diagnostic imaging
+KW  - Brain/diagnostic imaging
+KW  - Wakefulness
+KW  - gamma-Aminobutyric Acid/pharmacology
+KW  - GABA
+KW  - GHB
+KW  - functional connectivity
+KW  - glutamate
+KW  - salience network
+PY  - 2023
+DA  - 2023/06//
+Y1  - 2023/06//
+AB  - Sodium oxybate (gamma-hydroxybutyrate, GHB) is an endogenous GHB/GABAB receptor agonist, clinically used to promote slow-wave sleep and reduce next-day sleepiness in disorders such as narcolepsy and fibromyalgia. The neurobiological signature of these unique therapeutic effects remains elusive. Promising current neuropsychopharmacological approaches to understand the neural underpinnings of specific drug effects address cerebral resting-state functional connectivity (rsFC) patterns and neurometabolic alterations. Hence, we performed a placebo-controlled, double-blind, randomized, cross-over pharmacological magnetic resonance imaging study with a nocturnal administration of GHB, combined with magnetic resonance spectroscopy of GABA and glutamate in the anterior cingulate cortex (ACC). In sum, 16 healthy male volunteers received 50 mg/kg GHB p.o. or placebo at 02:30 a.m. to maximize deep sleep enhancement and multi-modal brain imaging was performed at 09:00 a.m. of the following morning. Independent component analysis of whole-brain rsFC revealed a significant increase of rsFC between the salience network (SN) and the right central executive network (rCEN) after GHB intake compared with placebo. This SN-rCEN coupling was significantly associated with changes in GABA levels in the ACC (pall < 0.05). The observed neural pattern is compatible with a functional switch to a more extrinsic brain state, which may serve as a neurobiological signature of the wake-promoting effects of GHB.
+DO  - 10.1093/cercor/bhad097 
+VL  - 33
+IS  - 12
+SP  - 8046
+EP  - 8055
+CY  - United States
+SN  - 1047-3211 (Linking)
+U1  - 132250845
+U2  - 36967111
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Physical fitness and muscle metabolism in the fibromyalgia syndrome: an overview.
+JF  - The Journal of rheumatology. Supplement
+A1  - Bennett RM
+ST  - Bennett (1989)
+KW  - eppi-reviewer
+KW  - Adaptation, Physiological
+KW  - Exercise
+KW  - Fibromyalgia/etiology/metabolism/*physiopathology
+KW  - Humans
+KW  - Muscles/*metabolism
+KW  - Pain
+KW  - *Physical Fitness
+KW  - Syndrome
+PY  - 1989
+DA  - 1989/11//
+Y1  - 1989/11//
+AB  - Patients with the fibromyalgia syndrome are physically unfit. Two crucial questions arise. Why do these patients enter a spiral of habitual inactivity? What is the role of deconditioned muscles in causing the symptoms of pain and fatigue? The use of newer techniques, such as nuclear magnetic resonance spectroscopy, allied with studies of exercise physiology, may provide new insights into the fibromyalgia enigma.
+VL  - 19
+IS  - 
+SP  - 28
+EP  - 9
+CY  - Canada
+SN  - 0380-0903 (Linking)
+U1  - 132250910
+U2  - 2607512
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Real-Time Semi-Automated and Automated Voxel Placement using fMRI Targets for Repeated Acquisition Magnetic Resonance Spectroscopy.
+JF  - Journal of neuroscience methods
+A1  - Bishop JH
+A1  - Geoly A
+A1  - Khan N
+A1  - Tischler C
+A1  - Krueger R
+A1  - Keshava P
+A1  - Amin H
+A1  - Baltusis L
+A1  - Wu H
+A1  - Spiegel D
+A1  - Williams N
+A1  - Sacchet MD
+ST  - Bishop (2023)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Magnetic Resonance Imaging/methods
+KW  - Reproducibility of Results
+KW  - *Major Depressive Disorder
+KW  - Prospective Studies
+KW  - Magnetic Resonance Spectroscopy/methods
+KW  - Data acquisition
+KW  - Longitudinal
+KW  - Magnetic resonance spectroscopy (MRS)
+KW  - Reliability
+KW  - Reproducibility
+KW  - Voxel placement
+PY  - 2023
+DA  - 2023/05//
+Y1  - 2023/05//
+AB  - BACKGROUND: Currently, magnetic resonance spectroscopy (MRS) is dependent on the investigative team to manually prescribe, or demarcate, the desired tissue volume-of-interest. The need for a new method to automate precise voxel placements is warranted to improve the utility and interpretability of MRS data. NEW METHOD: We propose and validate robust and real-time methods to automate MRS voxel placement using functionally defined coordinates within the prefrontal cortex. Data were collected and analyzed using two independent prospective studies: 1) two independent imaging days with each consisting of a multi-session sandwich design (MRS data only collected on one of the days determined based on scan time) and 2) a longitudinal design. Participants with fibromyalgia syndrome (N = 50) and major depressive disorder (N = 35) underwent neuroimaging. MRS acquisitions were acquired at 3-tesla. Evaluation of the reproducibility of spatial location and tissue segmentation was assessed for: 1) manual, 2) semi-automated, and 3) automated voxel prescription approaches RESULTS: Variability of voxel grey and white matter tissue composition was reduced using automated placement protocols. Spatially, post- to pre-voxel center-of-gravity distance was reduced and voxel overlap increased significantly across datasets using automated compared to manual procedures COMPARISON WITH EXISTING METHODS: Manual prescription, the current standard in the field, can produce inconsistent data across repeated acquisitions. Using automated voxel placement, we found reduced variability and more consistent voxel placement across multiple acquisitions CONCLUSIONS: These results demonstrate the within subject reliability and reproducibility of a method for reducing variability introduced by spatial inconsistencies during MRS acquisitions. The proposed method is a meaningful advance toward improved consistency of MRS data in neuroscience and can be utilized for multi-session and longitudinal studies.
+DO  - 10.1016/j.jneumeth.2023.109853 
+VL  - 392
+IS  - 
+SP  - 109853
+CY  - Netherlands
+SN  - 0165-0270 (Linking)
+U1  - 132250843
+U2  - 37031764
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - In vivo 31P magnetic resonance spectroscopy (MRS) of tender points in patients with primary fibromyalgia syndrome.
+JF  - Rheumatology international
+A1  - de Blecourt AC
+A1  - Wolf RF
+A1  - van Rijswijk MH
+A1  - Kamman RL
+A1  - Knipping AA
+A1  - Mooyaart EL
+ST  - de Blecourt (1991)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Energy Metabolism/physiology
+KW  - Female
+KW  - Fibromyalgia/metabolism/*pathology/physiopathology
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Middle Aged
+KW  - Muscles/metabolism/*pathology/physiology
+KW  - Phosphates/metabolism
+KW  - Phosphorus
+PY  - 1991
+DA  - 1991///
+Y1  - 1991///
+AB  - 31P Magnetic Resonance-Spectroscopy was performed at the site of tender points in the trapezius muscle of patients with primary fibromyalgia syndrome. Earlier, in vitro studies have reported changes in the high energy phosphate-metabolism in biopsies taken from tender points of fibromyalgia patients. The observed alterations could not be confirmed with in vivo Magnetic Resonance-Spectroscopy.
+DO  - 10.1007/BF00291145 
+VL  - 11
+IS  - 2
+SP  - 51
+EP  - 4
+CY  - Germany
+SN  - 0172-8172 (Linking)
+U1  - 132250908
+U2  - 1947670
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Central nervous system abnormalities in fibromyalgia: assessment using proton magnetic resonance spectroscopy.
+JF  - The Journal of rheumatology
+A1  - El-Gabalawy H
+A1  - Ryner L
+ST  - El-Gabalawy (2008)
+KW  - eppi-reviewer
+KW  - Brain/*pathology/*physiopathology
+KW  - Central Nervous System Diseases/complications/*diagnosis
+KW  - Fibromyalgia/*physiopathology
+KW  - Humans
+KW  - Nociceptors
+KW  - *Nuclear Magnetic Resonance
+KW  - Biomolecular
+PY  - 2008
+DA  - 2008/07//
+Y1  - 2008/07//
+AB  - 
+VL  - 35
+IS  - 7
+SP  - 1242
+EP  - 4
+CY  - Canada
+SN  - 0315-162X (Linking)
+U1  - 132250887
+U2  - 18609732
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Potential Mechanisms Underlying Centralized Pain and Emerging Therapeutic Interventions.
+JF  - Frontiers in cellular neuroscience
+A1  - Eller-Smith OC
+A1  - Nicol AL
+A1  - Christianson JA
+ST  - Eller-Smith (2018)
+KW  - eppi-reviewer
+KW  - central sensitization
+KW  - cognitive behavioral therapy
+KW  - exercise
+KW  - hypothalamic-pituitary-adrenal (HPA) axis
+KW  - mast cells
+KW  - pain
+KW  - stress
+PY  - 2018
+DA  - 2018///
+Y1  - 2018///
+AB  - Centralized pain syndromes are associated with changes within the central nervous system that amplify peripheral input and/or generate the perception of pain in the absence of a noxious stimulus. Examples of idiopathic functional disorders that are often categorized as centralized pain syndromes include fibromyalgia, chronic pelvic pain syndromes, migraine, and temporomandibular disorder. Patients often suffer from widespread pain, associated with more than one specific syndrome, and report fatigue, mood and sleep disturbances, and poor quality of life. The high degree of symptom comorbidity and a lack of definitive underlying etiology make these syndromes notoriously difficult to treat. The main purpose of this review article is to discuss potential mechanisms of centrally-driven pain amplification and how they may contribute to increased comorbidity, poorer pain outcomes, and decreased quality of life in patients diagnosed with centralized pain syndromes, as well as discuss emerging non-pharmacological therapies that improve symptomology associated with these syndromes. Abnormal regulation and output of the hypothalamic-pituitary-adrenal (HPA) axis is commonly associated with centralized pain disorders. The HPA axis is the primary stress response system and its activation results in downstream production of cortisol and a dampening of the immune response. Patients with centralized pain syndromes often present with hyper- or hypocortisolism and evidence of altered downstream signaling from the HPA axis including increased Mast cell (MC) infiltration and activation, which can lead to sensitization of nearby nociceptive afferents. Increased peripheral input via nociceptor activation can lead to "hyperalgesic priming" and/or "wind-up" and eventually to central sensitization through long term potentiation in the central nervous system. Other evidence of central modifications has been observed through brain imaging studies of functional connectivity and magnetic resonance spectroscopy and are shown to contribute to the widespreadness of pain and poor mood in patients with fibromyalgia and chronic urological pain. Non-pharmacological therapeutics, including exercise and cognitive behavioral therapy (CBT), have shown great promise in treating symptoms of centralized pain.
+DO  - 10.3389/fncel.2018.00035 
+VL  - 12
+IS  - 
+SP  - 35
+CY  - Switzerland
+SN  - 1662-5102 (Linking)
+U1  - 132250860
+U2  - 29487504
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Serotonergic gene-to-gene interaction is associated with mood and GABA concentrations but not with pain-related cerebral processing in fibromyalgia subjects and healthy controls.
+JF  - Molecular brain
+A1  - Ellerbrock I
+A1  - Sandstrom A
+A1  - Tour J
+A1  - Fanton S
+A1  - Kadetoff D
+A1  - Schalling M
+A1  - Jensen KB
+A1  - Sitnikov R
+A1  - Kosek E
+ST  - Ellerbrock (2021)
+KW  - eppi-reviewer
+KW  - Affect/*physiology
+KW  - Analysis of Variance
+KW  - Anxiety/complications/genetics/physiopathology
+KW  - Case-Control Studies
+KW  - *Epistasis, Genetic
+KW  - Fibromyalgia/diagnostic imaging/*genetics/physiopathology/psychology
+KW  - Glutamic Acid/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Middle Aged
+KW  - Oxygen/blood
+KW  - Pain/complications/diagnostic imaging/*genetics/physiopathology
+KW  - Pain Threshold
+KW  - Serotonin/*metabolism
+KW  - Thalamus/metabolism
+KW  - gamma-Aminobutyric Acid/*metabolism
+KW  - 5-HT1A
+KW  - Fibromyalgia
+KW  - GABA
+KW  - Genetic polymorphisms
+KW  - Mood
+KW  - Serotonin
+KW  - Serotonin transporter
+PY  - 2021
+DA  - 2021/05//
+Y1  - 2021/05//
+AB  - The neurotransmitter serotonin, involved in the regulation of pain and emotion, is critically regulated by the 5-HT(1A) autoreceptor and the serotonin transporter (5-HTT). Polymorphisms of these genes affect mood and endogenous pain modulation, both demonstrated to be altered in fibromyalgia subjects (FMS). Here, we tested the effects of genetic variants of the 5-HT(1A) receptor (CC/G-carriers) and 5-HTT (high/intermediate/low expression) on mood, pain sensitivity, cerebral processing of evoked pain (functional MRI) and concentrations of GABA and glutamate (MR spectroscopy) in rostral anterior cingulate cortex (rACC) and thalamus in FMS and healthy controls (HC). Interactions between serotonin-relevant genes were found in affective characteristics, with genetically inferred high serotonergic signalling (5-HT(1A) CC/5-HTT(high) genotypes) being more favourable across groups. Additionally, 5-HT(1A) CC homozygotes displayed higher pain thresholds than G-carriers in HC but not in FMS. Cerebral processing of evoked pressure pain differed between groups in thalamus with HC showing more deactivation than FMS, but was not influenced by serotonin-relevant genotypes. In thalamus, we observed a 5-HT(1A)-by-5-HTT and group-by-5-HTT interaction in GABA concentrations, with the 5-HTT high expressing genotype differing between groups and 5-HT(1A) genotypes. No significant effects were seen for glutamate or in rACC. To our knowledge, this is the first report of this serotonergic gene-to-gene interaction associated with mood, both among FMS (depression) and across groups (anxiety). Additionally, our findings provide evidence of an association between the serotonergic system and thalamic GABA concentrations, with individuals possessing genetically inferred high serotonergic signalling exhibiting the highest GABA concentrations, possibly enhancing GABAergic inhibitory effects via 5-HT.
+DO  - 10.1186/s13041-021-00789-4 
+VL  - 14
+IS  - 1
+SP  - 81
+CY  - England
+SN  - 1756-6606 (Linking)
+U1  - 132250850
+U2  - 33980291
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Hippocampus dysfunction may explain symptoms of fibromyalgia syndrome. A study with single-voxel magnetic resonance spectroscopy.
+JF  - The Journal of rheumatology
+A1  - Emad Y
+A1  - Ragab Y
+A1  - Zeinhom F
+A1  - El-Khouly G
+A1  - Abou-Zeid A
+A1  - Rasker JJ
+ST  - Emad (2008)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Brain Diseases/metabolism/physiopathology
+KW  - Case-Control Studies
+KW  - Choline/metabolism
+KW  - Creatine/metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism/physiopathology
+KW  - Hippocampus/*metabolism/physiopathology
+KW  - Humans
+KW  - *Nuclear Magnetic Resonance, Biomolecular
+KW  - Pain Measurement
+KW  - Severity of Illness Index
+PY  - 2008
+DA  - 2008/07//
+Y1  - 2008/07//
+AB  - OBJECTIVE: (1) To investigate dysfunction of hippocampus in patients with fibromyalgia syndrome (FM) using proton magnetic resonance spectroscopy (1H-MRS), and to compare these findings with healthy controls. (2) To correlate levels of metabolites obtained with aspects of cognition, depression, and sleep symptoms in the patient group. METHODS: The case-control study was performed in 15 female patients, who met American College of Rheumatology criteria for classification of FM, and 10 healthy age-matched female controls. Patients and controls were receiving no medications known to affect cognitive functioning or central nervous system metabolites before their participation in the study. In all patients and controls, 1H-MRS was used to assess N-acetylaspartate (NAA), choline (Cho), creatine (Cr), and their ratios from both hippocampi. Levels of metabolites and their ratios were determined and the findings compared between the groups. All patients and controls underwent psychological assessment to assess cognitive function, depression, and structured sleep interview with sleep diary; Fibromyalgia Impact Questionnaire (FIQ), number of tender points, and visual analog scale (VAS) for pain were assessed in all patients. RESULTS: NAA levels of right and left hippocampi differed significantly between patients and controls (p < 0.05). Cho levels in the right hippocampus were higher in the patient group than in controls (p = 0.005), while no differences were found with respect to Cr levels in both hippocampi. NAA/Cho and NAA/Cr ratios differed significantly between patients and controls (p <0.05), while the Cho/Cr ratio showed no differences. Significant correlations were found between language score and right Cho and right Cr levels (p = 0.041, p = 0.006, respectively), while no significant correlations were found between metabolites and their ratios with FIQ, VAS for pain, or number of tender points. CONCLUSION: The hippocampus was dysfunctional in patients with FM, as shown by lower NAA levels compared to controls, representing neuronal or axonal metabolic dysfunction. As the hippocampus plays crucial roles in maintenance of cognitive functions, sleep regulation, and pain perception, we suggest that metabolic dysfunction of hippocampus may be implicated in the appearance of these symptoms associated with this puzzling syndrome.
+VL  - 35
+IS  - 7
+SP  - 1371
+EP  - 7
+CY  - Canada
+SN  - 0315-162X (Linking)
+U1  - 132250888
+U2  - 18484688
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - The translocator protein gene is associated with endogenous pain modulation and the balance between glutamate and gamma-aminobutyric acid in fibromyalgia and healthy subjects: a multimodal neuroimaging study.
+JF  - Pain
+A1  - Fanton S
+A1  - Sandstrom A
+A1  - Tour J
+A1  - Kadetoff D
+A1  - Schalling M
+A1  - Jensen KB
+A1  - Sitnikov R
+A1  - Ellerbrock I
+A1  - Kosek E
+ST  - Fanton (2022)
+KW  - eppi-reviewer
+KW  - Brain
+KW  - *Fibromyalgia
+KW  - Glutamic Acid/genetics/metabolism
+KW  - Healthy Volunteers
+KW  - Humans
+KW  - Neuroimaging
+KW  - Pain/diagnostic imaging/genetics/metabolism
+KW  - Positron-Emission Tomography/methods
+KW  - *Receptors, GABA/genetics/metabolism
+KW  - gamma-Aminobutyric Acid/metabolism
+PY  - 2022
+DA  - 2022/02//
+Y1  - 2022/02//
+AB  - A cerebral upregulation of the translocator protein (TSPO), a biomarker of glial activation, has been reported in fibromyalgia subjects (FMS). The TSPO binding affinity is genetically regulated by the Ala147Thr polymorphism in the TSPO gene (rs6971) and allows for a subject classification into high affinity binders (HABs) and mixed/low affinity binders (MLABs). The aim of the present multimodal neuroimaging study was to examine the associations of the TSPO polymorphism with: (1) conditioned pain modulation, (2) expectancy-modulated pain processing assessed during functional magnetic resonance imaging, and (3) the concentration and balance of glutamate and gamma-aminobutyric acid in the rostral anterior cingulate cortex and thalamus using proton magnetic resonance spectroscopy in FMS (n = 83) and healthy controls (n = 43). The influence of TSPO on endogenous pain modulation presented in the form of TSPO HABs, as opposed to MLABs, displaying less efficient descending pain inhibition and expectancy-induced reduction of pain. Translocator protein HABs in both groups (FM and healthy controls) were found to have higher thalamic glutamate concentrations and exhibit a pattern of positive correlations between glutamate and gamma-aminobutyric acid in the rostral anterior cingulate cortex, not seen in MLABs. Altogether, our findings point to TSPO-related mechanisms being HAB-dependent, brain region-specific, and non-FM-specific, although in FMS the disadvantage of an aberrant pain regulation combined with an HAB genetic set-up might hamper pain modulation more strongly. Our results provide evidence for an important role of TSPO in pain regulation and brain metabolism, thereby supporting the ongoing drug development targeting TSPO-associated mechanisms for pain relief.
+DO  - 10.1097/j.pain.0000000000002309 
+VL  - 163
+IS  - 2
+SP  - 274
+EP  - 286
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250848
+U2  - 34142769
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Anti-satellite glia cell IgG antibodies in fibromyalgia patients are related to symptom severity and to metabolite concentrations in thalamus and rostral anterior cingulate cortex.
+JF  - Brain, behavior, and immunity
+A1  - Fanton S
+A1  - Menezes J
+A1  - Krock E
+A1  - Sandstrom A
+A1  - Tour J
+A1  - Sandor K
+A1  - Jurczak A
+A1  - Hunt M
+A1  - Baharpoor A
+A1  - Kadetoff D
+A1  - Jensen KB
+A1  - Fransson P
+A1  - Ellerbrock I
+A1  - Sitnikov R
+A1  - Svensson CI
+A1  - Kosek E
+ST  - Fanton (2023)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Fibromyalgia/immunology/metabolism/physiopathology
+KW  - Female
+KW  - *Gyrus Cinguli/metabolism/immunology
+KW  - *Immunoglobulin G/immunology/metabolism
+KW  - Middle Aged
+KW  - *Neuroglia/immunology/metabolism
+KW  - *Thalamus/metabolism/immunology
+KW  - Adult
+KW  - *Autoantibodies/metabolism/immunology
+KW  - Male
+KW  - Magnetic Resonance Imaging
+KW  - Pain/metabolism/immunology
+KW  - Severity of Illness Index
+PY  - 2023
+DA  - 2023/11//
+Y1  - 2023/11//
+AB  - Recent translational work has shown that fibromyalgia might be an autoimmune condition with pathogenic mechanisms mediated by a peripheral, pain-inducing action of immunoglobulin G (IgG) antibodies binding to satellite glia cells (SGC) in the dorsal root ganglia. A first clinical assessment of the postulated autoimmunity showed that fibromyalgia subjects (FMS) had elevated levels of antibodies against SGC (termed anti-SGC IgG) compared to healthy controls and that anti-SGC IgG were associated with a more severe disease status. The overarching aim of the current study was to determine whether the role of anti-SGC IgG in driving pain is exclusively through peripheral mechanisms, as indirectly shown so far, or could be attributed also to central mechanisms. To this end, we wanted to first confirm, in a larger cohort of FMS, the relation between anti-SGC IgG and pain-related clinical measures. Secondly, we explored the associations of these autoantibodies with brain metabolite concentrations (assessed via magnetic resonance spectroscopy, MRS) and pressure-evoked cerebral pain processing (assessed via functional magnetic resonance imaging, fMRI) in FMS. Proton MRS was performed in the thalamus and rostral anterior cingulate cortex (rACC) of FMS and concentrations of a wide spectrum of metabolites were assessed. During fMRI, FMS received individually calibrated painful pressure stimuli corresponding to low and high pain intensities. Our results confirmed a positive correlation between anti-SGC IgG and clinical measures assessing condition severity. Additionally, FMS with high anti-SGC IgG levels had higher pain intensity and a worse disease status than FMS with low anti-SGC IgG levels. Further, anti-SGC IgG levels negatively correlated with metabolites such as scyllo-inositol in thalamus and rACC as well as with total choline and macromolecule 12 in thalamus, thus linking anti-SGC IgG levels to the concentration of metabolites in the brain of FMS. However, anti-SGC IgG levels in FMS were not associated with the sensitivity to pressure pain or the cerebral processing of evoked pressure pain. Taken together, our results suggest that anti-SGC IgG might be clinically relevant for spontaneous, non-evoked pain. Our current and previous translational and clinical findings could provide a rationale to try new antibody-related treatments in FMS.
+DO  - 10.1016/j.bbi.2023.09.003 
+VL  - 114
+IS  - 
+SP  - 371
+EP  - 382
+CY  - Netherlands
+SN  - 0889-1591 (Linking)
+U1  - 132250841
+U2  - 37683961
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Localized 1H-NMR spectroscopy in patients with fibromyalgia: a controlled study of changes in cerebral glutamate/glutamine, inositol, choline, and N-acetylaspartate.
+JF  - Arthritis research & therapy
+A1  - Fayed N
+A1  - Garcia-Campayo J
+A1  - Magallon R
+A1  - Andres-Bergareche H
+A1  - Luciano JV
+A1  - Andres E
+A1  - Beltran J
+ST  - Fayed (2010)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Brain/*metabolism/*pathology
+KW  - Cholic Acid/metabolism
+KW  - Cross-Sectional Studies
+KW  - *Diffusion Tensor Imaging
+KW  - Female
+KW  - Fibromyalgia/metabolism/pathology
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Hippocampus/*metabolism/*pathology
+KW  - Humans
+KW  - Inositol/metabolism
+KW  - Male
+KW  - Middle Aged
+KW  - Motor Cortex/metabolism/pathology
+KW  - *Nuclear Magnetic Resonance, Biomolecular
+KW  - Pain/metabolism/pathology
+KW  - Protons
+KW  - Somatosensory Cortex/metabolism/pathology
+PY  - 2010
+DA  - 2010///
+Y1  - 2010///
+AB  - INTRODUCTION: The purpose of this study was to investigate whether single-voxel (SV) proton magnetic resonance spectroscopy (MRS), diffusion-weighted imaging (DWI), and diffusion tensor imaging (DTI) detected differences between fibromyalgia (FM) patients and healthy controls. We also searched for correlations between neuroimaging abnormalities and neuropsychological variables. METHODS: Ten patients with FM and 10 gender- and age-matched control subjects were studied. A neuropsychological examination, DWI, DTI, and proton MRS were performed on the brain areas known to be associated with pain processing. RESULTS: Compared with healthy controls, FM patients had significantly higher levels of glutamate + glutamine (Glx) (mean +/- SD, 10.71 +/- 0.50 arbitrary institutional units versus 9.89 +/- 1.04; P = 0.049) and higher glutamate + glutamine/creatine (Glx/Cr) ratios (1.90 +/- 0.12 versus 1.72 +/- 0.23; P = 0.034) in the posterior gyrus. Myoinositol (Ins) levels of the right and left hippocampi were significantly lower in FM patients (4.49 +/- 0.74 versus 5.17 +/- 0.62; P = 0.008 and 4.91 +/- 0.85 versus 6.09 +/- 0.78; P = 0.004, respectively). In FM patients, decreased myoinositol/creatine (Ins/Cr) ratios were found in the left sensorimotor area (P = 0.05) and the left hippocampus (P = 0.002) and lower levels of choline (P = 0.019) and N-acetyl aspartate + N-acetyl aspartyl glutamate (NAA + NAG) (P = 0.034) in the left hippocampus. Significant correlations between depression, pain, and global function and the posterior gyrus Glx levels and Glx/Cr ratios were observed. CONCLUSIONS: Glx within the posterior gyrus could be a pathologic factor in FM. Hippocampal dysfunction may be partially responsible for the depressive symptoms of FM. Additional studies with larger samples are required to confirm these preliminary data.
+DO  - 10.1186/ar3072 
+VL  - 12
+IS  - 4
+SP  - R134
+CY  - England
+SN  - 1478-6354 (Linking)
+U1  - 132250881
+U2  - 20609227
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Brain dysfunction in fibromyalgia and somatization disorder using proton magnetic resonance spectroscopy: a controlled study.
+JF  - Acta psychiatrica Scandinavica
+A1  - Fayed N
+A1  - Andres E
+A1  - Rojas G
+A1  - Moreno S
+A1  - Serrano-Blanco A
+A1  - Roca M
+A1  - Garcia-Campayo J
+ST  - Fayed (2012)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Brain/*metabolism/pathology/physiopathology
+KW  - Case-Control Studies
+KW  - Cross-Sectional Studies
+KW  - Fibromyalgia/*metabolism/pathology/physiopathology
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+KW  - Neuroimaging
+KW  - Pain Measurement
+KW  - Psychiatric Status Rating Scales
+KW  - Somatoform Disorders/*metabolism/pathology/physiopathology
+PY  - 2012
+DA  - 2012/08//
+Y1  - 2012/08//
+AB  - OBJECTIVE: To evaluate the brain metabolite patterns in patients with fibromyalgia (FM) and somatization disorder (STD) compared with healthy controls through spectroscopy techniques and correlate these patterns with psychological variables. METHOD: Design. Controlled, cross-sectional study. Sample. Patients were recruited from primary care in Zaragoza, Spain. The control group was recruited from hospital staff. Patients were administered questionnaires on pain catastrophizing, anxiety, depression, pain, quality of life, and cognitive impairment. All patients underwent Magnetic Resonance Imaging and magnetic resonance spectroscopy (MRS). RESULTS: A significant increase was found in the glutamate + glutamine (Glx) levels in the posterior cingulate cortex (PCC): 10.73 (SD: 0.49) for FM and 9.67 (SD: 1.10) for STD 9.54 (SD: 1.46) compared with controls (P = 0.043). In the FM + STD group, a correlation between Glx and pain catastrophizing in PCC (r = 0.397; P = 0.033) and between quality of life and the myo-inositol/creatine ratio in the left hippocampus (r = -0.500; P = 0.025) was found. To conclude Glutamate seems to be relevant in the molecular processes involved in FM and STD. It also opens the door for Proton MRS ((1) H-MRS) in STD and suggests that reducing glutamatergic activity through pharmacological treatment could improve the outcome of patients with FM and STD. CONCLUSION: Glutamate seems to be relevant in the molecular processes involved in FM and STD. It also opens the door for Proton MRS ((1) H-MRS) in STD and suggests that reducing glutamatergic activity through pharmacological treatment could improve the outcome of patients with FM and STD.
+DO  - 10.1111/j.1600-0447.2011.01820.x 
+VL  - 126
+IS  - 2
+SP  - 115
+EP  - 25
+CY  - United States
+SN  - 0001-690X (Linking)
+U1  - 132250877
+U2  - 22211322
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Changes in metabolites after treatment with memantine in fibromyalgia. A double-blind randomized controlled trial with magnetic resonance spectroscopy with a 6-month follow-up.
+JF  - CNS neuroscience & therapeutics
+A1  - Fayed N
+A1  - Olivan-Blazquez B
+A1  - Herrera-Mercadal P
+A1  - Puebla-Guedea M
+A1  - Perez-Yus MC
+A1  - Andres E
+A1  - Lopez del Hoyo Y
+A1  - Magallon R
+A1  - Viguera L
+A1  - Garcia-Campayo J
+ST  - Fayed (2014)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/*analogs & derivatives/metabolism
+KW  - Brain/drug effects/*metabolism
+KW  - Creatine
+KW  - Dopamine Agents/pharmacology/*therapeutic use
+KW  - Double-Blind Method
+KW  - Female
+KW  - *Fibromyalgia/drug therapy/metabolism/pathology
+KW  - Follow-Up Studies
+KW  - Glutamic Acid
+KW  - Glutamine
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - *Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Memantine/pharmacology/*therapeutic use
+KW  - Mental Status Schedule
+KW  - Middle Aged
+KW  - Surveys and Questionnaires
+KW  - Treatment Outcome
+KW  - Chronic pain
+KW  - Fibromyalgia
+KW  - Magnetic Resonance Spectroscopy
+KW  - Memantine
+KW  - Randomized controlled trial
+PY  - 2014
+DA  - 2014/11//
+Y1  - 2014/11//
+AB  - AIM: To evaluate the efficacy of memantine on metabolite levels in different areas of the brain and to determine whether changes in metabolite levels correlate with clinical variables in Fibromyalgia (FM) patients. METHODS: Doubled-blind parallel randomized controlled trial. Twenty-five patients diagnosed with FM were enrolled in the study. Patients were administered questionnaires on pain, anxiety, depression, quality of life, and cognitive impairment, and single-voxel MRS of the brain was performed. All assessments were performed at baseline and after 6 months of treatment with memantine or placebo. RESULTS: Patients treated with memantine exhibited a significant increase in the glutamate (P = 0.010), glutamate/creatine ratio (P = 0.013), combined glutamate + glutamine (P = 0.016) and total N-acetyl-aspartate (NAA+NAAG) (P = 0.034) in the posterior cingulate cortex compared with those on placebo. Furthermore, the memantine group exhibited increases in creatine (P = 0.013) and choline (Cho) (P = 0.025) in the right posterior insula and also a correlation between choline and the Fibromyalgia Impact Questionnaire (FIQ) in the posterior insula (P = 0.050) was observed. CONCLUSION: Memantine treatment resulted in an increase in cerebral metabolism in FM patients, suggesting its utility for the treatment of the illness.
+DO  - 10.1111/cns.12314 
+VL  - 20
+IS  - 11
+SP  - 999
+EP  - 1007
+CY  - England
+SN  - 1755-5930 (Linking)
+U1  - 132250869
+U2  - 25230216
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Higher glutamate+glutamine and reduction of N-acetylaspartate in posterior cingulate according to age range in patients with cognitive impairment and/or pain.
+JF  - Academic radiology
+A1  - Fayed N
+A1  - Andres E
+A1  - Viguera L
+A1  - Modrego PJ
+A1  - Garcia-Campayo J
+ST  - Fayed (2014)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Age Factors
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - Aspartic Acid/*analogs & derivatives/metabolism
+KW  - Case-Control Studies
+KW  - Cognition Disorders/*metabolism
+KW  - Creatine/metabolism
+KW  - Female
+KW  - Glutamic Acid/*metabolism
+KW  - Glutamine/*metabolism
+KW  - Gyrus Cinguli/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy/methods
+KW  - Male
+KW  - Middle Aged
+KW  - Pain/*metabolism
+KW  - Prospective Studies
+KW  - Cognitive impairment
+KW  - magnetic resonance spectroscopy
+KW  - pain
+KW  - posterior cingulate cortex voxel
+PY  - 2014
+DA  - 2014/09//
+Y1  - 2014/09//
+AB  - RATIONALE AND OBJECTIVES: The aim of the study was to analyze 1) whether the metabolite levels in the posterior cingulate cortex (PCC) are different in healthy individuals compared to a group of patients with cognitive impairment and/or pain and 2) whether there exists a correlation between brain metabolites and the age of a patient. MATERIALS AND METHODS: Two hundred seven patients with cognitive impairment and/or pain (66 mild cognitive impairment, 54 fibromyalgia, 36 Alzheimer disease, 33 interictal migraine, 10 somatization disorder, and 8 after trigeminal neuralgia, and 193 healthy participants adjusted for gender and age. Proton magnetic resonance spectroscopy (MRS) of the brain was performed with the voxel placed in the ventral PCC and postprocessed with LCModel (Stephen Provencher, Oakville, Ontario, Canada). RESULTS: Using linear regression and adjusting for gender and age, mean brain metabolite values for the pathological group, when compared to healthy controls, were significantly lower in N-acetylaspartate (P=.003) and N-acetylaspartate/creatine (P=.015) and significantly greater in glutamate+glutamine (P<.001) and glutamate+glutamine/creatine (P<.000). All metabolites were significantly correlated with age: glutamate, glutamate+glutamine, N-acetylaspartate, and their creatine ratios exhibited a negative correlation, whereas myoinositol and choline exhibited a positive correlation. CONCLUSIONS: Although the number of patients is relatively small with heterogeneous state of disease, MRS in PCC may serve as a useful noninvasive tool for diagnostic of patients with cognitive impairment and pain.
+DO  - 10.1016/j.acra.2014.04.009 
+VL  - 21
+IS  - 9
+SP  - 1211
+EP  - 7
+CY  - United States
+SN  - 1076-6332 (Linking)
+U1  - 132250870
+U2  - 24981958
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Changes in metabolites in the brain of patients with fibromyalgia after treatment with an NMDA receptor antagonist.
+JF  - The neuroradiology journal
+A1  - Fayed N
+A1  - Olivan B
+A1  - Lopez Del Hoyo Y
+A1  - Andres E
+A1  - Perez-Yus MC
+A1  - Fayed A
+A1  - Angel LF
+A1  - Serrano-Blanco A
+A1  - Roca M
+A1  - Garcia Campayo J
+ST  - Fayed (2019)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Anxiety/diagnostic imaging/metabolism/psychology
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Brain/diagnostic imaging/*metabolism
+KW  - Cerebral Cortex/diagnostic imaging/metabolism
+KW  - Choline/metabolism
+KW  - Cognitive Dysfunction/diagnostic imaging/metabolism/psychology
+KW  - Creatine/metabolism
+KW  - Depression/diagnostic imaging/metabolism/psychology
+KW  - Excitatory Amino Acid Antagonists/*therapeutic use
+KW  - Female
+KW  - Fibromyalgia/diagnostic imaging/*drug therapy/metabolism/psychology
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Gyrus Cinguli/diagnostic imaging/metabolism
+KW  - Hippocampus/diagnostic imaging/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Memantine/*therapeutic use
+KW  - Middle Aged
+KW  - Pain
+KW  - Quality of Life
+KW  - Receptors
+KW  - N-Methyl-D-Aspartate/antagonists & inhibitors
+KW  - Treatment Outcome
+KW  - Fibromyalgia
+KW  - magnetic resonance spectroscopy
+KW  - memantine
+PY  - 2019
+DA  - 2019/12//
+Y1  - 2019/12//
+AB  - The aims of this work were to evaluate whether the treatment of patients with fibromyalgia with memantine is associated with significant changes in metabolite concentrations in the brain, and to explore any changes in clinical outcome measures. Magnetic resonance spectroscopy was performed of the right anterior and posterior insula, both hippocampi and the posterior cingulate cortex. Questionnaires on pain, anxiety, depression, global function, quality of life and cognitive impairment were used. Ten patients were studied at baseline and after three months of treatment with memantine. Significant increases were observed in the following areas: N-acetylaspartate (4.47 at baseline vs. 4.71 at three months, p = 0.02) and N-acetylaspartate+N-acetylaspartate glutamate in the left hippocampus (5.89 vs. 5.98; p = 0.007); N-acetylaspartate+N-acetylaspartate glutamate in the right hippocampus (5.31 vs 5.79; p = 0.01) and the anterior insula (7.56 vs. 7.70; p = 0.033); glutamate+glutamine/creatine ratio in the anterior insula (2.03 vs. 2.17; p = 0.022) and the posterior insula (1.77 vs. 2.00; p = 0.004); choline/creatine ratio in the posterior cingulate (0.18 vs. 0.19; p = 0.023); and creatine in the right hippocampus (3.60 vs. 3.85; p = 0.007). At the three-month follow-up, memantine improved cognitive function assessed by the Cognition Mini-Exam (31.50, SD = 2.95 vs. 34.40, SD = 0.6; p = 0.005), depression measured by the Hamilton Depression Scale (7.70, SD = 0.81 vs. 7.56, SD = 0.68; p = 0.042) and severity of illness measured by the Clinical Global Impression severity scale (5.79, SD = 0.96 vs. 5.31, SD = 1.12; p = 0.007). Depression, clinical global impression and cognitive function showed improvement with memantine. Magnetic resonance spectroscopy could be useful in monitoring response to the pharmacological treatment of fibromyalgia.
+DO  - 10.1177/1971400919857544 
+VL  - 32
+IS  - 6
+SP  - 408
+EP  - 419
+CY  - United States
+SN  - 1971-4009 (Linking)
+U1  - 132250858
+U2  - 31215319
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Metabolic abnormalities in pain-processing regions of patients with fibromyalgia: a 3T MR spectroscopy study.
+JF  - AJNR. American journal of neuroradiology
+A1  - Feraco P
+A1  - Bacci A
+A1  - Pedrabissi F
+A1  - Passamonti L
+A1  - Zampogna G
+A1  - Pedrabissi F
+A1  - Malavolta N
+A1  - Leonardi M
+ST  - Feraco (2011)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Choline/metabolism
+KW  - Chronic Pain/diagnosis/metabolism
+KW  - Creatinine/metabolism
+KW  - Dipeptides/metabolism
+KW  - Female
+KW  - Fibromyalgia/*diagnosis/*metabolism
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy/*methods
+KW  - Male
+KW  - Middle Aged
+KW  - Prefrontal Cortex/*metabolism
+KW  - Thalamus/*metabolism
+PY  - 2011
+DA  - 2011/10//
+Y1  - 2011/10//
+AB  - BACKGROUND AND PURPOSE: A growing body of evidence suggests the involvement of the brain in FM. The purpose of this proton MRS study was to test the hypothesis that there are metabolic alterations in some brain regions processing pain (VLPFC and thalamus) in patients with FM compared with HC. MATERIALS AND METHODS: Twelve patients with FM (30-54 years of age; mean age, 43.2 years), and 12 HC, matched for age and sex, underwent 1 session of single-voxel MRS performed on a 3T MR imaging scanner. MRS spectra were acquired with a PRESS for localization. The raw data from each spectrum was evaluated with an LCModel. T tests were used to evaluate differences of brain metabolites between groups. The Pearson correlation tested the relationship of metabolite ratios and clinical symptoms. RESULTS: Glx/Cr and Glu/Cr ratios within the VLPFC of both sides were significantly higher in patients than in HC (P < .01). No significant differences of metabolites between groups were found in the thalami. Positive correlations were found between Glu/Cr in the left thalamus and the VAS for pain (r = 0.730, P = .007) and between mIns/Cr in the right VLPFC and the VAS for pain (r = 0.607, P = .037) and the FIQ (r = 0.719, P = .008). CONCLUSIONS: The presence of elevated Glu/Cr levels in VLPFC strengthens the opinion that a complex neurophysiologic imbalance of different brain areas involved in pain processing underlies FM. These data may be useful in the diagnosis and development of more effective pharmacologic treatments.
+DO  - 10.3174/ajnr.A2550 
+VL  - 32
+IS  - 9
+SP  - 1585
+EP  - 90
+CY  - United States
+SN  - 0195-6108 (Linking)
+U1  - 132250879
+U2  - 21799042
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Neurochemical Correlates of Brain Atrophy in Fibromyalgia Syndrome: A Magnetic Resonance Spectroscopy and Cortical Thickness Study.
+JF  - Brain sciences
+A1  - Feraco P
+A1  - Nigro S
+A1  - Passamonti L
+A1  - Grecucci A
+A1  - Caligiuri ME
+A1  - Gagliardo C
+A1  - Bacci A
+ST  - Feraco (2020)
+KW  - eppi-reviewer
+KW  - MR spectroscopy
+KW  - brain MRI
+KW  - chronic pain
+KW  - cortical thickness
+KW  - fibromyalgia
+KW  - glutamate excitotoxicity
+PY  - 2020
+DA  - 2020/06//
+Y1  - 2020/06//
+AB  - (1) Background: Recently, a series of clinical neuroimaging studies on fibromyalgia (FM) have shown a reduction in cortical volume and abnormally high glutamate (Glu) and glutamate + glutamine (Glx) levels in regions associated with pain modulation. However, it remains unclear whether the volumetric decreases and increased Glu levels in FM are related each other. We hypothesized that higher Glu levels are related to decreases in cortical thickness (CT) and volume in FM patients. (2) Methods: Twelve females with FM and 12 matched healthy controls participated in a session of combined 3.0 Tesla structural magnetic resonance imaging (MRI) and single-voxel MR spectroscopy focused on the thalami and ventrolateral prefrontal cortices (VLPFC). The thickness of the cortical and subcortical gray matter structures and the Glu/Cr and Glx/Cr ratios were estimated. Statistics included an independent t-test and Spearman's test. (3) Results: The Glu/Cr ratio of the left VLPFC was negatively related to the CT of the left inferior frontal gyrus (pars opercularis (p = 0.01; r = -0.75) and triangularis (p = 0.01; r = -0.70)). Moreover, the Glx/Cr ratio of the left VLPFC was negatively related to the CT of the left middle anterior cingulate gyrus (p = 0.003; r = -0.81). Significantly lower CTs in FM were detected in subparts of the cingulate gyrus on both sides and in the right inferior occipital gyrus (p < 0.001). (4) Conclusions: Our findings are in line with previous observations that high glutamate levels can be related, in a concentration-dependent manner, to the morphological atrophy described in FM patients.
+DO  - 10.3390/brainsci10060395 
+VL  - 10
+IS  - 6
+CY  - Switzerland
+SN  - 2076-3425 (Linking)
+U1  - 132250855
+U2  - 32575715
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Reduced insular gamma-aminobutyric acid in fibromyalgia.
+JF  - Arthritis and rheumatism
+A1  - Foerster BR
+A1  - Petrou M
+A1  - Edden RA
+A1  - Sundgren PC
+A1  - Schmidt-Wilcke T
+A1  - Lowe SE
+A1  - Harte SE
+A1  - Clauw DJ
+A1  - Harris RE
+ST  - Foerster (2012)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Cerebral Cortex/*metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Gyrus Cinguli/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Occipital Lobe/metabolism
+KW  - gamma-Aminobutyric Acid/*metabolism
+PY  - 2012
+DA  - 2012/02//
+Y1  - 2012/02//
+AB  - OBJECTIVE: Recent scientific findings have reinvigorated interest in examining the role of gamma-aminobutyric acid (GABA), the major inhibitory central nervous system neurotransmitter, in chronic pain conditions. Decreased inhibitory neurotransmission is a proposed mechanism in the pathophysiology of chronic pain syndromes such as fibromyalgia (FM). The purpose of this study was to test the hypothesis that decreased levels of insular and anterior cingulate GABA would be present in FM patients, and that the concentration of this neurotransmitter would be correlated with pressure-pain thresholds. METHODS: Sixteen FM patients and 17 age- and sex-matched healthy controls underwent pressure-pain testing and a 3T proton magnetic resonance spectroscopy session in which the right anterior insula, right posterior insula, anterior cingulate, and occipital cortex were examined in subjects at rest. RESULTS: GABA levels in the right anterior insula were significantly lower in FM patients compared with healthy controls (mean +/- SD 1.17 +/- 0.24 arbitrary institutional units versus 1.42 +/- 0.32 arbitrary institutional units; P = 0.016). There was a trend toward increased GABA levels in the anterior cingulate of FM patients compared with healthy controls (P = 0.06). No significant differences between groups were detected in the posterior insula or occipital cortex (P > 0.05 for all comparisons). Within the right posterior insula, higher levels of GABA were positively correlated with pressure-pain thresholds in the FM patients (Spearman's rho = 0.63; P = 0.02). CONCLUSION: Diminished inhibitory neurotransmission resulting from lower concentrations of GABA within the right anterior insula may play a role in the pathophysiology of FM and other central pain syndromes.
+DO  - 10.1002/art.33339 
+VL  - 64
+IS  - 2
+SP  - 579
+EP  - 83
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250878
+U2  - 21913179
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Excitatory and inhibitory brain metabolites as targets of motor cortex transcranial direct current stimulation therapy and predictors of its efficacy in fibromyalgia.
+JF  - Arthritis & rheumatology (Hoboken, N.J.)
+A1  - Foerster BR
+A1  - Nascimento TD
+A1  - DeBoer M
+A1  - Bender MA
+A1  - Rice IC
+A1  - Truong DQ
+A1  - Bikson M
+A1  - Clauw DJ
+A1  - Zubieta JK
+A1  - Harris RE
+A1  - DaSilva AF
+ST  - Foerster (2015)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Brain/*metabolism/pathology
+KW  - Female
+KW  - Fibromyalgia/*metabolism/pathology/*therapy
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Longitudinal Studies
+KW  - Middle Aged
+KW  - Motor Cortex/*metabolism/pathology
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - *Transcranial Direct Current Stimulation
+KW  - Treatment Outcome
+KW  - gamma-Aminobutyric Acid/metabolism
+PY  - 2015
+DA  - 2015/02//
+Y1  - 2015/02//
+AB  - OBJECTIVE: Transcranial direct current stimulation (tDCS) has been shown to improve pain symptoms in fibromyalgia (FM), a central pain syndrome whose underlying mechanisms are not well understood. This study was undertaken to explore the neurochemical action of tDCS in the brain of patients with FM, using proton magnetic resonance spectroscopy (1H-MRS). METHODS: Twelve patients with FM underwent sham tDCS over the left motor cortex (anode placement) and contralateral supraorbital cortex (cathode placement) for 5 consecutive days, followed by a 7-day washout period and then active tDCS for 5 consecutive days. Clinical pain assessment and 1H-MRS testing were performed at baseline, the week following the sham tDCS trial, and the week following the active tDCS trial. RESULTS: Clinical pain scores decreased significantly between the baseline and active tDCS time points (P = 0.04). Levels of glutamate + glutamine (Glx) in the anterior cingulate were significantly lower at the post-active tDCS assessment compared with the post-sham tDCS assessment (P = 0.013), and the decrease in Glx levels in the thalami between these time points approached significance (P = 0.056). From baseline to the post-sham tDCS assessment, levels of N-acetylaspartate (NAA) in the posterior insula increased significantly (P = 0.015). There was a trend toward increased levels of gamma-aminobutyric acid (GABA) in the anterior insula after active tDCS, compared with baseline (P = 0.064). Baseline anterior cingulate Glx levels correlated significantly with changes in pain score, both for the time period from baseline to sham tDCS (beta1 = 1.31, P < 0.001) and for the time period from baseline to active tDCS (beta1= 1.87, P < 0.001). CONCLUSION: The present findings suggest that GABA, Glx, and NAA play an important role in the pathophysiology of FM and its modulation by tDCS.
+DO  - 10.1002/art.38945 
+VL  - 67
+IS  - 2
+SP  - 576
+EP  - 81
+CY  - United States
+SN  - 2326-5191 (Linking)
+U1  - 132250868
+U2  - 25371383
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Decreased muscle concentrations of ATP and PCR in the quadriceps muscle of fibromyalgia patients--a 31P-MRS study.
+JF  - European journal of pain (London, England)
+A1  - Gerdle B
+A1  - Forsgren MF
+A1  - Bengtsson A
+A1  - Leinhard OD
+A1  - Soren B
+A1  - Karlsson A
+A1  - Brandejsky V
+A1  - Lund E
+A1  - Lundberg P
+ST  - Gerdle (2013)
+KW  - eppi-reviewer
+KW  - Adenosine Triphosphate/*metabolism
+KW  - Adult
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging/methods
+KW  - Magnetic Resonance Spectroscopy/methods
+KW  - Middle Aged
+KW  - Mitochondria, Muscle/metabolism
+KW  - Polymerase Chain Reaction/methods
+KW  - Quadriceps Muscle/*metabolism/physiopathology
+PY  - 2013
+DA  - 2013/09//
+Y1  - 2013/09//
+AB  - BACKGROUND AND METHODS: Fibromyalgia (FMS) has a prevalence of approximately 2% in the population. Central alterations have been described in FMS, but there is not consensus with respect to the role of peripheral factors for the maintenance of FMS. 31P magnetic resonance spectroscopy (31P-MRS) has been used to investigate the metabolism of phosphagens in muscles of FMS patients, but the results in the literature are not in consensus. The aim was to investigate the quantitative content of phosphagens and pH in resting quadriceps muscle of patients with FMS (n = 19) and in healthy controls (CONTROLS; n = 14) using (31) P-MRS. It was also investigated whether the concentrations of these substances correlated with measures of pain and/or physical capacity. RESULTS: Significantly lower concentrations of adenosine triphosphate (ATP) and phosphocreatinine (PCr; 28-29% lower) were found in FMS. No significant group differences existed with respect to inorganic phosphate (Pi), Pi/PCr and pH. The quadriceps muscle fat content was significantly higher in FMS than in CONTROLS [FMS: 9.0 +/- 0.5% vs. CONTROLS: 6.6 +/- 0.6%; (mean +/- standard error); P = 0.005]. FMS had significantly lower hand and leg capacity according to specific physical test, but there were no group differences in body mass index, subjective activity level and in aerobic fitness. In FMS, the specific physical capacity in the leg and the hand correlated positively with the concentrations of ATP and PCr; no significant correlations were found with pain intensities. CONCLUSIONS: Alterations in intramuscular ATP, PCr and fat content in FMS probably reflect a combination of inactivity related to pain and dysfunction of muscle mitochondria.
+DO  - 10.1002/j.1532-2149.2013.00284.x 
+VL  - 17
+IS  - 8
+SP  - 1205
+EP  - 15
+CY  - England
+SN  - 1090-3801 (Linking)
+U1  - 132250874
+U2  - 23364928
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Evidence of Mitochondrial Dysfunction in Fibromyalgia: Deviating Muscle Energy Metabolism Detected Using Microdialysis and Magnetic Resonance.
+JF  - Journal of clinical medicine
+A1  - Gerdle B
+A1  - Ghafouri B
+A1  - Lund E
+A1  - Bengtsson A
+A1  - Lundberg P
+A1  - Ettinger-Veenstra HV
+A1  - Leinhard OD
+A1  - Forsgren MF
+ST  - Gerdle (2020)
+KW  - eppi-reviewer
+KW  - ATP
+KW  - PCr
+KW  - chronic pain
+KW  - fibromyalgia
+KW  - magnetic resonance imaging
+KW  - magnetic resonance spectroscopy
+KW  - microdialysis
+KW  - muscle
+PY  - 2020
+DA  - 2020/10//
+Y1  - 2020/10//
+AB  - In fibromyalgia (FM) muscle metabolism, studies are sparse and conflicting associations have been found between muscle metabolism and pain aspects. This study compared alterations in metabolic substances and blood flow in erector spinae and trapezius of FM patients and healthy controls. FM patients (n = 33) and healthy controls (n = 31) underwent a clinical examination that included pressure pain thresholds and physical tests, completion of a health questionnaire, participation in microdialysis investigations of the etrapezius and erector spinae muscles, and also underwent phosphorus-31 magnetic resonance spectroscopy of the erector spinae muscle. At the baseline, FM had significantly higher levels of pyruvate in both muscles. Significantly lower concentrations of phosphocreatine (PCr) and nucleotide triphosphate (mainly adenosine triphosphate) in erector spinae were found in FM. Blood flow in erector spinae was significantly lower in FM. Significant associations between metabolic variables and pain aspects (pain intensity and pressure pain threshold PPT) were found in FM. Our results suggest that FM has mitochondrial dysfunction, although it is unclear whether inactivity, obesity, aging, and pain are causes of, the results of, or coincidental to the mitochondrial dysfunction. The significant regressions of pain intensity and PPT in FM agree with other studies reporting associations between peripheral biological factors and pain aspects.
+DO  - 10.3390/jcm9113527 
+VL  - 9
+IS  - 11
+CY  - Switzerland
+SN  - 2077-0383 (Linking)
+U1  - 132250854
+U2  - 33142767
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Pain and the biochemistry of fibromyalgia: patterns of peripheral cytokines and chemokines contribute to the differentiation between fibromyalgia and controls and are associated with pain, fat infiltration and content.
+JF  - Frontiers in pain research (Lausanne, Switzerland)
+A1  - Gerdle B
+A1  - Dahlqvist Leinhard O
+A1  - Lund E
+A1  - Lundberg P
+A1  - Forsgren MF
+A1  - Ghafouri B
+ST  - Gerdle (2024)
+KW  - eppi-reviewer
+KW  - adipose
+KW  - biomarker
+KW  - body composition
+KW  - fat
+KW  - fibromyalgia
+KW  - immune
+KW  - inflammation
+KW  - pain
+PY  - 2024
+DA  - 2024///
+Y1  - 2024///
+AB  - OBJECTIVES: This explorative study analyses interrelationships between peripheral compounds in saliva, plasma, and muscles together with body composition variables in healthy subjects and in fibromyalgia patients (FM). There is a need to better understand the extent cytokines and chemokines are associated with body composition and which cytokines and chemokines differentiate FM from healthy controls. METHODS: Here, 32 female FM patients and 30 age-matched female healthy controls underwent a clinical examination that included blood sample, saliva samples, and pain threshold tests. In addition, the subjects completed a health questionnaire. From these blood and saliva samples, a panel of 68 mainly cytokines and chemokines were determined. Microdialysis of trapezius and erector spinae muscles, phosphorus-31 magnetic resonance spectroscopy of erector spinae muscle, and whole-body magnetic resonance imaging for determination of body composition (BC)-i.e., muscle volume, fat content and infiltration-were also performed. RESULTS: After standardizing BC measurements to remove the confounding effect of Body Mass Index, fat infiltration and content are generally increased, and fat-free muscle volume is decreased in FM. Mainly saliva proteins differentiated FM from controls. When including all investigated compounds and BC variables, fat infiltration and content variables were most important, followed by muscle compounds and cytokines and chemokines from saliva and plasma. Various plasma proteins correlated positively with pain intensity in FM and negatively with pain thresholds in all subjects taken together. A mix of increased plasma cytokines and chemokines correlated with an index covering fat infiltration and content in different tissues. When muscle compounds were included in the analysis, several of these were identified as the most important regressors, although many plasma and saliva proteins remained significant. DISCUSSION: Peripheral factors were important for group differentiation between FM and controls. In saliva (but not plasma), cytokines and chemokines were significantly associated with group membership as saliva compounds were increased in FM. The importance of peripheral factors for group differentiation increased when muscle compounds and body composition variables were also included. Plasma proteins were important for pain intensity and sensitivity. Cytokines and chemokines mainly from plasma were also significantly and positively associated with a fat infiltration and content index. CONCLUSION: Our findings of associations between cytokines and chemokines and fat infiltration and content in different tissues confirm that inflammation and immune factors are secreted from adipose tissue. FM is clearly characterized by complex interactions between peripheral tissues and the peripheral and central nervous systems, including nociceptive, immune, and neuroendocrine processes.
+DO  - 10.3389/fpain.2024.1288024 
+VL  - 5
+IS  - 
+SP  - 1288024
+CY  - Switzerland
+SN  - 2673-561X (Linking)
+U1  - 132250839
+U2  - 38304854
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Fibromyalgia, chronic fatigue syndrome, and myofascial pain syndrome.
+JF  - Current opinion in rheumatology
+A1  - Goldenberg DL
+ST  - Goldenberg (1995)
+KW  - eppi-reviewer
+KW  - *Fatigue Syndrome
+KW  - Chronic/diagnosis/etiology/therapy
+KW  - *Fibromyalgia/diagnosis/etiology/therapy
+KW  - Humans
+KW  - *Myofascial Pain Syndromes/diagnosis/therapy
+PY  - 1995
+DA  - 1995/03//
+Y1  - 1995/03//
+AB  - Two important studies in which nuclear magnetic resonance spectroscopy was used convincingly demonstrated that muscle is not the primary pathologic factor in fibromyalgia. There were further studies reporting that fibromyalgia-chronic fatigue syndrome may follow well treated Lyme disease or mimic Lyme disease. The longest therapeutic trial to date in fibromyalgia demonstrated an initial modest effect of tricyclic medications, but at 6 months that efficacy was no longer evident. Investigation in both fibromyalgia and chronic fatigue syndrome now focuses on the central nervous system. The use of new technology, eg, neurohormonal assays and imaging such as single-photon emission computed tomography scan, may be important in understanding these elusive conditions.
+DO  - 10.1097/00002281-199503000-00011 
+VL  - 7
+IS  - 2
+SP  - 127
+EP  - 35
+CY  - United States
+SN  - 1040-8711 (Linking)
+U1  - 132250902
+U2  - 7766493
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Comparison of clinical and evoked pain measures in fibromyalgia.
+JF  - The journal of pain
+A1  - Harris RE
+A1  - Gracely RH
+A1  - McLean SA
+A1  - Williams DA
+A1  - Giesecke T
+A1  - Petzke F
+A1  - Sen A
+A1  - Clauw DJ
+ST  - Harris (2006)
+KW  - eppi-reviewer
+KW  - Acupuncture Analgesia/statistics & numerical data/trends
+KW  - Adult
+KW  - Chronic Disease/psychology/therapy
+KW  - Female
+KW  - Fibromyalgia/*diagnosis/*psychology/therapy
+KW  - Humans
+KW  - Longitudinal Studies
+KW  - Male
+KW  - Middle Aged
+KW  - Myofascial Pain Syndromes/physiopathology
+KW  - Pain/*diagnosis/*psychology
+KW  - Pain Management
+KW  - Pain Measurement/*methods
+KW  - Pain Threshold/physiology/*psychology
+KW  - Physical Stimulation/methods
+KW  - Predictive Value of Tests
+KW  - Pressure/adverse effects
+KW  - Statistics as Topic
+PY  - 2006
+DA  - 2006/07//
+Y1  - 2006/07//
+AB  - Evoked pain measures such as tender point count and dolorimetry are often used to determine tenderness in studies of fibromyalgia (FM). However, these measures frequently do not improve in clinical trials and are known to be influenced by factors other than pain such as distress and expectancy. The purpose of this investigation was to determine whether evoked pain paradigms that present pressure stimuli in a random fashion (eg, Multiple Random Staircase [MRS]) would track with clinical pain improvement in patients with FM better than traditional measures. Sixty-five subjects enrolled in a randomized clinical trial of acupuncture were observed longitudinally. Clinical pain was measured on a 101-point numerical rating scale (NRS) and the Short Form McGill Pain Questionnaire (SF-MPQ), whereas evoked pressure sensitivity was assessed via manual tender point count, dolorimetry, and MRS methods. Improvements in clinical pain and evoked pain were assessed irrespective of group assignment. Improvement was seen in clinical pain during the course of the trial as measured by both NRS (P = .032) and SF-MPQ (P = .001). The MRS was the only evoked pain measure to improve correspondingly with treatment (MRS, P = .001; tender point count and dolorimeter, P > .05). MRS change scores were correlated with changes in NRS pain ratings (P = .003); however, this association was not stronger than tender point or dolorimetry correlations with clinical pain improvement (P > .05). Pain sensitivity as assessed by random paradigms was associated with improvements in clinical FM pain. Sophisticated pain testing paradigms might be responsive to change in clinical trials. PERSPECTIVE: Trials in fibromyalgia often use both clinical and experimental methods of pain assessment; however, these two outcomes are often poorly correlated. We explore the relationship between changes in clinical and experimental pain within FM patients. Pressure pain testing that applies stimuli in a random order is associated with improvements in clinical pain, but this association was not stronger than other experimental techniques.
+DO  - 10.1016/j.jpain.2006.01.455 
+VL  - 7
+IS  - 7
+SP  - 521
+EP  - 7
+CY  - United States
+SN  - 1526-5900 (Linking)
+U1  - 132250892
+U2  - 16814691
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic levels of glutamate within the insula are associated with improvements in multiple pain domains in fibromyalgia.
+JF  - Arthritis and rheumatism
+A1  - Harris RE
+A1  - Sundgren PC
+A1  - Pang Y
+A1  - Hsu M
+A1  - Petrou M
+A1  - Kim SH
+A1  - McLean SA
+A1  - Gracely RH
+A1  - Clauw DJ
+ST  - Harris (2008)
+KW  - eppi-reviewer
+KW  - Acupuncture Therapy/methods
+KW  - Adult
+KW  - Biomarkers/metabolism
+KW  - Cerebral Cortex/*metabolism/pathology
+KW  - Female
+KW  - Fibromyalgia/*metabolism/pathology/therapy
+KW  - Glutamic Acid/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Pain/*metabolism/pathology
+KW  - Pain Management
+KW  - Severity of Illness Index
+KW  - Single-Blind Method
+PY  - 2008
+DA  - 2008/03//
+Y1  - 2008/03//
+AB  - OBJECTIVE: Fibromyalgia (FM) is a chronic widespread pain condition that is thought to arise from augmentation of central neural activity. Glutamate (Glu) is an excitatory neurotransmitter that functions in pain-processing pathways. This study was carried out to investigate the relationship between changing levels of Glu within the insula and changes in multiple pain domains in patients with FM. METHODS: Ten patients with FM underwent 2 sessions of proton magnetic resonance spectroscopy (H-MRS) and 2 sessions of functional magnetic resonance imaging (FMRI), each conducted before and after a nonpharmacologic intervention to reduce pain. During H-MRS, the anterior and posterior insular regions were examined separately using single-voxel spectroscopy. The levels of Glu and other metabolites were estimated relative to levels of creatine (Cr) (e.g., the Glu/Cr ratio). During FMRI, painful pressures were applied to the thumbnail to elicit neuronal activation. Experimental pressure-evoked pain thresholds and clinical pain ratings (on the Short Form of the McGill Pain Questionnaire [SF-MPQ]) were also assessed prior to each imaging session RESULTS: Both experimental pain (P = 0.047 versus pretreatment) and SF-MPQ-rated clinical pain (P = 0.043 versus pretreatment) were reduced following treatment. Changes from pre- to posttreatment in Glu/Cr were negatively correlated with changes in experimental pain thresholds (r = -0.95, P < 0.001) and positively correlated with changes in clinical pain (r = 0.85, P = 0.002). Changes in the FMRI-determined blood oxygenation level-dependent effect (a measure of neural activation) were positively correlated with changes in Glu/Cr within the contralateral insula (r = 0.81, P = 0.002). CONCLUSION: Changes in Glu levels within the insula are associated with changes in multiple pain domains in patients with FM. Thus, H-MRS data may serve as a useful biomarker and surrogate end point for clinical trials of FM.
+DO  - 10.1002/art.23223 
+VL  - 58
+IS  - 3
+SP  - 903
+EP  - 7
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250890
+U2  - 18311814
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Elevated insular glutamate in fibromyalgia is associated with experimental pain.
+JF  - Arthritis and rheumatism
+A1  - Harris RE
+A1  - Sundgren PC
+A1  - Craig AD
+A1  - Kirshenbaum E
+A1  - Sen A
+A1  - Napadow V
+A1  - Clauw DJ
+ST  - Harris (2009)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Case-Control Studies
+KW  - Cerebral Cortex/*metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism/physiopathology
+KW  - Glutamic Acid/*metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Pain/*metabolism/physiopathology
+KW  - Pain Threshold/physiology
+PY  - 2009
+DA  - 2009/10//
+Y1  - 2009/10//
+AB  - OBJECTIVE: Central pain augmentation resulting from enhanced excitatory and/or decreased inhibitory neurotransmission is a proposed mechanism underlying the pathophysiology of functional pain syndromes such as fibromyalgia (FM). Multiple functional magnetic resonance imaging studies implicate the insula as a region of heightened neuronal activity in this condition. Since glutamate (Glu) is a major cortical excitatory neurotransmitter that functions in pain neurotransmission, we undertook this study to test our hypothesis that increased levels of insular Glu would be present in FM patients and that the concentration of this molecule would be correlated with pain report. METHODS: Nineteen FM patients and 14 age- and sex-matched pain-free controls underwent pressure pain testing and a proton magnetic resonance spectroscopy session in which the right anterior insula and right posterior insula were examined at rest. RESULTS: Compared with healthy controls, FM patients had significantly higher levels of Glu (mean +/- SD 8.09 +/- 0.72 arbitrary institutional units versus 6.86 +/- 1.29 arbitrary institutional units; P = 0.009) and combined glutamine and Glu (i.e., Glx) (mean +/- SD 12.38 +/- 0.94 arbitrary institutional units versus 10.59 +/- 1.48 arbitrary institutional units; P = 0.001) within the right posterior insula. No significant differences between groups were detected in any of the other major metabolites within this region (P > 0.05 for all comparisons), and no group differences were detected for any metabolite within the right anterior insula (P > 0.11 for all comparisons). Within the right posterior insula, higher levels of Glu and Glx were associated with lower pressure pain thresholds across both groups for medium pain (for Glu, r = -0.43, P = 0.012; for Glx, r = -0.50, P = 0.003). CONCLUSION: Enhanced glutamatergic neurotransmission resulting from higher concentrations of Glu within the posterior insula may play a role in the pathophysiology of FM and other central pain augmentation syndromes.
+DO  - 10.1002/art.24849 
+VL  - 60
+IS  - 10
+SP  - 3146
+EP  - 52
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250884
+U2  - 19790053
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Elevated excitatory neurotransmitter levels in the fibromyalgia brain.
+JF  - Arthritis research & therapy
+A1  - Harris RE
+ST  - Harris (2010)
+KW  - eppi-reviewer
+KW  - *Brain Chemistry
+KW  - Fibromyalgia/*metabolism
+KW  - Glutamic Acid/analysis/metabolism
+KW  - Glutamine/analysis/metabolism
+KW  - Humans
+KW  - Neurotransmitter Agents/*analysis/metabolism
+PY  - 2010
+DA  - 2010///
+Y1  - 2010///
+AB  - Consistent brain imaging findings demonstrate that neurobiological factors may contribute to the pathology of 'central' pain states such as fibromyalgia (FM). Studies using proton magnetic resonance spectroscopy suggest that glutamate (Glu), a key excitatory neurotransmitter, may be present in higher concentrations within the brains of FM patients. This neurotransmitter imbalance is present in multiple brain regions that have been implicated in processing pain information. However, it is unknown if elevated Glu is acting at the synapse. New investigations are needed to investigate the molecular action of Glu in FM and to investigate these findings during treatment that modulates glutamatergic neurotransmission.
+DO  - 10.1186/ar3136 
+VL  - 12
+IS  - 5
+SP  - 141
+CY  - England
+SN  - 1478-6354 (Linking)
+U1  - 132250880
+U2  - 20959024
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Pregabalin rectifies aberrant brain chemistry, connectivity, and functional response in chronic pain patients.
+JF  - Anesthesiology
+A1  - Harris RE
+A1  - Napadow V
+A1  - Huggins JP
+A1  - Pauer L
+A1  - Kim J
+A1  - Hampson J
+A1  - Sundgren PC
+A1  - Foerster B
+A1  - Petrou M
+A1  - Schmidt-Wilcke T
+A1  - Clauw DJ
+ST  - Harris (2013)
+KW  - eppi-reviewer
+KW  - Adolescent
+KW  - Adult
+KW  - Aged
+KW  - Analgesics/*therapeutic use
+KW  - Brain Chemistry/*drug effects
+KW  - Chronic Pain/*drug therapy/*physiopathology
+KW  - Cross-Over Studies
+KW  - Double-Blind Method
+KW  - Female
+KW  - Fibromyalgia/drug therapy
+KW  - Glutamic Acid/physiology
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Middle Aged
+KW  - Neural Pathways/*drug effects
+KW  - Pain Measurement
+KW  - Pregabalin
+KW  - Young Adult
+KW  - gamma-Aminobutyric Acid/*analogs & derivatives/therapeutic use
+PY  - 2013
+DA  - 2013/12//
+Y1  - 2013/12//
+AB  - BACKGROUND: Chronic pain remains a significant challenge for modern health care as its pathologic mechanisms are largely unknown and preclinical animal models suffer from limitations in assessing this complex subjective experience. However, human brain neuroimaging techniques enable the assessment of functional and neurochemical alterations in patients experiencing chronic pain and how these factors may dynamically change with pharmacologic treatment. METHODS: To identify the clinical action of pregabalin, a proven analgesic, the authors performed three complementary brain neuroimaging procedures: (proton magnetic resonance spectroscopy, functional magnetic resonance imaging, and functional connectivity magnetic resonance imaging) in 17 chronic pain patients diagnosed with fibromyalgia. RESULTS: The authors found that pregabalin but not placebo reduces combined glutamate + glutamine levels within the posterior insula (pregabalin P = 0.016; placebo P = 0.71). Interestingly, reductions in clinical pain were associated with reductions in brain connectivity of this structure to brain regions within the default mode network during pregabalin (r = 0.82; P = 0.001) but not placebo (r = -0.13; P = 0.63). Response of default mode network regions to experimental pain was also reduced with pregabalin (P = 0.018) but not placebo (P = 0.182). Perhaps most importantly, baseline values for all three neuroimaging markers predicted subsequent analgesic response to pregabalin but not placebo. CONCLUSIONS: The results of this study suggest that pregabalin works in part by reducing insular glutamatergic activity, leading to a reduction of the increased functional connectivity seen between brain regions in chronic pain states. The study also supports a role for human brain imaging in the development, assessment, and personalized use of central-acting analgesics.
+DO  - 10.1097/ALN.0000000000000017 
+VL  - 119
+IS  - 6
+SP  - 1453
+EP  - 64
+CY  - United States
+SN  - 0003-3022 (Linking)
+U1  - 132250871
+U2  - 24343290
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - 31P magnetic resonance spectroscopy of skeletal muscle in patients with fibromyalgia.
+JF  - The Journal of rheumatology
+A1  - Jacobsen S
+A1  - Jensen KE
+A1  - Thomsen C
+A1  - Danneskiold-Samsoe B
+A1  - Henriksen O
+ST  - Jacobsen (1992)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Creatinine/analysis
+KW  - Energy Metabolism/physiology
+KW  - Female
+KW  - Fibromyalgia/classification/metabolism/*pathology
+KW  - Humans
+KW  - Hydrogen-Ion Concentration
+KW  - Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Middle Aged
+KW  - Muscles/*pathology/physiology
+KW  - Pain/pathology
+KW  - Phosphorus/analysis
+KW  - Physical Endurance/physiology
+KW  - Rest/physiology
+KW  - Statistics as Topic
+PY  - 1992
+DA  - 1992/10//
+Y1  - 1992/10//
+AB  - 31Phosphorous nuclear magnetic resonance (31P NMR) spectroscopy of painful calf muscle was performed in 12 patients with fibromyalgia (FS) and 7 healthy subjects during rest, aerobic and anaerobic exercising conditions, and postexercise recovery. Ratios of inorganic phosphate and creatinine phosphate (Pi/PCr) and pH were calculated from the collected 31P NMR spectra. Resting values of Pi/PCr were normal in the patients. Patients delivered only 49% of the muscle power of the controls (p = 0.005). Patients and controls had similar rates of Pi/PCr and pH changes during work and recovery. The controls were able to change their Pi/PCr and pH more than the patients, due to the greater workload reached. However, statistical significance was reached only for the anaerobic static exercise (p = 0.003). It was concluded that patients with FS have a reduced voluntary capacity for work, but normal biochemical response to work and recovery.
+VL  - 19
+IS  - 10
+SP  - 1600
+EP  - 3
+CY  - Canada
+SN  - 0315-162X (Linking)
+U1  - 132250906
+U2  - 1464875
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - [Magnetic resonance spectroscopy in fibromyalgia. A study of phosphate-31 spectra from skeletal muscles during rest and after exercise].
+JF  - Ugeskrift for laeger
+A1  - Jacobsen S
+A1  - Jensen KE
+A1  - Thomsen C
+A1  - Danneskiold-Samsoe B
+A1  - Henriksen O
+ST  - Jacobsen (1994)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Cross-Sectional Studies
+KW  - *Exercise
+KW  - Female
+KW  - Fibromyalgia/*diagnosis/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging/*methods
+KW  - Male
+KW  - Middle Aged
+KW  - Muscle, Skeletal/metabolism
+KW  - Phosphates/*metabolism
+KW  - Phosphocreatine/metabolism
+KW  - *Phosphorus
+KW  - *Rest
+PY  - 1994
+DA  - 1994/11//
+Y1  - 1994/11//
+AB  - 31phosphorus nuclear magnetic resonance (31P NMR) spectroscopy of painful calf muscle was performed in 12 patients with fibromyalgia and 7 healthy subjects during rest, aerobic and anaerobic exercising conditions, and postexercise recovery. Ratios of inorganic phosphate and creatine phosphate (Pi/PCr) and pH were calculated from the collected 31P NMR spectra. Resting values of Pi/PCr were normal in the patients. Patients only tolerated 49% of the workload tolerated by the controls (P = 0.005). Patients and controls had similar rates of Pi/PCr and pH changes during work and recovery. The controls were able to change their Pi/PCr and pH more than the patients, due to the greater workload reached. However, statistical significance was only reached for the anaerobic static exercise (P = 0.003). It was concluded that fibromyalgia patients have a reduced voluntary capacity for work, but with a biochemical response to work and recovery similar to healthy subjects.
+VL  - 156
+IS  - 46
+SP  - 6841
+EP  - 4
+CY  - Denmark
+SN  - 0041-5782 (Linking)
+U1  - 132250903
+U2  - 7839499
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Increased incidence of a resonance in the phosphodiester region of 31P nuclear magnetic resonance spectra in the skeletal muscle of fibromyalgia patients.
+JF  - Arthritis and rheumatism
+A1  - Jubrias SA
+A1  - Bennett RM
+A1  - Klug GA
+ST  - Jubrias (1994)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - *Exercise
+KW  - Fibromyalgia/*physiopathology
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Middle Aged
+KW  - Muscles/chemistry/*physiopathology
+KW  - Pain Measurement
+KW  - Phosphates/analysis
+KW  - Phosphocreatine/analysis
+KW  - Phosphorus Isotopes
+PY  - 1994
+DA  - 1994/06//
+Y1  - 1994/06//
+AB  - OBJECTIVE: To determine if patients with fibromyalgia syndrome (FMS) are more susceptible to activity-induced muscle damage than are healthy subjects. METHODS: Eleven FMS patients and 10 healthy subjects performed concentric and eccentric exercise with their dominant and nondominant forearms, respectively. 31P magnetic resonance spectroscopy (to assess inorganic phosphate [P(i)] and phosphocreatine [PCr]) and dolorimetry (to assess pain) were performed before and 20 minutes after exercise and at 4 subsequent 24-hour intervals. RESULTS: Neither group exhibited increased P(i)/PCr ratios or reduced dolorimetry scores following the exercise protocols. FMS patients did display a phosphodiester resonance at a higher rate than healthy subjects (37% versus 12%), but this was not related to the exercise. CONCLUSION: Unchanged P(i)/PCr ratios and dolorimetry scores following acute exercise provide evidence against the hypothesis that FMS patients are more susceptible to activity-induced muscle damage than are healthy subjects, although P(i)/Pcr and pain may not adequately document such damage. The frequent occurrence of phosphodiester in the spectra of FMS patients may indicate a sarcolemmal abnormality in these subjects.
+DO  - 10.1002/art.1780370604 
+VL  - 37
+IS  - 6
+SP  - 801
+EP  - 7
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250904
+U2  - 8003051
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Magnetic resonance imaging of neuroinflammation in chronic pain: a role for astrogliosis?
+JF  - Pain
+A1  - Jung C
+A1  - Ichesco E
+A1  - Ratai EM
+A1  - Gonzalez RG
+A1  - Burdo T
+A1  - Loggia ML
+A1  - Harris RE
+A1  - Napadow V
+ST  - Jung (2020)
+KW  - eppi-reviewer
+KW  - Choline
+KW  - *Chronic Pain/diagnostic imaging
+KW  - Creatine
+KW  - *Gliosis/diagnostic imaging
+KW  - Humans
+KW  - Inositol
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+KW  - Proton Magnetic Resonance Spectroscopy
+PY  - 2020
+DA  - 2020/07//
+Y1  - 2020/07//
+AB  - Noninvasive measures of neuroinflammatory processes in humans could substantially aid diagnosis and therapeutic development for many disorders, including chronic pain. Several proton magnetic resonance spectroscopy (H-MRS) metabolites have been linked with glial activity (ie, choline and myo-inositol) and found to be altered in chronic pain patients, but their role in the neuroinflammatory cascade is not well known. Our multimodal study evaluated resting functional magnetic resonance imaging connectivity and H-MRS metabolite concentration in insula cortex in 43 patients suffering from fibromyalgia, a chronic centralized pain disorder previously demonstrated to include a neuroinflammatory component, and 16 healthy controls. Patients demonstrated elevated choline (but not myo-inositol) in anterior insula (aIns) (P = 0.03), with greater choline levels linked with worse pain interference (r = 0.41, P = 0.01). In addition, reduced resting functional connectivity between aIns and putamen was associated with both pain interference (whole brain analysis, pcorrected < 0.01) and elevated aIns choline (r = -0.37, P = 0.03). In fact, aIns/putamen connectivity statistically mediated the link between aIns choline and pain interference (P < 0.01), highlighting the pathway by which neuroinflammation can impact clinical pain dysfunction. To further elucidate the molecular substrates of the effects observed, we investigated how putative neuroinflammatory H-MRS metabolites are linked with ex vivo tissue inflammatory markers in a nonhuman primate model of neuroinflammation. Results demonstrated that cortical choline levels were correlated with glial fibrillary acidic protein, a known marker for astrogliosis (Spearman r = 0.49, P = 0.03). Choline, a putative neuroinflammatory H-MRS-assessed metabolite elevated in fibromyalgia and associated with pain interference, may be linked with astrogliosis in these patients.
+DO  - 10.1097/j.pain.0000000000001815 
+VL  - 161
+IS  - 7
+SP  - 1555
+EP  - 1564
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250856
+U2  - 31990749
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Dysfunctional energy metabolisms in fibromyalgia compared with healthy subjects.
+JF  - Molecular pain
+A1  - Jung YH
+A1  - Kim H
+A1  - Lee D
+A1  - Lee JY
+A1  - Moon JY
+A1  - Choi SH
+A1  - Kang DH
+ST  - Jung (2021)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Creatine/metabolism
+KW  - Energy Metabolism/*physiology
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Gyrus Cinguli/*metabolism
+KW  - Healthy Volunteers
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Surveys and Questionnaires
+KW  - Thalamus/*metabolism
+KW  - Fibromyalgia
+KW  - creatine
+KW  - energy
+KW  - phosphocreatine
+KW  - post-traumatic stress disorder
+KW  - proton magnetic resonance spectroscopy
+KW  - stress
+PY  - 2021
+DA  - 2021/01//
+Y1  - 2021/01//
+AB  - This study aimed to investigate the levels of creatine (Cr) metabolites in the anterior cingulate cortex (ACC), thalamus, and insula of patients with fibromyalgia (FM) using proton magnetic resonance spectroscopy (MRS). The levels of Cr and phosphocreatine (PCr) relative to total Cr (tCr), which includes Cr and PCr, in the ACC, thalamus, and insula were determined using MRS in 12 patients with FM and in 13 healthy controls. The FM group had lower levels of PCr/tCr in the ACC and right insula compared to healthy controls. There was a negative correlation between Cr/tCr in the ACC and total pain levels (McGill Pain Questionnaire-Total; r = -0.579, p = 0.049) and between Cr/tCr in the left insula and affective pain levels (McGill Pain Questionnaire-Affective; r = -0.638, p = 0.047) in patients with FM. In addition, there were negative correlations between stress levels (Stress Response Inventory) and Cr/tCr in the right (r = -0.780, p = 0.005) and left thalamus (r = -0.740, p = 0.006), as well as in the right insula (r = -0.631, p = 0.028) in patients with FM. There were negative correlations between symptom levels of post-traumatic stress disorder (PTSD; PTSD checklist) and Cr/tCr in the right (r = -0.783, p = 0.004) and left thalamus (r = -0.642, p = 0.024) of patients with FM. These findings are paramount to understanding the decisive pathologies related to brain energy metabolism in patients with FM.
+DO  - 10.1177/17448069211012833 
+VL  - 17
+IS  - 
+SP  - 17448069211012833
+CY  - United States
+SN  - 1744-8069 (Linking)
+U1  - 132250851
+U2  - 33940974
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Abnormal neurometabolites in fibromyalgia patients: Magnetic resonance spectroscopy study.
+JF  - Molecular pain
+A1  - Jung YH
+A1  - Kim H
+A1  - Lee D
+A1  - Lee JY
+A1  - Lee WJ
+A1  - Moon JY
+A1  - Choi SH
+A1  - Kang DH
+ST  - Jung (2021)
+KW  - eppi-reviewer
+KW  - Brain/*metabolism/*pathology
+KW  - Case-Control Studies
+KW  - Choline/metabolism
+KW  - Creatine/metabolism
+KW  - Fibromyalgia/*metabolism
+KW  - Humans
+KW  - *Magnetic Resonance Spectroscopy
+KW  - *Metabolome
+KW  - Reference Standards
+KW  - Stress Disorders, Post-Traumatic/metabolism
+KW  - Stress, Psychological/genetics
+KW  - anterior cingulate cortex
+KW  - fibromyalgia
+KW  - insula
+KW  - magnetic resonance spectroscopy
+KW  - neurometabolites
+KW  - thalamus
+PY  - 2021
+DA  - 2021/01//
+Y1  - 2021/01//
+AB  - This study aimed to investigate distinct neurometabolites in the anterior cingulate cortex (ACC), right and left thalamus, and insula of patients with fibromyalgia (FM) compared with healthy controls using proton magnetic resonance spectroscopy (MRS). Levels of N-acetylaspartate (NAA), N-acetylaspartylglutamate (NAAG), total NAA (tNAA = NAA + NAAG), myo-inositol (ml), glutamine (Gln), glutamate (Glu), Glx (Glu + Gln), glycerophosphocholine (GPC), total choline (tCho = GPC + phosphocholine) and glutathione (GSH) levels relative to total creatine (tCr) levels including creatine (Cr) and phosphocreatine (PCr) and relative to Cr levels were determined in the ACC, right and left thalamus, and insula in 12 patients with FM and 13 healthy controls using MRS. In the ACC, NAA/tCr (P = 0.028) and tCho/tCr (P = 0.047) were higher in patients with FM. In the right and left insula, tNAA/tCr (P = 0.019, P = 0.007, respectively) was lower in patients with FM. Patients with FM showed lower levels of ml/Cr (P = 0.037) in the right insula than healthy controls. These findings are paramount to understand decisive pathophysiological mechanisms related to abnormal features in the brain and parasympathetic nervous systems in FM. We suggest that the results presented herein may be essential to understand hidden pathological mechanisms and also life system potential as protective and recovering metabolic strategies in patients with FM.
+DO  - 10.1177/1744806921990946 
+VL  - 17
+IS  - 
+SP  - 1744806921990946
+CY  - United States
+SN  - 1744-8069 (Linking)
+U1  - 132250852
+U2  - 33573464
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Central metabolites and peripheral parameters associated neuroinflammation in fibromyalgia patients: A preliminary study.
+JF  - Medicine
+A1  - Jung YH
+A1  - Kim H
+A1  - Seo S
+A1  - Lee D
+A1  - Lee JY
+A1  - Moon JY
+A1  - Cheon GJ
+A1  - Choi SH
+A1  - Kang DH
+ST  - Jung (2023)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Fibromyalgia/diagnostic imaging
+KW  - Neuroinflammatory Diseases
+KW  - Creatine
+KW  - Creatinine
+KW  - Tomography, X-Ray Computed
+KW  - Glutamic Acid/metabolism
+KW  - Receptors, Antigen, T-Cell
+KW  - Carbon Radioisotopes
+PY  - 2023
+DA  - 2023/03//
+Y1  - 2023/03//
+AB  - To identify central metabolites and peripheral measures associated with neuroinflammation in fibromyalgia (FM), we scanned [11C]-(R)-PK11195 positron emission tomography and magnetic resonance spectroscopy in FM patients. We measured associations between neurometabolite levels measured by magnetic resonance spectroscopy and the extent of neuroinflammation inferred by the distribution volume ratios of [11C]-(R)-PK11195 positron emission tomography in 12 FM patients and 13 healthy controls. We also examined the associations between peripheral parameters, such as creatinine and C-reactive protein, and neuroinflammation. In FM patients, we found negative correlations between neuroinflammation and the creatine (Cr)/total creatine (tCr; Cr + phosphocreatine) ratios in the right (r = -0.708, P = .015) and left thalamus (r = -0.718, P = .008). In FM patients, negative correlations were apparent between neuroinflammation and the glutamate/tCr ratio in the right insula (r = -0.746, P = .005). In FM patients, we found negative correlations between neuroinflammation in the left thalamus (r = -0.601, P = .039) and left insula (r = -0.598, P = .040) and the blood creatinine levels. Additionally, we found significant correlations of other peripheral measures with neuroinflammation in FM patients. Our results suggest that both central metabolites, such as Cr and glutamate, and peripheral creatinine and other parameters are associated with neuroinflammation in patients with FM.
+DO  - 10.1097/MD.0000000000033305 
+VL  - 102
+IS  - 13
+SP  - e33305
+CY  - United States
+SN  - 0025-7974 (Linking)
+U1  - 132250844
+U2  - 37000093
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Functional and neurochemical disruptions of brain hub topology in chronic pain.
+JF  - Pain
+A1  - Kaplan CM
+A1  - Schrepf A
+A1  - Vatansever D
+A1  - Larkin TE
+A1  - Mawla I
+A1  - Ichesco E
+A1  - Kochlefl L
+A1  - Harte SE
+A1  - Clauw DJ
+A1  - Mashour GA
+A1  - Harris RE
+ST  - Kaplan (2019)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Brain/*diagnostic imaging/*metabolism
+KW  - Brain Mapping
+KW  - Case-Control Studies
+KW  - Chronic Pain/*diagnostic imaging/*etiology
+KW  - Cohort Studies
+KW  - Female
+KW  - Fibromyalgia/*complications/diagnostic imaging
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Hyperalgesia/etiology
+KW  - Image Processing, Computer-Assisted
+KW  - Magnetic Resonance Imaging
+KW  - Male
+KW  - Middle Aged
+KW  - Neurotransmitter Agents/metabolism
+KW  - Oxygen/blood
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Visual Analog Scale
+PY  - 2019
+DA  - 2019/04//
+Y1  - 2019/04//
+AB  - A critical component of brain network architecture is a robust hub structure, wherein hub regions facilitate efficient information integration by occupying highly connected and functionally central roles in the network. Across a wide range of neurological disorders, hub brain regions seem to be disrupted, and the character of this disruption can yield insights into the pathophysiology of these disorders. We applied a brain network-based approach to examine hub topology in fibromyalgia, a chronic pain condition with prominent central nervous system involvement. Resting state functional magnetic resonance imaging data from 40 fibromyalgia patients and 46 healthy volunteers, and a small validation cohort of 11 fibromyalgia patients, were analyzed using graph theoretical techniques to model connections between 264 brain regions. In fibromyalgia, the anterior insulae functioned as hubs and were members of the rich club, a highly interconnected nexus of hubs. In fibromyalgia, rich-club membership varied with the intensity of clinical pain: the posterior insula, primary somatosensory, and motor cortices belonged to the rich club only in patients with the highest pain intensity. Furthermore, the eigenvector centrality (a measure of how connected a region is to other highly connected regions) of the posterior insula positively correlated with clinical pain and mediated the relationship between glutamate + glutamine (assessed by proton magnetic resonance spectroscopy) within this structure and the patient's clinical pain report. Together, these findings reveal altered hub topology in fibromyalgia and demonstrate, for the first time to our knowledge, a neurochemical basis for altered hub strength and its relationship to the perception of pain.
+DO  - 10.1097/j.pain.0000000000001480 
+VL  - 160
+IS  - 4
+SP  - 973
+EP  - 983
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250859
+U2  - 30763287
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - [Recording muscle spasm in the musculus erector spinae using in vivo 31P magnetic resonance spectroscopy in patients with chronic lumbalgia and generalized tendomyopathies].
+JF  - Zeitschrift fur Rheumatologie
+A1  - Krapf MW
+A1  - Muller S
+A1  - Mennet P
+A1  - Stratz T
+A1  - Samborski W
+A1  - Muller W
+ST  - Krapf (1992)
+KW  - eppi-reviewer
+KW  - Acid-Base Equilibrium/physiology
+KW  - Adenosine Diphosphate/metabolism
+KW  - Adenosine Triphosphate/metabolism
+KW  - Adult
+KW  - Aged
+KW  - Female
+KW  - Fibromyalgia/*complications/diagnosis
+KW  - Humans
+KW  - Hydrogen-Ion Concentration
+KW  - Low Back Pain/*etiology
+KW  - *Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Middle Aged
+KW  - Muscles/metabolism
+KW  - Phosphates/*metabolism
+KW  - Phosphocreatine/metabolism
+KW  - Spasm/*complications/diagnosis
+PY  - 1992
+DA  - 1992/09//
+Y1  - 1992/09//
+AB  - Using 31P nuclear magnetic resonance, the following parameters were determined in the resting musculus erector spinae of five patients suffering from chronic low back pain, five patients with fibromyalgia, and five healthy controls: Inorganic phosphate (Pi), phosphocreatine (PCr), ATP gamma, ATP alpha, ATP beta. The intracellular pH was derived from the chemical shift of Pi referenced to the PCr resonance. In addition, the Pi-Index was calculated according to the formula: Pi/(Pi + PCr). We discovered a tendency towards a shift of the Pi resonance in the alcalic direction, which was the larger, the stronger muscle spasm was found on palpation. The pH showed the most reliable relationship to the clinical status of muscle spasm. The surprising finding that there is no acidification within the spasmed muscle indicates that generalized hypoxia does not exist in this tissue. This has already been shown with PO2 measurements. An intracellular acidification is only recorded during maximal isometric contraction. Thus, ischemia cannot be responsible for pain experienced during muscle spasm.
+VL  - 51
+IS  - 5
+SP  - 229
+EP  - 37
+CY  - Germany
+SN  - 0340-1855 (Linking)
+U1  - 132250907
+U2  - 1476007
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Muscle energy metabolism, nuclear magnetic resonance spectroscopy and their potential in the study of fibromyalgia.
+JF  - The Journal of rheumatology. Supplement
+A1  - Kushmerick MJ
+ST  - Kushmerick (1989)
+KW  - eppi-reviewer
+KW  - Adenosine Triphosphate/metabolism
+KW  - Biomechanical Phenomena
+KW  - Creatine Kinase/physiology
+KW  - *Energy Metabolism
+KW  - Exercise
+KW  - Fibromyalgia/metabolism/*physiopathology
+KW  - Humans
+KW  - *Magnetic Resonance Spectroscopy
+KW  - Models, Biological
+KW  - Muscles/*metabolism
+KW  - Phosphocreatine/physiology
+KW  - Reference Values
+PY  - 1989
+DA  - 1989/11//
+Y1  - 1989/11//
+AB  - The fields of muscle physiology and biochemistry have already identified some of the key components of ATPase hydrolysis products that are involved in muscle fatigue. The concentration of the relevant chemical species can be readily measured by nuclear magnetic resonance techniques in muscle. Now the question is: is alteration of cellular energy balance and the normal balance between supply and demand disturbed in fibromyalgia? Since these chemical events account for a very large amount of muscle reduced performance as well as reduction in both velocity and force, at the very least one ought to identify how large these changes are in any patient in whom we are trying to assess the degree to which these chemical changes might be associated with muscle fatigue. An objective chemical criteria for muscle performance is possible with modern noninvasive phosphorus magnetic resonance spectroscopy.
+VL  - 19
+IS  - 
+SP  - 40
+EP  - 6
+CY  - Canada
+SN  - 0380-0903 (Linking)
+U1  - 132250909
+U2  - 2607514
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Is fibromyalgia a muscle disorder?
+JF  - Joint bone spine
+A1  - Le Goff P
+ST  - Le Goff (2006)
+KW  - eppi-reviewer
+KW  - Adenosine Triphosphate/analysis
+KW  - Endothelium
+KW  - Vascular/pathology/physiopathology
+KW  - Energy Metabolism
+KW  - Fibromyalgia/diagnosis/*pathology/*physiopathology
+KW  - Humans
+KW  - Microcirculation/physiopathology
+KW  - Microscopy
+KW  - Electron
+KW  - Mitochondria
+KW  - Muscle/physiology/ultrastructure
+KW  - Muscle
+KW  - Skeletal/chemistry/pathology/physiopathology/ultrastructure
+KW  - Muscular Diseases/diagnosis/*pathology/*physiopathology
+KW  - Pain
+KW  - Phosphocreatine/analysis
+PY  - 2006
+DA  - 2006/05//
+Y1  - 2006/05//
+AB  - The presence of abnormalities in fibromyalgia muscle using current methodological approaches is well established. The more serious abnormalities are demonstrated by histologic studies particularly on electron microscopy: disorganisation of Z bands and abnormalities in the number and shape of mitochondria. Biochemical studies and P 31 magnetic resonance spectroscopy show inconstant abnormalities of ATP and phosphocreatine levels. Mitochondrial abnormalities reduced capillary circulation and thickened capillary endothelium may result in decreased availability of oxygen and impaired oxidative phosphorylation as well as ATP synthesis. These abnormalities do not seem to be the consequences of the much-discussed deconditioning of muscles although these consequences are not well known. Further studies of energy metabolism of the muscle during exercise are needed.
+DO  - 10.1016/j.jbspin.2005.03.022 
+VL  - 73
+IS  - 3
+SP  - 239
+EP  - 42
+CY  - France
+SN  - 1297-319X (Linking)
+U1  - 132250893
+U2  - 16488643
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - 3D magnetic resonance spectroscopic imaging reveals links between brain metabolites and multidimensional pain features in fibromyalgia.
+JF  - European journal of pain (London, England)
+A1  - Lee J
+A1  - Andronesi OC
+A1  - Torrado-Carvajal A
+A1  - Ratai EM
+A1  - Loggia ML
+A1  - Weerasekera A
+A1  - Berry MP
+A1  - Ellingsen DM
+A1  - Isaro L
+A1  - Lazaridou A
+A1  - Paschali M
+A1  - Grahl A
+A1  - Wasan AD
+A1  - Edwards RR
+A1  - Napadow V
+ST  - Lee (2021)
+KW  - eppi-reviewer
+KW  - Brain/diagnostic imaging
+KW  - *Chronic Pain/diagnostic imaging
+KW  - Female
+KW  - *Fibromyalgia/diagnostic imaging
+KW  - Glutamic Acid
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+PY  - 2021
+DA  - 2021/10//
+Y1  - 2021/10//
+AB  - BACKGROUND: Fibromyalgia is a centralized multidimensional chronic pain syndrome, but its pathophysiology is not fully understood. METHODS: We applied 3D magnetic resonance spectroscopic imaging (MRSI), covering multiple cortical and subcortical brain regions, to investigate the association between neuro-metabolite (e.g. combined glutamate and glutamine, Glx; myo-inositol, mIno; and combined (total) N-acetylaspartate and N-acetylaspartylglutamate, tNAA) levels and multidimensional clinical/behavioural variables (e.g. pain catastrophizing, clinical pain severity and evoked pain sensitivity) in women with fibromyalgia (N = 87). RESULTS: Pain catastrophizing scores were positively correlated with Glx and tNAA levels in insular cortex, and negatively correlated with mIno levels in posterior cingulate cortex (PCC). Clinical pain severity was positively correlated with Glx levels in insula and PCC, and with tNAA levels in anterior midcingulate cortex (aMCC), but negatively correlated with mIno levels in aMCC and thalamus. Evoked pain sensitivity was negatively correlated with levels of tNAA in insular cortex, MCC, PCC and thalamus. CONCLUSIONS: These findings support single voxel placement targeting nociceptive processing areas in prior (1) H-MRS studies, but also highlight other areas not as commonly targeted, such as PCC, as important for chronic pain pathophysiology. Identifying target brain regions linked to multidimensional symptoms of fibromyalgia (e.g. negative cognitive/affective response to pain, clinical pain, evoked pain sensitivity) may aid the development of neuromodulatory and individualized therapies. Furthermore, efficient multi-region sampling with 3D MRSI could reduce the burden of lengthy scan time for clinical research applications of molecular brain-based mechanisms supporting multidimensional aspects of fibromyalgia. SIGNIFICANCE: This large N study linked brain metabolites and pain features in fibromyalgia patients, with a better spatial resolution and brain coverage, to understand a molecular mechanism underlying pain catastrophizing and other aspects of pain transmission. Metabolite levels in self-referential cognitive processing area as well as pain-processing regions were associated with pain outcomes. These results could help the understanding of its pathophysiology and treatment strategies for clinicians.
+DO  - 10.1002/ejp.1820 
+VL  - 25
+IS  - 9
+SP  - 2050
+EP  - 2064
+CY  - England
+SN  - 1090-3801 (Linking)
+U1  - 132250849
+U2  - 34102707
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Muscle metabolism in fibromyalgia studied by P-31 magnetic resonance spectroscopy during aerobic and anaerobic exercise.
+JF  - Scandinavian journal of rheumatology
+A1  - Lund E
+A1  - Kendall SA
+A1  - Janerot-Sjoberg B
+A1  - Bengtsson A
+ST  - Lund (2003)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - *Anaerobic Threshold
+KW  - Exercise/*physiology
+KW  - Exercise Test
+KW  - Female
+KW  - Fibromyalgia/*physiopathology
+KW  - Humans
+KW  - Hydrogen-Ion Concentration
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Muscle, Skeletal/pathology/*physiology
+KW  - Phosphorus/metabolism
+KW  - Potassium Isotopes
+PY  - 2003
+DA  - 2003///
+Y1  - 2003///
+AB  - OBJECTIVE: To investigate mechanisms underlying the reduced work capacity of fibromyalgia (FM) patients were compared to healthy controls at specified workloads, using P-31 magnetic resonance spectroscopy (MRS). METHODS: The forearm flexor muscle group was examined with MRS at rest, at sub maximal and at maximal controlled dynamic work as well as at maximal isometric contraction. Aerobic fitness was determined by bicycle ergonometry. RESULTS: Metabolite concentrations and muscle pH were similar for patients and controls at lower workloads. At maximal dynamic and static contractions the concentration of inorganic phosphate was lower and at static contractions the pH decrease was smaller in patients. The performed work by patients was only 50% compared to controls and the patients experienced more pain. Maximal oxygen uptake was lower in the fibromyalgia group. Expired gas-analysis in this group showed ventilatory equivalents at similar relative levels of maximal work capacity. CONCLUSION: Fibromyalgia patients seem to utilise less of the energy rich phosphorous metabolites at maximal work despite pH reduction. They seemed to be less aerobic fitted and reached the anaerobic threshold earlier than the controls.
+DO  - 10.1080/03009740310002461 
+VL  - 32
+IS  - 3
+SP  - 138
+EP  - 45
+CY  - England
+SN  - 0300-9742 (Linking)
+U1  - 132250894
+U2  - 12892249
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Greater Somatosensory Afference With Acupuncture Increases Primary Somatosensory Connectivity and Alleviates Fibromyalgia Pain via Insular gamma-Aminobutyric Acid: A Randomized Neuroimaging Trial.
+JF  - Arthritis & rheumatology (Hoboken, N.J.)
+A1  - Mawla I
+A1  - Ichesco E
+A1  - Zollner HJ
+A1  - Edden RAE
+A1  - Chenevert T
+A1  - Buchtel H
+A1  - Bretz MD
+A1  - Sloan H
+A1  - Kaplan CM
+A1  - Harte SE
+A1  - Mashour GA
+A1  - Clauw DJ
+A1  - Napadow V
+A1  - Harris RE
+ST  - Mawla (2021)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Afferent Pathways
+KW  - Cerebral Cortex/diagnostic imaging/*metabolism
+KW  - Electroacupuncture/*methods
+KW  - Female
+KW  - Fibromyalgia/diagnostic imaging/metabolism/*therapy
+KW  - Functional Neuroimaging
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Middle Aged
+KW  - Neural Pathways
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Somatosensory Cortex/*diagnostic imaging
+KW  - gamma-Aminobutyric Acid/*metabolism
+PY  - 2021
+DA  - 2021/07//
+Y1  - 2021/07//
+AB  - OBJECTIVE: Acupuncture is a complex multicomponent treatment that has shown promise in the treatment of fibromyalgia (FM). However, clinical trials have shown mixed results, possibly due to heterogeneous methodology and lack of understanding of the underlying mechanism of action. The present study was undertaken to understand the specific contribution of somatosensory afference to improvements in clinical pain, and the specific brain circuits involved. METHODS: Seventy-six patients with FM were randomized to receive either electroacupuncture (EA), with somatosensory afference, or mock laser acupuncture (ML), with no somatosensory afference, twice a week over 8 treatments. Patients with FM in each treatment group were assessed for pain severity levels, measured using Brief Pain Inventory (BPI) scores, and for levels of functional brain network connectivity, assessed using resting state functional magnetic resonance imaging (MRI) and proton magnetic resonance spectroscopy in the right anterior insula, before and after treatment. RESULTS: Fibromyalgia patients who received EA therapy experienced a greater reduction in pain severity, as measured by the BPI, compared to patients who received ML therapy (mean difference in BPI from pre- to posttreatment was -1.14 in the EA group versus -0.46 in the ML group; P for group x time interaction = 0.036). Participants receiving EA treatment, as compared to ML treatment, also exhibited resting functional connectivity between the primary somatosensory cortical representation of the leg (S1(leg) ; i.e. primary somatosensory subregion activated by EA) and the anterior insula. Increased S1(leg) -anterior insula connectivity was associated with both reduced levels of pain severity as measured by the BPI (r = -0.44, P = 0.01) and increased levels of gamma-aminobutyric acid (GABA+) in the anterior insula (r = 0.48, P = 0.046) following EA therapy. Moreover, increased levels of GABA+ in the anterior insula were associated with reduced levels of pain severity as measured by the BPI (r = -0.59, P = 0.01). Finally, post-EA treatment changes in levels of GABA+ in the anterior insula mediated the relationship between changes in S1(leg) -anterior insula connectivity and pain severity on the BPI (bootstrap confidence interval -0.533, -0.037). CONCLUSION: The somatosensory component of acupuncture modulates primary somatosensory functional connectivity associated with insular neurochemistry to reduce pain severity in FM.
+DO  - 10.1002/art.41620 
+VL  - 73
+IS  - 7
+SP  - 1318
+EP  - 1328
+CY  - United States
+SN  - 2326-5191 (Linking)
+U1  - 132250853
+U2  - 33314799
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Large-scale momentary brain co-activation patterns are associated with hyperalgesia and mediate focal neurochemistry and cross-network functional connectivity in fibromyalgia.
+JF  - Pain
+A1  - Mawla I
+A1  - Huang Z
+A1  - Kaplan CM
+A1  - Ichesco E
+A1  - Waller N
+A1  - Larkin TE
+A1  - Zollner HJ
+A1  - Edden RAE
+A1  - Harte SE
+A1  - Clauw DJ
+A1  - Mashour GA
+A1  - Napadow V
+A1  - Harris RE
+ST  - Mawla (2023)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Fibromyalgia/diagnostic imaging
+KW  - Hyperalgesia/diagnostic imaging
+KW  - *Neurochemistry
+KW  - Magnetic Resonance Imaging/methods
+KW  - Brain/diagnostic imaging
+KW  - Pain
+KW  - Brain Mapping
+KW  - Nerve Net/diagnostic imaging
+PY  - 2023
+DA  - 2023/12//
+Y1  - 2023/12//
+AB  - Fibromyalgia has been characterized by augmented cross-network functional communication between the brain's sensorimotor, default mode, and attentional (salience/ventral and dorsal) networks. However, the underlying mechanisms of these aberrant communication patterns are unknown. In this study, we sought to understand large-scale topographic patterns at instantaneous timepoints, known as co-activation patterns (CAPs). We found that a sustained pressure pain challenge temporally modulated the occurrence of CAPs. Using proton magnetic resonance spectroscopy, we found that greater basal excitatory over inhibitory neurotransmitter levels within the anterior insula orchestrated higher cross-network connectivity between the anterior insula and the default mode network through lower occurrence of a CAP encompassing the attentional networks during sustained pain. Moreover, we found that hyperalgesia in fibromyalgia was mediated through increased occurrence of a CAP encompassing the sensorimotor network during sustained pain. In conclusion, this study elucidates the role of momentary large-scale topographic brain patterns in shaping noxious information in patients with fibromyalgia, while laying the groundwork for using precise spatiotemporal dynamics of the brain for the potential development of therapeutics.
+DO  - 10.1097/j.pain.0000000000002973 
+VL  - 164
+IS  - 12
+SP  - 2737
+EP  - 2748
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250840
+U2  - 37751539
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Abnormal immune system response in the brain of women with Fibromyalgia after experimental endotoxin challenge.
+JF  - Brain, behavior, & immunity - health
+A1  - Mueller C
+A1  - Jordan I
+A1  - Jones C
+A1  - Lawson P
+A1  - Younger JW
+ST  - Mueller (2023)
+KW  - eppi-reviewer
+KW  - Endotoxin
+KW  - Fibromyalgia
+KW  - Immune system
+KW  - Lipopolysaccharide
+KW  - Magnetic resonance spectroscopy
+KW  - Neuroinflammation
+PY  - 2023
+DA  - 2023/07//
+Y1  - 2023/07//
+AB  - BACKGROUND: The pathophysiology of fibromyalgia (FM) is thought to include an overactive immune system, leading to central nervous system sensitization, allodynia, and hyperalgesia. We aimed to test this theory using an experimental immune system activation procedure and neuroimaging with magnetic resonance spectroscopic imaging (MRSI). METHODS: Twelve women with FM and 13 healthy women (healthy controls; HC) received 0.3 or 0.4 ng/kg endotoxin and underwent MRSI before and after the infusion. Changes in brain levels of choline (CHO), myo-inositol (MI), N-Acetylaspartate (NAA), and MRSI-derived brain temperature were compared between groups and dosage levels using mixed analyses of variance. RESULTS: Significant group-by-time interactions in brain temperature were found in the right thalamus. Post-hoc testing revealed that brain temperature increased by 0.55 degrees C in the right thalamus in FM (t(10) = -3.483, p = 0.006), but not in HCs (p > 0.05). Dose-by-time interactions revealed brain temperature increases in the right insula after 0.4 ng/kg (t(12) = -4.074, p = 0.002), but not after 0.3 ng/kg (p > 0.05). Dose-by-time interactions revealed decreased CHO in the right Rolandic operculum after 0.4 ng/kg endotoxin (t(13) = 3.242, p = 0.006) but not 0.3 ng/kg. In the left paracentral lobule, CHO decreased after 0.3 ng/kg (t(9) = 2.574, p = 0.030) but not 0.4 ng/kg. Dose-by-time interactions affected MI in several brain regions. MI increased after 0.3 ng/kg in the right Rolandic operculum (t(10) = -2.374, p = 0.039), left supplementary motor area (t(9) = -2.303, p = 0.047), and left occipital lobe (t(10) = -3.757, p = 0.004), with no changes after 0.4 ng/kg (p > 0.05). Group-by time interactions revealed decreased NAA in the left Rolandic operculum in FM (t(13) = 2.664, p = 0.019), but not in HCs (p > 0.05). A dose-by-time interaction showed decreased NAA in the left paracentral lobule after 0.3 ng/kg (t(9) = 3.071, p = 0.013) but not after 0.4 ng/kg (p > 0.05). In the combined sample, there was a main effect of time whereby NAA decreased in the left anterior cingulate (F[1,21] = 4.458, p = 0.047) and right parietal lobe (F[1,21] = 5.457, p = 0.029). CONCLUSION: We found temperature increases and NAA decreases in FM that were not seen in HCs, suggesting that FM patients may have abnormal immune responses in the brain. The 0.3 and 0.4 ng/kg had differential effects on brain temperature and metabolites, with neither dose effecting a stronger response overall. There is insufficient evidence provided by the study to determine whether FM involves abnormal central responses to low-level immune challenges.
+DO  - 10.1016/j.bbih.2023.100624 
+VL  - 30
+IS  - 
+SP  - 100624
+CY  - United States
+SN  - 2666-3546 (Linking)
+U1  - 132250842
+U2  - 37114015
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - What has functional connectivity and chemical neuroimaging in fibromyalgia taught us about the mechanisms and management of 'centralized' pain?
+JF  - Arthritis research & therapy
+A1  - Napadow V
+A1  - Harris RE
+ST  - Napadow (2014)
+KW  - eppi-reviewer
+KW  - Brain/diagnostic imaging/physiopathology
+KW  - Fibromyalgia/*diagnosis/physiopathology/therapy
+KW  - Humans
+KW  - Magnetic Resonance Imaging/*methods
+KW  - Neuroimaging/*methods
+KW  - Pain/diagnosis/physiopathology/prevention & control
+KW  - Pain Measurement/methods
+KW  - Proton Magnetic Resonance Spectroscopy/*methods
+KW  - Radiography
+KW  - Reproducibility of Results
+KW  - Sensitivity and Specificity
+PY  - 2014
+DA  - 2014///
+Y1  - 2014///
+AB  - Research suggests that fibromyalgia is a central, widespread pain syndrome supported by a generalized disturbance in central nervous system pain processing. Over the past decades, multiple lines of research have identified the locus for many functional, chronic pain disorders to the central nervous system, and the brain. In recent years, brain neuroimaging techniques have heralded a revolution in our understanding of chronic pain, as they have allowed researchers to non-invasively (or minimally invasively) evaluate human patients suffering from various pain disorders. While many neuroimaging techniques have been developed, growing interest in two specific imaging modalities has led to significant contributions to chronic pain research. For instance, resting functional connectivity magnetic resonance imaging (fcMRI) is a recent adaptation of fMRI that examines intrinsic brain connectivity - defined as synchronous oscillations of the fMRI signal that occurs in the resting basal state. Proton magnetic resonance spectroscopy (1H-MRS) is a non-invasive magnetic resonance imaging technique that can quantify the concentration of multiple metabolites within the human brain. This review will outline recent applications of the complementary imaging techniques - fcMRI and 1H-MRS - to improve our understanding of fibromyalgia pathophysiology and how pharmacological and non-pharmacological therapies contribute to analgesia in these patients. A better understanding of the brain in chronic pain, with specific linkage as to which neural processes relate to spontaneous pain perception and hyperalgesia, will greatly improve our ability to develop novel therapeutics. Neuroimaging will play a growing role in the translational research approaches needed to make this a reality.
+DO  - 10.1186/s13075-014-0425-0 
+VL  - 16
+IS  - 5
+SP  - 425
+CY  - England
+SN  - 1478-6354 (Linking)
+U1  - 132250867
+U2  - 25606591
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Effect of Milnacipran Treatment on Ventricular Lactate in Fibromyalgia: A Randomized, Double-Blind, Placebo-Controlled Trial.
+JF  - The journal of pain
+A1  - Natelson BH
+A1  - Vu D
+A1  - Mao X
+A1  - Weiduschat N
+A1  - Togo F
+A1  - Lange G
+A1  - Blate M
+A1  - Kang G
+A1  - Coplan JD
+A1  - Shungu DC
+ST  - Natelson (2015)
+KW  - eppi-reviewer
+KW  - Adrenergic Uptake Inhibitors/therapeutic use
+KW  - Adult
+KW  - Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+KW  - Attention/drug effects
+KW  - Biomarkers/metabolism
+KW  - Cerebral Ventricles/*drug effects/metabolism
+KW  - Cyclopropanes/*therapeutic use
+KW  - Double-Blind Method
+KW  - Executive Function/drug effects
+KW  - Female
+KW  - Fibromyalgia/*drug therapy/physiopathology/psychology
+KW  - Humans
+KW  - Lactic Acid/*metabolism
+KW  - Middle Aged
+KW  - Milnacipran
+KW  - Nonlinear Dynamics
+KW  - Pain/*drug therapy/physiopathology
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Psychological Tests
+KW  - Selective Serotonin Reuptake Inhibitors/therapeutic use
+KW  - Widespread pain
+KW  - brain function
+KW  - magnetic resonance spectroscopy
+KW  - serotonin-norepinephrine reuptake inhibitor
+PY  - 2015
+DA  - 2015/11//
+Y1  - 2015/11//
+AB  - Milnacipran, a serotonin/norepinephrine reuptake inhibitor, has been approved by the US Food and Drug Administration for the treatment of fibromyalgia (FM). This report presents the results of a randomized, double-blind, placebo-controlled trial of milnacipran conducted to test the hypotheses that a) similar to patients with chronic fatigue syndrome, patients with FM have increased ventricular lactate levels at baseline; b) 8 weeks of treatment with milnacipran will lower ventricular lactate levels compared with baseline levels and with ventricular lactate levels after placebo; and c) treatment with milnacipran will improve attention and executive function in the Attention Network Test compared with placebo. In addition, we examined the results for potential associations between ventricular lactate and pain. Baseline ventricular lactate measured by proton magnetic resonance spectroscopic imaging was found to be higher in patients with FM than in healthy controls (F1,37 = 22.11, P < .0001, partial eta(2) = .37). Milnacipran reduced pain in patients with FM relative to placebo but had no effect on cognitive processing. At the end of the study, ventricular lactate levels in the milnacipran-treated group had decreased significantly compared with baseline and after placebo (F1,18 = 8.18, P = .01, partial eta(2) = .31). A significantly larger proportion of patients treated with milnacipran showed decreases in both ventricular lactate and pain than those treated with placebo (P = .03). These results suggest that proton magnetic resonance spectroscopic imaging measurements of lactate may serve as a potential biomarker for a therapeutic response in FM and that milnacipran may act, at least in part, by targeting the brain response to glial activation and neuroinflammation. PERSPECTIVE: Patients treated with milnacipran showed decreases in both pain and ventricular lactate levels compared with those treated with placebo, but, even after treatment, levels of ventricular lactate remained higher than in controls. The hypothesized mechanism for these decreases is via drug-induced reductions of a central inflammatory state.
+DO  - 10.1016/j.jpain.2015.08.004 
+VL  - 16
+IS  - 11
+SP  - 1211
+EP  - 9
+CY  - United States
+SN  - 1526-5900 (Linking)
+U1  - 132250866
+U2  - 26335989
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of the efficacy of memantine in the treatment of fibromyalgia: study protocol for a doubled-blind randomized controlled trial with six-month follow-up.
+JF  - Trials
+A1  - Olivan-Blazquez B
+A1  - Puebla M
+A1  - Masluk B
+A1  - Perez-Yus MC
+A1  - Arcega R
+A1  - Andres E
+A1  - Lopez-del-Hoyo Y
+A1  - Magallon R
+A1  - Roca M
+A1  - Garcia-Campayo J
+ST  - Olivan-Blazquez (2013)
+KW  - eppi-reviewer
+KW  - Brain/*drug effects/metabolism
+KW  - Clinical Protocols
+KW  - Cognition/drug effects
+KW  - Double-Blind Method
+KW  - Drug Administration Schedule
+KW  - Excitatory Amino Acid Antagonists/administration & dosage/adverse
+KW  - effects/*therapeutic use
+KW  - Fibromyalgia/diagnosis/*drug therapy/metabolism/psychology
+KW  - Glutamic Acid/metabolism
+KW  - Health Status
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Memantine/administration & dosage/adverse effects/*therapeutic use
+KW  - Pain/diagnosis/*drug therapy/metabolism/parasitology
+KW  - Pain Measurement
+KW  - Pain Perception/drug effects
+KW  - Pain Threshold/drug effects
+KW  - Quality of Life
+KW  - *Research Design
+KW  - Spain
+KW  - Time Factors
+KW  - Treatment Outcome
+PY  - 2013
+DA  - 2013/01//
+Y1  - 2013/01//
+AB  - BACKGROUND: Fibromyalgia is a prevalent chronic rheumatic disease of great clinical importance. Recent studies have found raised levels of glutamate in the insula, hippocampus and posterior cingulate cortex regions of the brains of fibromyalgia (FM) patients. This finding has led researchers to speculate about the usefulness of glutamate-blocking drugs such as memantine in the treatment of fibromyalgia. The hypothesis of this study is that the administration of memantine will reduce the glutamate levels, and futhermore, will decrease the perceived pain. The aim of this study is to evaluate the efficacy of memantine in the treatment of pain (pain perception). A secondary objective is to evaluate the efficacy of memantine in the treatment of other clinical symptoms of FM, and to evaluate the efficacy of memantine in reducing brain levels of glutamate, and its effects on the central nervous system as a whole. METHOD/DESIGN: A double-blind parallel randomized controlled trial. Participants, Seventy patients diagnosed with FM will be recruited from primary health care centers in Zaragoza, Spain. Intervention. The subjects will be randomized in two groups: A) A treatment group (n = 35), which will receive 20 mg of memantine daily; B) A control group (n = 35), to which will be administered a placebo. There will be a six-month follow-up period (including a titration period of one month). Outcomes. The main efficacy variable of this study is pain (pain perception). The secondary efficacy variables are clinical symptoms (pain threshold, cognitive function, health status, anxiety, depression, clinical impression and quality of life) and glutamate levels in different regions of the brain, which will be assessed by magnetic resonance spectroscopy. Randomization and blinding. Randomization has been computer-generated, and the random allocation sequence will be implemented by telephone. Subjects of the study and the research assistants will be blinded to group assignment. DISCUSSION: There is a need for the development of innovative and more effective treatments for fibromyalgia. This clinical trial will determine whether memantine can be an effective pharmacological treatment for fibromyalgia patients. TRIAL REGISTRATION: Current Controlled Trials http://ISRCTN45127327 EUDRACT 2011-006244-73.
+DO  - 10.1186/1745-6215-14-3 
+VL  - 14
+IS  - 
+SP  - 3
+CY  - England
+SN  - 1745-6215 (Linking)
+U1  - 132250875
+U2  - 23286311
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - The biochemical origin of pain: the origin of all pain is inflammation and the inflammatory response. Part 2 of 3 - inflammatory profile of pain syndromes.
+JF  - Medical hypotheses
+A1  - Omoigui S
+ST  - Omoigui (2007)
+KW  - eppi-reviewer
+KW  - Animals
+KW  - Biochemistry/methods
+KW  - Humans
+KW  - Immunity, Innate/*immunology
+KW  - Immunologic Factors/*immunology
+KW  - Inflammation/*immunology
+KW  - *Models, Immunological
+KW  - Models, Theoretical
+KW  - Pain/*diagnosis/*immunology/*physiopathology
+KW  - Signal Transduction/*immunology
+KW  - Syndrome
+PY  - 2007
+DA  - 2007///
+Y1  - 2007///
+AB  - Every pain syndrome has an inflammatory profile consisting of the inflammatory mediators that are present in the pain syndrome. The inflammatory profile may have variations from one person to another and may have variations in the same person at different times. The key to treatment of Pain Syndromes is an understanding of their inflammatory profile. Pain syndromes may be treated medically or surgically. The goal should be inhibition or suppression of production of the inflammatory mediators and inhibition, suppression or modulation of neuronal afferent and efferent (motor) transmission. A successful outcome is one that results in less inflammation and thus less pain. We hereby briefly describe the inflammatory profile for several pain syndromes including arthritis, back pain, neck pain, fibromyalgia, interstitial cystitis, migraine, neuropathic pain, complex regional pain syndrome/reflex sympathetic dystrophy (CRPS/RSD), bursitis, shoulder pain and vulvodynia. These profiles are derived from basic science and clinical research performed in the past by numerous investigators and serve as a foundation to be built upon by other researchers and will be updated in the future by new technologies such as magnetic resonance spectroscopy. Our unifying theory or law of pain states: the origin of all pain is inflammation and the inflammatory response. The biochemical mediators of inflammation include cytokines, neuropeptides, growth factors and neurotransmitters. Irrespective of the type of pain whether it is acute or chronic pain, peripheral or central pain, nociceptive or neuropathic pain, the underlying origin is inflammation and the inflammatory response. Activation of pain receptors, transmission and modulation of pain signals, neuro plasticity and central sensitization are all one continuum of inflammation and the inflammatory response. Irrespective of the characteristic of the pain, whether it is sharp, dull, aching, burning, stabbing, numbing or tingling, all pain arise from inflammation and the inflammatory response. We are proposing a re-classification and treatment of pain syndromes based upon their inflammatory profile.
+DO  - 10.1016/j.mehy.2007.06.033 
+VL  - 69
+IS  - 6
+SP  - 1169
+EP  - 78
+CY  - United States
+SN  - 0306-9877 (Linking)
+U1  - 132250891
+U2  - 17728071
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Use of P-31 magnetic resonance spectroscopy to detect metabolic abnormalities in muscles of patients with fibromyalgia.
+JF  - Arthritis and rheumatism
+A1  - Park JH
+A1  - Phothimat P
+A1  - Oates CT
+A1  - Hernanz-Schulman M
+A1  - Olsen NJ
+ST  - Park (1998)
+KW  - eppi-reviewer
+KW  - Adenosine Triphosphate/metabolism
+KW  - Adult
+KW  - Fatigue/physiopathology
+KW  - Female
+KW  - Fibromyalgia/*metabolism/physiopathology
+KW  - Health Status
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Middle Aged
+KW  - Muscle Weakness/physiopathology
+KW  - Muscle, Skeletal/*metabolism
+KW  - Pain/physiopathology
+KW  - Phosphates/metabolism
+KW  - Phosphocreatine/metabolism
+KW  - Phosphorus
+KW  - Physical Exertion
+KW  - Self-Assessment
+KW  - Thigh
+PY  - 1998
+DA  - 1998/03//
+Y1  - 1998/03//
+AB  - OBJECTIVE: To investigate the metabolic and functional status of muscles of fibromyalgia (FM) patients, using P-31 magnetic resonance spectroscopy (MRS). METHODS: Twelve patients with FM and 11 healthy subjects were studied. Clinical status was assessed by questionnaire. Biochemical status of muscle was evaluated with P-31 MRS by determining concentrations of inorganic phosphate (Pi), phosphocreatine (PCr), ATP, and phosphodiesters during rest and exercise. Functional status was evaluated from the PCr/Pi ratio, phosphorylation potential (PP), and total oxidative capacity (Vmax). RESULTS: Patients with FM reported greater difficulty in performing activities of daily living as well as increased pain, fatigue, and weakness compared with controls. MRS measurements showed that patients had significantly lower than normal PCr and ATP levels (P < 0.004) and PCr/Pi ratios (P < 0.04) in the quadriceps muscles during rest. Values for PP and Vmax also were significantly reduced during rest and exercise. CONCLUSION: P-31 MRS provides objective evidence for metabolic abnormalities consistent with weakness and fatigue in patients with FM. Noninvasive P-31 MRS may be useful in assessing clinical status and evaluating the effectiveness of treatment regimens in FM.
+DO  - 10.1002/1529-0131(199803)41:3<406::AID-ART5>3.0.CO;2-L 
+VL  - 41
+IS  - 3
+SP  - 406
+EP  - 13
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250898
+U2  - 9506567
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Evidence for metabolic abnormalities in the muscles of patients with fibromyalgia.
+JF  - Current rheumatology reports
+A1  - Park JH
+A1  - Niermann KJ
+A1  - Olsen N
+ST  - Park (2000)
+KW  - eppi-reviewer
+KW  - AMP Deaminase/deficiency
+KW  - Adult
+KW  - Comorbidity
+KW  - Female
+KW  - Fibromyalgia/diagnosis/*epidemiology/*metabolism
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Muscle Fatigue
+KW  - Muscle, Skeletal/*metabolism
+KW  - Muscular Diseases/diagnosis/*epidemiology/metabolism
+KW  - Prognosis
+KW  - Risk Assessment
+KW  - Risk Factors
+PY  - 2000
+DA  - 2000/04//
+Y1  - 2000/04//
+AB  - Widespread muscle pain, fatigue, and weakness are defining characteristics of patients with fibromyalgia (FM). The aim of this review is to summarize recent investigations of muscle abnormalities in FM, which can be classified as structural, metabolic, or functional in nature. Histologic muscle abnormalities of membranes, mitochondria, and fiber type have been well described at both the light microscopic and ultrastructural levels. These structural abnormalities often correlate with biochemical abnormalities, defective energy production, and the resultant dysfunction of FM muscles. The observed abnormalities in FM muscles are consistent with neurologic findings and disturbances in the hypothalamic-pituitary-adrenal axis. Functional changes in FM muscles are assessed most directly by strength and endurance measurements, but pain and psychologic factors may interfere with accurate assessments. To compensate for diminished effort, the decreased efficiency of the work performance by patients with FM can be verified from P-31 magnetic resonance spectroscopy (MRS) data by calculation of the work/energy-cost ratio for various tasks. In the disease course, muscle abnormalities may be elicited by intrinsic changes within the muscle tissue itself and/or extrinsic neurologic and endocrine factors. The accurate assignment of intrinsic or extrinsic factors has been substantially clarified by a recent surge of experimental findings. Irrespective of the multifaceted causes of muscle dysfunction and pain, an in-depth understanding of the muscle defects may provide ideas for characterization of the underlying pathogenesis and development of new therapeutic approaches for fibromyalgia syndrome.
+DO  - 10.1007/s11926-000-0053-3 
+VL  - 2
+IS  - 2
+SP  - 131
+EP  - 40
+CY  - United States
+SN  - 1523-3774 (Linking)
+U1  - 132250895
+U2  - 11123050
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Proton MR spectroscopy in the evaluation of cerebral metabolism in patients with fibromyalgia: comparison with healthy controls and correlation with symptom severity.
+JF  - AJNR. American journal of neuroradiology
+A1  - Petrou M
+A1  - Harris RE
+A1  - Foerster BR
+A1  - McLean SA
+A1  - Sen A
+A1  - Clauw DJ
+A1  - Sundgren PC
+ST  - Petrou (2008)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Brain/*metabolism
+KW  - Female
+KW  - Fibromyalgia/*diagnosis/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy/*methods
+KW  - Male
+KW  - Middle Aged
+KW  - *Protons
+KW  - Reference Values
+KW  - Reproducibility of Results
+KW  - Sensitivity and Specificity
+KW  - *Severity of Illness Index
+KW  - Statistics as Topic
+PY  - 2008
+DA  - 2008/05//
+Y1  - 2008/05//
+AB  - BACKGROUND AND PURPOSE: Widespread pain sensitivity in patients with fibromyalgia (FM) suggests a central nervous system (CNS)-processing problem. Therefore, it is conceivable that metabolic alterations exist in pain-processing brain regions of people with FM compared with healthy controls (HC) and that such metabolic data could correlate with clinical symptoms. The purpose of this study was to test these hypotheses using proton MR spectroscopy ((1)H-MR spectroscopy). MATERIALS AND METHODS: There were 21 patients with FM and 27 HC who underwent conventional structural MR imaging and additional 2D-chemical shift imaging (CSI) MR-spectroscopy sequences. For the 2D-CSI spectroscopy, larger volumes of interest (VOIs) were centered at the level of the basal ganglia and the supraventricular white matter. Within these larger areas, 16 smaller voxels were placed in a number of regions previously implicated in pain processing. N-acetylaspartate (NAA)/creatine(Cr), choline (Cho)/Cr and NAA/Cho ratios were calculated for each voxel. Subjects underwent clinical and experimental pain assessment. RESULTS: Mean metabolite ratios and ratio variability for each region were analyzed by using repeated-measures analysis of variance (ANOVA). Correlations between clinical symptoms and metabolite ratios were assessed. Cho/Cr variability in the right dorsolateral prefrontal cortex (DLPFC) was significantly different in the 2 groups; a significant correlation between Cho/Cr in this location and clinical pain was present in the FM group. Evoked pain threshold correlated significantly with NAA/Cho ratios in the left insula and left basal ganglia. CONCLUSION: Our data suggest that there are baseline differences in the variability of brain metabolite relative concentrations between patients with FM and HC, especially in the right DLPFC. Furthermore, there are significant correlations between metabolite ratios and clinical and experimental pain parameters in patients with FM.
+DO  - 10.3174/ajnr.A0959 
+VL  - 29
+IS  - 5
+SP  - 913
+EP  - 8
+CY  - United States
+SN  - 0195-6108 (Linking)
+U1  - 132250889
+U2  - 18339723
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Histological Underpinnings of Grey Matter Changes in Fibromyalgia Investigated Using Multimodal Brain Imaging.
+JF  - The Journal of neuroscience : the official journal of the Society for Neuroscience
+A1  - Pomares FB
+A1  - Funck T
+A1  - Feier NA
+A1  - Roy S
+A1  - Daigle-Martel A
+A1  - Ceko M
+A1  - Narayanan S
+A1  - Araujo D
+A1  - Thiel A
+A1  - Stikov N
+A1  - Fitzcharles MA
+A1  - Schweinhardt P
+ST  - Pomares (2017)
+KW  - eppi-reviewer
+KW  - Aged
+KW  - Body Water/metabolism
+KW  - Brain Chemistry
+KW  - Chronic Pain/diagnostic imaging/psychology
+KW  - Female
+KW  - Fibromyalgia/*diagnostic imaging/psychology
+KW  - Flumazenil/analogs & derivatives
+KW  - Gray Matter/chemistry/*diagnostic imaging
+KW  - Humans
+KW  - Image Processing, Computer-Assisted
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Multimodal Imaging/*methods
+KW  - Positron-Emission Tomography
+KW  - Postmenopause
+KW  - Radiopharmaceuticals
+KW  - Receptors, GABA-A/metabolism
+KW  - chronic pain
+KW  - flumazenil PET
+KW  - grey matter
+KW  - neurodegeneration
+KW  - voxel-based morphometry
+PY  - 2017
+DA  - 2017/02//
+Y1  - 2017/02//
+AB  - Chronic pain patients present with cortical gray matter alterations, observed with anatomical magnetic resonance (MR) imaging. Reduced regional gray matter volumes are often interpreted to reflect neurodegeneration, but studies investigating the cellular origin of gray matter changes are lacking. We used multimodal imaging to compare 26 postmenopausal women with fibromyalgia with 25 healthy controls (age range: 50-75 years) to test whether regional gray matter volume decreases in chronic pain are associated with compromised neuronal integrity. Regional gray matter decreases were largely explained by T1 relaxation times in gray matter, a surrogate measure of water content, and not to any substantial degree by GABA(A) receptor concentration, an indirect marker of neuronal integrity measured with [(18)F] flumazenil PET. In addition, the MR spectroscopy marker of neuronal viability, N-acetylaspartate, did not differ between patients and controls. These findings suggest that decreased gray matter volumes are not explained by compromised neuronal integrity. Alternatively, a decrease in neuronal matter could be compensated for by an upregulation of GABA(A) receptors. The relation between regional gray matter and T1 relaxation times suggests decreased tissue water content underlying regional gray matter decreases. In contrast, regional gray matter increases were explained by GABA(A) receptor concentration in addition to T1 relaxation times, indicating perhaps increased neuronal matter or GABA(A) receptor upregulation and inflammatory edema. By providing information on the histological origins of cerebral gray matter alterations in fibromyalgia, this study advances the understanding of the neurobiology of chronic widespread pain. SIGNIFICANCE STATEMENT: Regional gray matter alterations in chronic pain, as detected with voxel-based morphometry of anatomical magnetic resonance images, are commonly interpreted to reflect neurodegeneration, but this assumption has not been tested. We found decreased gray matter in fibromyalgia to be associated with T1 relaxation times, a surrogate marker of water content, but not with GABA(A) receptor concentration, a surrogate of neuronal integrity. In contrast, regional gray matter increases were partly explained by GABA(A) receptor concentration, indicating some form of neuronal plasticity. The study emphasizes that voxel-based morphometry is an exploratory measure, demonstrating the need to investigate the histological origin of gray matter alterations for every distinct clinical entity, and advances the understanding of the neurobiology of chronic (widespread) pain.
+DO  - 10.1523/JNEUROSCI.2619-16.2016 
+VL  - 37
+IS  - 5
+SP  - 1090
+EP  - 1101
+CY  - United States
+SN  - 0270-6474 (Linking)
+U1  - 132250863
+U2  - 27986927
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Upregulation of cortical GABAA receptor concentration in fibromyalgia.
+JF  - Pain
+A1  - Pomares FB
+A1  - Roy S
+A1  - Funck T
+A1  - Feier NA
+A1  - Thiel A
+A1  - Fitzcharles MA
+A1  - Schweinhardt P
+ST  - Pomares (2020)
+KW  - eppi-reviewer
+KW  - Aged
+KW  - Attention/physiology
+KW  - Cerebral Cortex/diagnostic imaging/*metabolism
+KW  - Female
+KW  - Fibromyalgia/diagnostic imaging/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Mental Recall/physiology
+KW  - Middle Aged
+KW  - Neuropsychological Tests
+KW  - Pain Measurement
+KW  - Pain Threshold/*physiology
+KW  - Positron-Emission Tomography
+KW  - Receptors, GABA-A/*metabolism
+KW  - *Up-Regulation
+PY  - 2020
+DA  - 2020/01//
+Y1  - 2020/01//
+AB  - An imbalance between excitatory and inhibitory neurotransmission has been linked to fibromyalgia (FM). Magnetic resonance spectroscopy has shown increased levels of glutamate in the insula and posterior cingulate cortex in FM as well as reduced insular levels of gamma-aminobutyric acid (GABA). Both of these changes have been associated with increased pain sensitivity. However, it is not clear whether excitatory and/or inhibitory neurotransmission is altered across the brain. Therefore, the aim of this study was to quantify GABAA receptor concentration on the whole brain level in FM to investigate a potential dysregulation of the GABAergic system. Fifty-one postmenopausal women (26 FM, 25 matched controls) underwent assessments of pain sensitivity, attention and memory, psychological status and function, as well as positron emission tomography imaging using a tracer for GABAA receptors, [F]flumazenil. Patients showed increased pain sensitivity, impaired immediate memory, and increased cortical GABAA receptor concentration in the attention and default-mode networks. No decrease of GABAA receptor concentration was observed. Across the 2 groups, GABAA receptor concentration correlated positively with functional scores and current pain in areas overlapping with regions of increased GABAA receptor concentration. This study shows increased GABAA receptor concentration in FM, associated with pain symptoms and impaired function. The changes were widespread and not restricted to pain-processing regions. These findings suggest that the GABAergic system is altered, possibly indicating an imbalance between excitatory and inhibitory neurotransmission. Future studies should try to understand the nature of the dysregulation of the GABAergic system in FM and in other pain syndromes.
+DO  - 10.1097/j.pain.0000000000001707 
+VL  - 161
+IS  - 1
+SP  - 74
+EP  - 82
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250857
+U2  - 31569142
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Measuring Glutamate Levels in the Brains of Fibromyalgia Patients and a Potential Role for Glutamate in the Pathophysiology of Fibromyalgia Symptoms: A Systematic Review.
+JF  - The Clinical journal of pain
+A1  - Pyke TL
+A1  - Osmotherly PG
+A1  - Baines S
+ST  - Pyke (2017)
+KW  - eppi-reviewer
+KW  - Brain/diagnostic imaging/*metabolism
+KW  - Fibromyalgia/diagnostic imaging/*metabolism
+KW  - Glutamic Acid/*metabolism
+KW  - Humans
+KW  - *Proton Magnetic Resonance Spectroscopy
+PY  - 2017
+DA  - 2017/10//
+Y1  - 2017/10//
+AB  - OBJECTIVES: The aim of this study was to systematically review the literature concerning proton magnetic resonance spectroscopy (H-MRS) measured glutamate levels in specific brain regions of fibromyalgia (FM) patients to determine if there is a correlation between raised glutamate levels and the presentation of FM. MATERIALS AND METHODS: The electronic databases-MEDLINE, EMBASE Classic+Embase, PsychINFO, Cochrane Database of Systematic Reviews, Cochrane Database of Abstracts of Reviews of Effect, Cochrane Central Register of Controlled Trials-were searched to find original studies that used H-MRS to measure glutamate concentrations in the brains of FM patients. RESULTS: Nine studies with a total of 482 participants were selected for inclusion in the review. Seven of the 8 studies that investigated an association between cerebral glutamate levels and FM, showed a positive association. Brain regions identified as having increased glutamate levels include the posterior cingulate gyrus, posterior insula, ventrolateral prefrontal cortex, and amygdala. One study reported a decrease in glutamate levels in the hippocampus of FM patients compared with healthy controls. Seven of the 8 studies that analyzed the correlations between cerebral glutamate levels and FM symptoms, found a significant positive correlation. DISCUSSION: Although the cause of FM remains inconclusive, there is converging data in favor of a dysregulation of pain processing in the central nervous system of FM patients, particularly associated with an increase in cerebral glutamate levels. Furthermore, there is evidence to support an association between increased glutamate levels and an increase in FM symptoms.
+DO  - 10.1097/AJP.0000000000000474 
+VL  - 33
+IS  - 10
+SP  - 944
+EP  - 954
+CY  - United States
+SN  - 0749-8047 (Linking)
+U1  - 132250862
+U2  - 28033157
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Cingulate GABA levels inversely correlate with the intensity of ongoing chronic knee osteoarthritis pain.
+JF  - Molecular pain
+A1  - Reckziegel D
+A1  - Raschke F
+A1  - Cottam WJ
+A1  - Auer DP
+ST  - Reckziegel (2016)
+KW  - eppi-reviewer
+KW  - Aged
+KW  - Demography
+KW  - Female
+KW  - Gyrus Cinguli/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Male
+KW  - Metabolome
+KW  - Middle Aged
+KW  - Osteoarthritis, Knee/*metabolism/*pathology
+KW  - Pain/*metabolism/*pathology
+KW  - gamma-Aminobutyric Acid/*metabolism
+KW  - Osteoarthritis pain
+KW  - anterior cingulate cortex
+KW  - magnetic resonance spectroscopy
+KW  - neurotransmission
+KW  - pain chronification
+KW  - gamma-aminobutyric acid
+PY  - 2016
+DA  - 2016///
+Y1  - 2016///
+AB  - BACKGROUND: This study aims to investigate the role of the mid-anterior cingulate cortex gamma-aminobutyric acid levels in chronic nociceptive pain. The molecular mechanisms of pain chronification are not well understood. In fibromyalgia, low mid-anterior cingulate cortex gamma-aminobutyric acid was associated with high pain suggesting a role of prefrontal disinhibition. We hypothesize that mid-anterior cingulate cortex GABAergic disinhibition may underpin chronic pain independent of the pain etiology and comorbid negative affect. Proton magnetic resonance spectra were acquired at 3T from the mid-anterior cingulate cortex in 20 patients with chronic painful knee osteoarthritis, and 19 healthy pain-free individuals using a point resolved spectroscopy sequence optimized for detection of gamma-aminobutyric acid. Participants underwent questionnaires for negative affect (depression and anxiety) and psychophysical pain phenotyping. RESULTS: No differences in mid-anterior cingulate cortex gamma-aminobutyric acid or other metabolite levels were detected between groups. Ratings of perceived intensity of ongoing osteoarthritis pain were inversely correlated with gamma-aminobutyric acid (r = -0.758, p < 0.001), but no correlations were seen for negative affect or pain thresholds. The pain gamma-aminobutyric acid interrelation remained strong when controlling for depression (r = -0.820, p < 0.001). Combined levels of glutamine and glutamate were unrelated to psychometric or to pain thresholds. CONCLUSION: Our study supports mid-anterior cingulate cortex gamma-aminobutyric acid as a potential marker of pain severity in chronic nociceptive pain states independent of negative affect. The findings suggest that GABAergic disinhibition of the salience network may underlie sensitization to averse stimuli as a mechanism contributing to pain chronification.
+DO  - 10.1177/1744806916650690 
+VL  - 12
+IS  - 
+CY  - United States
+SN  - 1744-8069 (Linking)
+U1  - 132250865
+U2  - 27206661
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Multimodal MRI of myalgic encephalomyelitis/chronic fatigue syndrome: A cross-sectional neuroimaging study toward its neuropathophysiology and diagnosis.
+JF  - Frontiers in neurology
+A1  - Shan ZY
+A1  - Mohamed AZ
+A1  - Andersen T
+A1  - Rendall S
+A1  - Kwiatek RA
+A1  - Fante PD
+A1  - Calhoun VD
+A1  - Bhuta S
+A1  - Lagopoulos J
+ST  - Shan (2022)
+KW  - eppi-reviewer
+KW  - ME/CFS
+KW  - MRI
+KW  - neuromarker
+KW  - neurovascular coupling
+KW  - translational neuroimaging
+PY  - 2022
+DA  - 2022///
+Y1  - 2022///
+AB  - INTRODUCTION: Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), is a debilitating illness affecting up to 24 million people worldwide but concerningly there is no known mechanism for ME/CFS and no objective test for diagnosis. A series of our neuroimaging findings in ME/CFS, including functional MRI (fMRI) signal characteristics and structural changes in brain regions particularly sensitive to hypoxia, has informed the hypothesis that abnormal neurovascular coupling (NVC) may be the neurobiological origin of ME/CFS. NVC is a critical process for normal brain function, in which glutamate from an active neuron stimulates Ca(2+) influx in adjacent neurons and astrocytes. In turn, increased Ca(2+) concentrations in both astrocytes and neurons trigger the synthesis of vascular dilator factors to increase local blood flow assuring activated neurons are supplied with their energy needs.This study investigates NVC using multimodal MRIs: (1) hemodynamic response function (HRF) that represents regional brain blood flow changes in response to neural activities and will be modeled from a cognitive task fMRI; (2) respiration response function (RRF) represents autoregulation of regional blood flow due to carbon dioxide and will be modeled from breath-holding fMRI; (3) neural activity associated glutamate changes will be modeled from a cognitive task functional magnetic resonance spectroscopy. We also aim to develop a neuromarker for ME/CFS diagnosis by integrating the multimodal MRIs with a deep machine learning framework. METHODS AND ANALYSIS: This cross-sectional study will recruit 288 participants (91 ME/CFS, 61 individuals with chronic fatigue, 91 healthy controls with sedentary lifestyles, 45 fibromyalgia). The ME/CFS will be diagnosed by consensus diagnosis made by two clinicians using the Canadian Consensus Criteria 2003. Symptoms, vital signs, and activity measures will be collected alongside multimodal MRI.The HRF, RRF, and glutamate changes will be compared among four groups using one-way analysis of covariance (ANCOVA). Equivalent non-parametric methods will be used for measures that do not exhibit a normal distribution. The activity measure, body mass index, sex, age, depression, and anxiety will be included as covariates for all statistical analyses with the false discovery rate used to correct for multiple comparisons.The data will be randomly divided into a training (N = 188) and a validation (N = 100) group. Each MRI measure will be entered as input for a least absolute shrinkage and selection operator-regularized principal components regression to generate a brain pattern of distributed clusters that predict disease severity. The identified brain pattern will be integrated using multimodal deep Boltzmann machines as a neuromarker for predicting ME/CFS fatigue conditions. The receiver operating characteristic curve of the identified neuromarker will be determined using data from the validation group. ETHICS AND STUDY REGISTRY: This study was reviewed and approved by University of the Sunshine Coast University Ethics committee (A191288) and has been registered with The Australian New Zealand Clinical Trials Registry (ACTRN12622001095752). DISSEMINATION OF RESULTS: The results will be disseminated through peer reviewed scientific manuscripts and conferences and to patients through social media and active engagement with ME/CFS associations.
+DO  - 10.3389/fneur.2022.954142 
+VL  - 13
+IS  - 
+SP  - 954142
+CY  - Switzerland
+SN  - 1664-2295 (Linking)
+U1  - 132250846
+U2  - 36188362
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Lack of association between fibromyalgia syndrome and abnormalities in muscle energy metabolism.
+JF  - Arthritis and rheumatism
+A1  - Simms RW
+A1  - Roy SH
+A1  - Hrovat M
+A1  - Anderson JJ
+A1  - Skrinar G
+A1  - LePoole SR
+A1  - Zerbini CA
+A1  - de Luca C
+A1  - Jolesz F
+ST  - Simms (1994)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - *Energy Metabolism
+KW  - Exercise/physiology
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Humans
+KW  - Hydrogen-Ion Concentration
+KW  - Magnetic Resonance Spectroscopy
+KW  - Muscles/*metabolism
+KW  - Rest/physiology
+PY  - 1994
+DA  - 1994/06//
+Y1  - 1994/06//
+AB  - OBJECTIVE: To compare parameters of muscle energy metabolism in patients with fibromyalgia syndrome (FMS) and sedentary controls. METHODS: Thirteen female FMS patients and 13 female sedentary controls underwent a standardized clinical assessment (including dolorimeter measurements of the upper trapezius and tibialis anterior muscles) and a standardized aerobic fitness test including measurement of maximum oxygen uptake (VO2max). Phosphorus (31P) magnetic resonance spectroscopy studies of the upper trapezius and tibialis anterior muscles were then performed in FMS patients and controls, at rest and during and following a muscle-fatiguing exercise protocol. RESULTS: FMS patients and controls had similar levels of VO2max and of maximum voluntary contraction (MVC) of the upper trapezius and tibialis anterior muscles. After controlling for VO2max and MVC, measurements of phosphocreatine (PCr), inorganic phosphate (P(i)), and intracellular pH in these muscles were not significantly different in FMS patients versus sedentary controls either at rest, during exercise, or during recovery. In the patients with FMS, no correlation was found between overall or local pain severity and the principal muscle metabolic parameter, PCr/P(i). Inverse correlations between dolorimeter scores at 2 muscle sites and tibialis anterior PCr/P(i) were found both in patients and in controls. CONCLUSION: This study demonstrates that under the conditions studied, muscle energy metabolism in FMS is no different than that in sedentary controls. These findings do not support the hypothesis that detectable defects in muscle energy metabolism occur in FMS.
+DO  - 10.1002/art.1780370603 
+VL  - 37
+IS  - 6
+SP  - 794
+EP  - 800
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250905
+U2  - 8003050
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Is there muscle pathology in fibromyalgia syndrome?
+JF  - Rheumatic diseases clinics of North America
+A1  - Simms RW
+ST  - Simms (1996)
+KW  - eppi-reviewer
+KW  - Biopsy
+KW  - Electromyography
+KW  - Fibromyalgia/metabolism/*pathology/physiopathology
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Muscles/metabolism/*pathology/physiopathology
+KW  - Syndrome
+PY  - 1996
+DA  - 1996/05//
+Y1  - 1996/05//
+AB  - A number of studies have reported abnormalities in the muscles of fibromyalgia patients. The early studies, some of which indicated morphologic abnormalities, had major problems with patient selection and lacked adequate control groups. More recent studies of morphology have shown only nonspecific or mild changes, perhaps consistent with subtle metabolic abnormalities, especially at tender point sites. Studies of muscle metabolism, however, particularly the more rigorous studies using MR spectroscopy, have failed to confirm abnormalities in muscle metabolism, both at tender and nontender point locations. The abnormalities detected in earlier studies appear to have been confounded by subtle metabolic changes resulting from muscle deconditioning. Studies of muscle blood flow also demonstrate abnormalities that can be explained by deconditioning alone. Studies of muscle strength that show differences between patients and controls can be explained by lack of voluntary effort. A popular theory of the genesis of pain in fibromyalgia syndrome was that excessive muscle tension led to increased excitability of nociceptors in muscle leading to muscle hypertension and chronic pain. Furthermore, defective sympathetic control was proposed to result in disturbed microcirculation and nociceptor excitation. In aggregate, however, studies using EMG techniques show no evidence of excessive muscle tension or defective sympathetic nervous function. Therefore, although muscular pain has been a central feature of fibromyalgia syndrome, controlled studies of muscle fail to support a convincing role for muscle in the pathophysiology of the condition. Muscle tenderness in fibromyalgia cannot be explained on the basis of primary muscle abnormalities, either structural or functional. Future pathophysiologic studies in fibromyalgia should focus on central mechanisms.
+DO  - 10.1016/s0889-857x(05)70271-4 
+VL  - 22
+IS  - 2
+SP  - 245
+EP  - 66
+CY  - United States
+SN  - 0889-857X (Linking)
+U1  - 132250900
+U2  - 8860798
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - A neurometabolite study of chronic daily headache in patients with systemic lupus erythematosus using magnetic resonance spectroscopy: comparison with fibromyalgia patients and healthy controls.
+JF  - The Korean journal of internal medicine
+A1  - Son CN
+A1  - Kim SH
+A1  - Chang HW
+A1  - Kim JM
+ST  - Son (2016)
+KW  - eppi-reviewer
+KW  - Biomarkers/metabolism
+KW  - Brain/*metabolism/physiopathology
+KW  - Case-Control Studies
+KW  - Cross-Sectional Studies
+KW  - Fibromyalgia/diagnosis/*metabolism/physiopathology
+KW  - Headache Disorders/diagnosis/*metabolism/physiopathology
+KW  - Humans
+KW  - Lupus Erythematosus
+KW  - Systemic/diagnosis/*metabolism/physiopathology
+KW  - Magnetic Resonance Imaging
+KW  - Metabolomics/*methods
+KW  - Predictive Value of Tests
+KW  - *Proton Magnetic Resonance Spectroscopy
+KW  - Headache disorders
+KW  - Lupus erythematosus
+KW  - systemic
+KW  - Proton magnetic resonance spectroscopy
+PY  - 2016
+DA  - 2016/11//
+Y1  - 2016/11//
+AB  - BACKGROUND/AIMS: Neuropsychiatric systemic lupus erythematosus (SLE) includes a broad spectrum of neurologic and psychiatric manifestations. One of the most commonly observed neuropsychiatric symptoms is headache. However, the lack of specific clinical distinctions for headache in SLE has made it difficult to elucidate its pathophysiology. The aim of this study is to evaluate the neurometabolic changes using Proton Magnetic Resonance Spectroscopy ((1)H-MRS) in patients with SLE who suffer from chronic daily headache (CDH). METHODS: SLE and fibromyalgia patients with CDH and healthy controls were recruited (n = 9, n = 5, and n = 6, respectively). (1)H-MRS metabolite ratios were evaluated in bilateral basal ganglia (BG) and bilateral peritrigonal white matter (PWM). RESULTS: (1)H-MRS showed a significantly decreased N-acetylaspartate (NAA)/creatine (Cr) ratio in right BG in SLE patients with CDH compared to fibromyalgia patients with CDH and normal controls (p = 0.029 and p = 0.020, respectively). Left PWM NAA/Cr and choline/Cr ratios in SLE patients with CDH were lower than those in fibromyalgia patients with CDH (p = 0.019 and p = 0.029, respectively). CONCLUSIONS: This study suggests the possibility that CDH in patients with SLE might be associated with neuronal dysfunction and neurometabolic changes.
+DO  - 10.3904/kjim.2015.196 
+VL  - 31
+IS  - 6
+SP  - 1171
+EP  - 1177
+CY  - Korea (South)
+SN  - 1226-3303 (Linking)
+U1  - 132250864
+U2  - 27017392
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - 31P magnetic resonance spectroscopy in fibromyalgic muscle.
+JF  - Rheumatology (Oxford, England)
+A1  - Sprott H
+A1  - Rzanny R
+A1  - Reichenbach JR
+A1  - Kaiser WA
+A1  - Hein G
+A1  - Stein G
+ST  - Sprott (2000)
+KW  - eppi-reviewer
+KW  - Adenosine Triphosphate/metabolism
+KW  - Adult
+KW  - Ethanolamines/metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Glycerylphosphorylcholine/metabolism
+KW  - Humans
+KW  - *Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Middle Aged
+KW  - Muscle, Skeletal/*metabolism
+KW  - Nucleosides/metabolism
+KW  - Phosphates/metabolism
+KW  - Phosphatidylethanolamines/metabolism
+KW  - Phosphocreatine/metabolism
+KW  - Phosphorus
+KW  - Phosphorylcholine/metabolism
+KW  - Reference Values
+PY  - 2000
+DA  - 2000/10//
+Y1  - 2000/10//
+AB  - OBJECTIVE: To measure inorganic phosphate (Pi), phosphocreatine (PCr), ATP and phosphodiesters (PDE) in fibromyalgic muscle tissue by (31)P magnetic resonance spectroscopy. METHODS: A 1.5 Tesla scanner with a P 100 surface coil was used to examine 15 patients (mean age 49.9+/-14.3 yr) with fibromyalgia, according to the American College of Rheumatology criteria, and 17 healthy controls (mean age 30.2+/-5.8 yr). RESULTS: Compared with the controls, there were increases in the levels of PDE (+22%, P = 0.032) and Pi (+19%, P = 0.019) in the spectra of fibromyalgia patients, but there was no difference in pH. CONCLUSION: The metabolic differences we found may have been related to weakness and fatigue in the fibromyalgia patients, but they do not fully explain the fibromyalgia symptoms.
+DO  - 10.1093/rheumatology/39.10.1121 
+VL  - 39
+IS  - 10
+SP  - 1121
+EP  - 5
+CY  - England
+SN  - 1462-0324 (Linking)
+U1  - 132250896
+U2  - 11035133
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Abnormalities of fibromyalgia pain processing: use of magnetic resonance spectroscopy as a window to the brain.
+JF  - Current rheumatology reports
+A1  - Staud R
+ST  - Staud (2008)
+KW  - eppi-reviewer
+PY  - 2008
+DA  - 2008/12//
+Y1  - 2008/12//
+AB  - 
+DO  - 10.1007/s11926-008-0075-9 
+VL  - 10
+IS  - 6
+SP  - 461
+EP  - 2
+CY  - United States
+SN  - 1523-3774 (Linking)
+U1  - 132250885
+U2  - 19007536
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Brain imaging in fibromyalgia syndrome.
+JF  - Clinical and experimental rheumatology
+A1  - Staud R
+ST  - Staud (2011)
+KW  - eppi-reviewer
+KW  - Brain/*pathology/physiopathology
+KW  - Chronic Pain/*diagnosis/physiopathology
+KW  - Fibromyalgia/*diagnosis/physiopathology
+KW  - Humans
+KW  - Magnetic Resonance Imaging/*methods
+KW  - Syndrome
+PY  - 2011
+DA  - 2011/11//
+Y1  - 2011/11//
+AB  - Fibromyalgia (FM) is a chronic musculoskeletal pain syndrome which is characterised by clinical pain as well as widespread hyperalgesia/allodynia to mechanical, thermal, electrical, and chemical stimuli. Lack of consistent tissue abnormalities in FM patients has more and more shifted the focus away from peripheral factors and towards central nervous system abnormalities including central sensitisation as well as aberrant pain facilitation and inhibition. Besides quantitative sensory testing, functional brain imaging has been increasingly utilised to characterise the abnormal pain processing of FM patients. Whereas initial work in FM patients identified abnormally increased pain-related brain activity within the thalamus, insula, anterior cingulate, S1, and prefrontal cortex (so-called 'pain matrix'), more recent research focused on altered 'connectivity' between multiple interconnected brain networks in these patients. Additionally, magnetic resonance spectroscopy studies demonstrated high concentration of the excitatory neurotransmitter glutamate in FM patients in pain-related brain areas which correlated not only with experimental but also with clinical pain ratings. Overall, functional brain imaging studies have provided compelling evidence for abnormal pain processing in FM, including brain activity that correlated with patients' augmented pain sensitivity (hyperalgesia/allodynia), temporal summation of pain, and prolonged pain aftersensations. Future imaging work needs to focus on identifying the neural correlates of FM patients' abnormal endogenous pain modulation which will likely not only shed more light on this important pain regulatory mechanism but may also provide useful information for future treatments of FM symptoms.
+VL  - 29
+IS  - 6 Suppl 69
+SP  - S109
+EP  - 17
+CY  - Italy
+SN  - 0392-856X (Linking)
+U1  - 132250876
+U2  - 22243558
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Tissue oxygen measurement and 31P magnetic resonance spectroscopy in patients with muscle tension and fibromyalgia.
+JF  - Rheumatology international
+A1  - Strobel ES
+A1  - Krapf M
+A1  - Suckfull M
+A1  - Bruckle W
+A1  - Fleckenstein W
+A1  - Muller W
+ST  - Strobel (1997)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aged
+KW  - *Energy Metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Humans
+KW  - Hydrogen-Ion Concentration
+KW  - Low Back Pain/*metabolism
+KW  - Magnetic Resonance Spectroscopy/methods
+KW  - Male
+KW  - Middle Aged
+KW  - Muscle Contraction
+KW  - Muscle Rigidity/*metabolism
+KW  - Muscle, Skeletal/*metabolism
+KW  - *Oxygen Consumption
+KW  - Phosphorus Isotopes
+PY  - 1997
+DA  - 1997///
+Y1  - 1997///
+AB  - Muscle tissue oxygen tension was measured by a polarographic oxygen fine-needle probe, and inorganic phosphate and creatine phosphate spectra were recorded using magnetic resonance spectroscopy in patients with chronic low back pain and in patients with fibromyalgia. Results were compared with healthy controls. The tissue oxygen tension was markedly higher in those with tense muscles than in normal subjects. Magnetic resonance spectra for inorganic phosphate were higher in patients demonstrating muscle contraction, and intracellular pH was shifted in the alkaline direction in cases with increased muscle tension. Results show that hypoxia is not the result of increased muscle tension, as was thought previously, but results from oversupply of oxygen demanded by the muscle, leading to increased capillary perfusion and rising oxygen tension.
+DO  - 10.1007/BF01330292 
+VL  - 16
+IS  - 5
+SP  - 175
+EP  - 80
+CY  - Germany
+SN  - 0172-8172 (Linking)
+U1  - 132250899
+U2  - 9032815
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Increased glutamate/glutamine compounds in the brains of patients with fibromyalgia: a magnetic resonance spectroscopy study.
+JF  - Arthritis and rheumatism
+A1  - Valdes M
+A1  - Collado A
+A1  - Bargallo N
+A1  - Vazquez M
+A1  - Rami L
+A1  - Gomez E
+A1  - Salamero M
+ST  - Valdes (2010)
+KW  - eppi-reviewer
+KW  - Anxiety/complications/diagnosis
+KW  - Brain/*metabolism
+KW  - Brain Mapping
+KW  - Chi-Square Distribution
+KW  - Creatine/metabolism
+KW  - Depression/complications/diagnosis
+KW  - Female
+KW  - Fibromyalgia/complications/*metabolism
+KW  - Glutamic Acid/*metabolism
+KW  - Glutamine/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Psychiatric Status Rating Scales
+PY  - 2010
+DA  - 2010/06//
+Y1  - 2010/06//
+AB  - OBJECTIVE: Fibromyalgia (FM) has been defined as a systemic disorder that is clinically characterized by pain, cognitive deficit, and the presence of associated psychopathology, all of which are suggestive of a primary brain dysfunction. This study was undertaken to identify the nature of this cerebral dysfunction by assessing the brain metabolite patterns in patients with FM through magnetic resonance spectroscopy (MRS) techniques. METHODS: A cohort of 28 female patients with FM and a control group of 24 healthy women of the same age were studied. MRS techniques were used to study brain metabolites in the amygdala, thalami, and prefrontal cortex of these women. RESULTS: In comparison with healthy controls, patients with FM showed higher levels of glutamate/glutamine (Glx) compounds (mean +/- SD 11.9 +/- 1.6 arbitrary units [AU] versus 13.4 +/- 1.7 AU in controls and patients, respectively; t = 2.517, 35 df, corrected P = 0.03) and a higher Glx:creatine ratio (mean +/- SD 2.1 +/- 0.4 versus 2.4 +/- 1.4, respectively; t = 2.373, 35 df, corrected P = 0.04) in the right amygdala. In FM patients with increased levels of pain intensity, greater fatigue, and more symptoms of depression, inositol levels in the right amygdala and right thalamus were significantly higher. CONCLUSION: The distinctive metabolic features found in the right amygdala of patients with FM suggest the possible existence of a neural dysfunction in emotional processing. The results appear to extend previous findings regarding the dysfunction in pain processing observed in patients with FM.
+DO  - 10.1002/art.27430 
+VL  - 62
+IS  - 6
+SP  - 1829
+EP  - 36
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250882
+U2  - 20191578
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - 31P NMR spectroscopy and electromyography during exercise and recovery in patients with fibromyalgia.
+JF  - The Journal of rheumatology
+A1  - Vestergaard-Poulsen P
+A1  - Thomsen C
+A1  - Norregaard J
+A1  - Bulow P
+A1  - Sinkjaer T
+A1  - Henriksen O
+ST  - Vestergaard-Poulsen (1995)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Electromyography
+KW  - Female
+KW  - Fibromyalgia/*physiopathology
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Muscle Contraction
+KW  - Muscle Fatigue
+KW  - Muscle, Skeletal/metabolism/*physiopathology
+KW  - Physical Endurance
+KW  - Physical Exertion/*physiology
+PY  - 1995
+DA  - 1995/08//
+Y1  - 1995/08//
+AB  - OBJECTIVE: To investigate whether patients with fibromyalgia (FM) have normal motor unit recruitment in relation to muscle metabolism during exhausting exercise and recovery, and whether the reduced voluntary muscle force normally seen is related to a smaller muscle size. METHODS: Female patients with FM and sedentary controls were examined using simultaneous 31P nuclear magnetic resonance spectroscopy (NMR) and surface electromyography (SEMG) during exhaustive static exercise of the anterior tibial muscle and during recovery. The maximum voluntary contraction force was estimated, and the maximum cross sectional muscle area was evaluated using 1H NMR imaging. The sedentary controls were matched to patients for sex, age and, as far as possible, daily physical activity levels. RESULTS: Patients with FM had reduced maximum voluntary contraction force in relation to the sedentary controls, despite having similar muscle size. In general the myoelectrical-metabolic relation during exercise and recovery was normal in patients with FM. CONCLUSION: The less extreme changes in motor unit recruitment and metabolism during exhaustive exercise indicated a lower exercise tolerance that could be connected with the lower physical activity levels.
+VL  - 22
+IS  - 8
+SP  - 1544
+EP  - 51
+CY  - Canada
+SN  - 0315-162X (Linking)
+U1  - 132250901
+U2  - 7473481
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Changes in hippocampal metabolites after effective treatment for fibromyalgia: a case study.
+JF  - The Clinical journal of pain
+A1  - Wood PB
+A1  - Ledbetter CR
+A1  - Patterson JC 2nd
+ST  - Wood (2009)
+KW  - eppi-reviewer
+KW  - Adrenergic beta-Antagonists/therapeutic use
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Creatine/metabolism
+KW  - Estrogen Antagonists/therapeutic use
+KW  - Female
+KW  - Fibromyalgia/drug therapy/*pathology
+KW  - Follow-Up Studies
+KW  - Hippocampus/drug effects/*metabolism
+KW  - Humans
+KW  - Indoles
+KW  - Magnetic Resonance Spectroscopy/methods
+KW  - Middle Aged
+KW  - Pain Measurement/methods
+KW  - Propranolol/therapeutic use
+KW  - Protons
+PY  - 2009
+DA  - 2009/11//
+Y1  - 2009/11//
+AB  - BACKGROUND: Fibromyalgia has been associated with disrupted hippocampal brain metabolite ratios by studies using single voxel magnetic resonance spectroscopy (1H-MRS). Exposure to stress is considered a risk factor for the development and exacerbation of fibromyalgia symptoms. Basic science has demonstrated the hippocampus to be exquisitely sensitive to the effects of stressful experience, which results in changes including alterations in metabolite content and frank atrophy. METHODS: This report details the case of a 47-year-old woman with fibromyalgia who was originally found to have a profound depression of the ratio of N-acetylaspartate to creatine in her right hippocampus during participation in a study to assess brain metabolite disturbances in fibromyalgia utilizing single voxel proton magnetic resonance spectroscopy. An individualized treatment strategy was developed based both on physiological abnormalities associated with the disorder and symptoms that characterized the patient's unique clinical profile. RESULTS: Clinical and spectroscopic evaluation following nine months of treatment demonstrated both an improvement in her clinical profile and normalization of the NAA/Cr ratio within her right hippocampus. DISCUSSION: Therapeutic strategies aimed at demonstrable lesions associated with fibromyalgia appear to represent rational targets for pharmacological intervention. The rationale for development of novel pharmacotherapies for this unusual disorder is discussed.
+DO  - 10.1097/AJP.0b013e3181af129e 
+VL  - 25
+IS  - 9
+SP  - 810
+EP  - 4
+CY  - United States
+SN  - 0749-8047 (Linking)
+U1  - 132250883
+U2  - 19851163
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Hippocampal metabolite abnormalities in fibromyalgia: correlation with clinical features.
+JF  - The journal of pain
+A1  - Wood PB
+A1  - Ledbetter CR
+A1  - Glabus MF
+A1  - Broadwell LK
+A1  - Patterson JC 2nd
+ST  - Wood (2009)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Brain Diseases/*metabolism/pathology/physiopathology
+KW  - Creatine/metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism/pathology/physiopathology
+KW  - Hippocampus/*metabolism/physiopathology
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy/methods
+KW  - Nuclear Magnetic Resonance
+KW  - Biomolecular/methods
+KW  - Pain Measurement/methods
+KW  - Severity of Illness Index
+KW  - Surveys and Questionnaires
+PY  - 2009
+DA  - 2009/01//
+Y1  - 2009/01//
+AB  - Although the pathology of fibromyalgia is poorly understood, a growing body of evidence suggests involvement of the central nervous system. The hippocampus is a brain center that is sensitive to the effects of stress exposure and has been demonstrated to be affected in a variety of disorders whose onset, like fibromyalgia, are associated with stressful experience. We therefore interrogated the bilateral hippocampus of 16 female fibromyalgia patients in comparison to 8 age- and gender-matched healthy control subjects using single voxel proton magnetic resonance spectroscopy. Our results demonstrate a significant reduction in the ratio of N-acetylaspartate to creatine (NAA/Cr) in fibromyalgia patients versus matched control subjects specifically in the right temporal lobe from a voxel centered on the right hippocampus (patient vs control, mean +/- standard deviation: 1.20 +/- 0.13 vs 1.34 +/- 0.10, P = .03). Moreover, correlation analysis demonstrated a significant negative correlation between patient scores on the Fibromyalgia Impact Questionnaire and NAA/Cr ratio within the right hippocampus (Spearman rank correlation, rho = -0.681, P = .018). Our results indicate that fibromyalgia is associated with brain metabolite abnormalities within the right hippocampus that correlate with patient symptoms. PERSPECTIVE: We have demonstrated an abnormality in hippocampal brain metabolites in premenopausal female fibromyalgia patients with no psychiatric comorbidity. A significant negative correlation between patient subjective experience of symptoms and a reduced NAA/Cr ratio suggests a role for hippocampal pathology in fibromyalgia.
+DO  - 10.1016/j.jpain.2008.07.003 
+VL  - 10
+IS  - 1
+SP  - 47
+EP  - 52
+CY  - United States
+SN  - 1526-5900 (Linking)
+U1  - 132250886
+U2  - 18771960
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Percutaneous electric nerve field stimulation alters cortical thickness in a pilot study of veterans with fibromyalgia.
+JF  - Neurobiology of pain (Cambridge, Mass.)
+A1  - Woodbury A
+A1  - Krishnamurthy LC
+A1  - Bohsali A
+A1  - Krishnamurthy V
+A1  - Smith JL
+A1  - Gebre M
+A1  - Tyler K
+A1  - Vernon M
+A1  - Crosson B
+A1  - Kalangara JP
+A1  - Napadow V
+A1  - Allen JW
+A1  - Harper D
+ST  - Woodbury (2022)
+KW  - eppi-reviewer
+KW  - Fibromyalgia
+KW  - Nerve Stimulation
+KW  - Neuroimaging
+KW  - Pain
+KW  - Percutaneous Electric
+KW  - Veterans
+PY  - 2022
+DA  - 2022/08//
+Y1  - 2022/08//
+AB  - OBJECTIVE: To evaluate changes in cortical thickness and right posterior insula (r-pIns) gamma-aminobutyric acid (GABA) concentrations in veterans with fibromyalgia treated with auricular percutaneous electric nerve field stimulation (PENFS). MATERIALS & METHODS: This was a randomized, controlled, open label investigation conducted in a government hospital. Twenty-one veterans with fibromyalgia were randomized to receive either standard therapy (ST; i.e., 4 weekly visits with a pain practitioner) or ST with auricular PENFS (ST???+???PENFS). Neuroimaging data was collected at baseline (i.e. before the first treatment session) and again within 2???weeks post-treatment.??? Clinical pain and physical function were also assessed at these timepoints. Single-voxel magnetic resonance spectroscopy was carried out in r-pIns to assess changes in r-pIns GABA concentrations and high-resolution T1-weighted images were collected to assess changes in regional gray matter volume using cortical thickness. RESULTS: Both the ST???+???PENFS and ST groups reported a decrease in pain with treatment. Volumetric: Cortical thickness significantly decreased in the left middle posterior cingulate (p???=???0.018) and increased in the left cuneus (p???=???0.014) following ST???+???PENFS treatment. These findings were significant following FDR correction for multiple comparisons. ST group right hemisphere insula cortical thickness increased post-treatment and was significantly (p???=???0.02) inversely correlated with pain scores. ST???+???PENFS group right hemisphere posterior dorsal cingulate size significantly (p???=???0.044) positively correlated with pain scores. GABA: There were no significant correlations with GABA, though a trend was noted towards increased GABA following treatment in both groups (p???=???0.083) using a linear mixed effects model. CONCLUSIONS: Results suggest a novel effect of PENFS reflected by differential volumetric changes compared to ST. The changes in GABA that occur in both groups are more likely related to ST. Insular GABA and cortical thickness in key regions of interest may be developed as potential biomarkers for evaluating chronic pain pathology and treatment outcomes.
+DO  - 10.1016/j.ynpai.2022.100093 
+VL  - 12
+IS  - 
+SP  - 100093
+CY  - United States
+SN  - 2452-073X (Linking)
+U1  - 132250847
+U2  - 35733704
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Elevated posterior insula glutamate in patients with sickle cell disease.
+JF  - The journal of pain
+A1  - Zhou X
+A1  - Ichesco E
+A1  - Pucka AQ
+A1  - Liu Z
+A1  - O'Brien AR
+A1  - Harte SE
+A1  - Harris RE
+A1  - Wang Y
+ST  - Zhou (2025)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Anemia, Sickle Cell/metabolism/diagnostic imaging/complications
+KW  - Male
+KW  - Female
+KW  - *Glutamic Acid/metabolism
+KW  - Adult
+KW  - *Insular Cortex/metabolism/diagnostic imaging
+KW  - Middle Aged
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Glutamine/metabolism
+KW  - Young Adult
+KW  - (1)H-MRS
+KW  - Brain metabolites
+KW  - Glutamate
+KW  - Pain
+KW  - Sickle cell disease
+KW  - Vaso-occlusive crisis
+PY  - 2025
+DA  - 2025/02//
+Y1  - 2025/02//
+AB  - Sickle cell disease (SCD) is an inherited hemolytic disorder accompanied by chronic pain and recurrent acute painful episodes known as vaso-occlusive crises (VOCs). Increased Glx (glutamate+glutamine) and lowered GABA concentration have been reported in the insula of patients with fibromyalgia, a nociplastic chronic pain condition, and may affect the pathophysiology of pain-related syndromes.Therefore, proton magnetic resonance spectroscopy ((1)H-MRS) was conducted to measure levels of Glx and other brain metabolites using a single voxel (size: 2x3x3 cm(3)) in the right posterior insula cortex (PIC) in 17 individuals with SCD and 17 ethnicity-, age- and sex-matched healthy controls (HCs). The frequency of VOCs in the preceding 12 months was recorded. The concentration of Glx (p=0.019) and the ratio of Glx to tCr (total creatine, p=0.035) in the PIC were significantly higher in patients with SCD as compared to matched HCs (n=17). Secondary analyses with the unpaired full sample of 24 SCD also showed a significantly higher level of Glx/tCr than HCs (n=19), with a positive correlation between the level of Glx/tCr and the number of VOCs (p=0.034, r=0.476), as well as a negative correlation between Glx and sensory sensitivity assessed by tonic pressure pain in gastrocnemius area of the non-dominant leg (p=0.040, r=-0.462). The unpaired full sample additionally revealed a significant difference in sensory sensitivity (p=0.050). Altered metabolites such as GABA and myo-inositol were also observed between SCD and HCs. These results suggest that elevated excitatory neurotransmission in the insula might contribute to nociplastic pain in SCD. PERSPECTIVE: Our work highlighted the innovative finding of elevated levels of the excitatory neurotransmitter glutamate with glutamine in patients with SCD compared to healthy controls. The positive relationship between Glx/tCr and the frequency of VOCs suggests that an excitatory brain neurotransmitter imbalance may be involved in VOCs.
+DO  - 10.1016/j.jpain.2024.104743 
+VL  - 27
+IS  - 
+SP  - 104743
+CY  - United States
+SN  - 1526-5900 (Linking)
+U1  - 132250838
+U2  - 39615812
+N1  - 
+ER  - 
+
