@@ -1,0 +1,1006 @@
+TY  - JOUR
+T1  - Changes in metabolites after treatment with memantine in fibromyalgia. A double-blind randomized controlled trial with magnetic resonance spectroscopy with a 6-month follow-up.
+JF  - CNS neuroscience & therapeutics
+A1  - Fayed N
+A1  - Olivan-Blázquez B
+A1  - Herrera-Mercadal P
+A1  - Puebla-Guedea M
+A1  - Pérez-Yus MC
+A1  - Andrés E
+A1  - López del Hoyo Y
+A1  - Magallon R
+A1  - Viguera L
+A1  - Garcia-Campayo J
+ST  - Fayed (2014)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/*analogs & derivatives/metabolism
+KW  - Brain/drug effects/*metabolism
+KW  - Creatine
+KW  - Dopamine Agents/pharmacology/*therapeutic use
+KW  - Double-Blind Method
+KW  - Female
+KW  - *Fibromyalgia/drug therapy/metabolism/pathology
+KW  - Follow-Up Studies
+KW  - Glutamic Acid
+KW  - Glutamine
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - *Magnetic Resonance Spectroscopy
+KW  - Male
+KW  - Memantine/pharmacology/*therapeutic use
+KW  - Mental Status Schedule
+KW  - Middle Aged
+KW  - Surveys and Questionnaires
+KW  - Treatment Outcome
+KW  - Chronic pain
+KW  - Fibromyalgia
+KW  - Magnetic Resonance Spectroscopy
+KW  - Memantine
+KW  - Randomized controlled trial
+PY  - 2014
+DA  - 2014/11//
+Y1  - 2014/11//
+AB  - AIM: To evaluate the efficacy of memantine on metabolite levels in different areas of the brain and to determine whether changes in metabolite levels correlate with clinical variables in Fibromyalgia (FM) patients. METHODS: Doubled-blind parallel randomized controlled trial. Twenty-five patients diagnosed with FM were enrolled in the study. Patients were administered questionnaires on pain, anxiety, depression, quality of life, and cognitive impairment, and single-voxel MRS of the brain was performed. All assessments were performed at baseline and after 6 months of treatment with memantine or placebo. RESULTS: Patients treated with memantine exhibited a significant increase in the glutamate (P = 0.010), glutamate/creatine ratio (P = 0.013), combined glutamate + glutamine (P = 0.016) and total N-acetyl-aspartate (NAA+NAAG) (P = 0.034) in the posterior cingulate cortex compared with those on placebo. Furthermore, the memantine group exhibited increases in creatine (P = 0.013) and choline (Cho) (P = 0.025) in the right posterior insula and also a correlation between choline and the Fibromyalgia Impact Questionnaire (FIQ) in the posterior insula (P = 0.050) was observed. CONCLUSION: Memantine treatment resulted in an increase in cerebral metabolism in FM patients, suggesting its utility for the treatment of the illness.
+DO  - 10.1111/cns.12314 
+VL  - 20
+IS  - 11
+SP  - 999
+EP  - 1007
+CY  - England
+SN  - 1755-5930 (Linking)
+U1  - 132250798
+U2  - 25230216
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Changes in metabolites in the brain of patients with fibromyalgia after treatment with an NMDA receptor antagonist.
+JF  - The neuroradiology journal
+A1  - Fayed N
+A1  - Oliván B
+A1  - Lopez Del Hoyo Y
+A1  - Andrés E
+A1  - Perez-Yus MC
+A1  - Fayed A
+A1  - Angel LF
+A1  - Serrano-Blanco A
+A1  - Roca M
+A1  - Garcia Campayo J
+ST  - Fayed (2019)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Anxiety/diagnostic imaging/metabolism/psychology
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Brain/diagnostic imaging/*metabolism
+KW  - Cerebral Cortex/diagnostic imaging/metabolism
+KW  - Choline/metabolism
+KW  - Cognitive Dysfunction/diagnostic imaging/metabolism/psychology
+KW  - Creatine/metabolism
+KW  - Depression/diagnostic imaging/metabolism/psychology
+KW  - Excitatory Amino Acid Antagonists/*therapeutic use
+KW  - Female
+KW  - Fibromyalgia/diagnostic imaging/*drug therapy/metabolism/psychology
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Gyrus Cinguli/diagnostic imaging/metabolism
+KW  - Hippocampus/diagnostic imaging/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Memantine/*therapeutic use
+KW  - Middle Aged
+KW  - Pain
+KW  - Quality of Life
+KW  - Receptors
+KW  - N-Methyl-D-Aspartate/antagonists & inhibitors
+KW  - Treatment Outcome
+KW  - Fibromyalgia
+KW  - magnetic resonance spectroscopy
+KW  - memantine
+PY  - 2019
+DA  - 2019/12//
+Y1  - 2019/12//
+AB  - The aims of this work were to evaluate whether the treatment of patients with fibromyalgia with memantine is associated with significant changes in metabolite concentrations in the brain, and to explore any changes in clinical outcome measures. Magnetic resonance spectroscopy was performed of the right anterior and posterior insula, both hippocampi and the posterior cingulate cortex. Questionnaires on pain, anxiety, depression, global function, quality of life and cognitive impairment were used. Ten patients were studied at baseline and after three months of treatment with memantine. Significant increases were observed in the following areas: N-acetylaspartate (4.47 at baseline vs. 4.71 at three months, p = 0.02) and N-acetylaspartate+N-acetylaspartate glutamate in the left hippocampus (5.89 vs. 5.98; p = 0.007); N-acetylaspartate+N-acetylaspartate glutamate in the right hippocampus (5.31 vs 5.79; p = 0.01) and the anterior insula (7.56 vs. 7.70; p = 0.033); glutamate+glutamine/creatine ratio in the anterior insula (2.03 vs. 2.17; p = 0.022) and the posterior insula (1.77 vs. 2.00; p = 0.004); choline/creatine ratio in the posterior cingulate (0.18 vs. 0.19; p = 0.023); and creatine in the right hippocampus (3.60 vs. 3.85; p = 0.007). At the three-month follow-up, memantine improved cognitive function assessed by the Cognition Mini-Exam (31.50, SD = 2.95 vs. 34.40, SD = 0.6; p = 0.005), depression measured by the Hamilton Depression Scale (7.70, SD = 0.81 vs. 7.56, SD = 0.68; p = 0.042) and severity of illness measured by the Clinical Global Impression severity scale (5.79, SD = 0.96 vs. 5.31, SD = 1.12; p = 0.007). Depression, clinical global impression and cognitive function showed improvement with memantine. Magnetic resonance spectroscopy could be useful in monitoring response to the pharmacological treatment of fibromyalgia.
+DO  - 10.1177/1971400919857544 
+VL  - 32
+IS  - 6
+SP  - 408
+EP  - 419
+CY  - United States
+SN  - 1971-4009 (Linking)
+U1  - 132250794
+U2  - 31215319
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Reduced insular γ-aminobutyric acid in fibromyalgia.
+JF  - Arthritis and rheumatism
+A1  - Foerster BR
+A1  - Petrou M
+A1  - Edden RA
+A1  - Sundgren PC
+A1  - Schmidt-Wilcke T
+A1  - Lowe SE
+A1  - Harte SE
+A1  - Clauw DJ
+A1  - Harris RE
+ST  - Foerster (2012)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Cerebral Cortex/*metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Gyrus Cinguli/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Occipital Lobe/metabolism
+KW  - gamma-Aminobutyric Acid/*metabolism
+PY  - 2012
+DA  - 2012/02//
+Y1  - 2012/02//
+AB  - OBJECTIVE: Recent scientific findings have reinvigorated interest in examining the role of γ-aminobutyric acid (GABA), the major inhibitory central nervous system neurotransmitter, in chronic pain conditions. Decreased inhibitory neurotransmission is a proposed mechanism in the pathophysiology of chronic pain syndromes such as fibromyalgia (FM). The purpose of this study was to test the hypothesis that decreased levels of insular and anterior cingulate GABA would be present in FM patients, and that the concentration of this neurotransmitter would be correlated with pressure-pain thresholds. METHODS: Sixteen FM patients and 17 age- and sex-matched healthy controls underwent pressure-pain testing and a 3T proton magnetic resonance spectroscopy session in which the right anterior insula, right posterior insula, anterior cingulate, and occipital cortex were examined in subjects at rest. RESULTS: GABA levels in the right anterior insula were significantly lower in FM patients compared with healthy controls (mean ± SD 1.17 ± 0.24 arbitrary institutional units versus 1.42 ± 0.32 arbitrary institutional units; P = 0.016). There was a trend toward increased GABA levels in the anterior cingulate of FM patients compared with healthy controls (P = 0.06). No significant differences between groups were detected in the posterior insula or occipital cortex (P > 0.05 for all comparisons). Within the right posterior insula, higher levels of GABA were positively correlated with pressure-pain thresholds in the FM patients (Spearman's rho = 0.63; P = 0.02). CONCLUSION: Diminished inhibitory neurotransmission resulting from lower concentrations of GABA within the right anterior insula may play a role in the pathophysiology of FM and other central pain syndromes.
+DO  - 10.1002/art.33339 
+VL  - 64
+IS  - 2
+SP  - 579
+EP  - 83
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250802
+U2  - 21913179
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Excitatory and inhibitory brain metabolites as targets of motor cortex transcranial direct current stimulation therapy and predictors of its efficacy in fibromyalgia.
+JF  - Arthritis & rheumatology (Hoboken, N.J.)
+A1  - Foerster BR
+A1  - Nascimento TD
+A1  - DeBoer M
+A1  - Bender MA
+A1  - Rice IC
+A1  - Truong DQ
+A1  - Bikson M
+A1  - Clauw DJ
+A1  - Zubieta JK
+A1  - Harris RE
+A1  - DaSilva AF
+ST  - Foerster (2015)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Aspartic Acid/analogs & derivatives/metabolism
+KW  - Brain/*metabolism/pathology
+KW  - Female
+KW  - Fibromyalgia/*metabolism/pathology/*therapy
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Longitudinal Studies
+KW  - Middle Aged
+KW  - Motor Cortex/*metabolism/pathology
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - *Transcranial Direct Current Stimulation
+KW  - Treatment Outcome
+KW  - gamma-Aminobutyric Acid/metabolism
+PY  - 2015
+DA  - 2015/02//
+Y1  - 2015/02//
+AB  - OBJECTIVE: Transcranial direct current stimulation (tDCS) has been shown to improve pain symptoms in fibromyalgia (FM), a central pain syndrome whose underlying mechanisms are not well understood. This study was undertaken to explore the neurochemical action of tDCS in the brain of patients with FM, using proton magnetic resonance spectroscopy (1H-MRS). METHODS: Twelve patients with FM underwent sham tDCS over the left motor cortex (anode placement) and contralateral supraorbital cortex (cathode placement) for 5 consecutive days, followed by a 7-day washout period and then active tDCS for 5 consecutive days. Clinical pain assessment and 1H-MRS testing were performed at baseline, the week following the sham tDCS trial, and the week following the active tDCS trial. RESULTS: Clinical pain scores decreased significantly between the baseline and active tDCS time points (P = 0.04). Levels of glutamate + glutamine (Glx) in the anterior cingulate were significantly lower at the post–active tDCS assessment compared with the post–sham tDCS assessment (P = 0.013), and the decrease in Glx levels in the thalami between these time points approached significance (P = 0.056). From baseline to the post–sham tDCS assessment, levels of N-acetylaspartate (NAA) in the posterior insula increased significantly (P = 0.015). There was a trend toward increased levels of γ-aminobutyric acid (GABA) in the anterior insula after active tDCS, compared with baseline (P = 0.064). Baseline anterior cingulate Glx levels correlated significantly with changes in pain score, both for the time period from baseline to sham tDCS (β1 = 1.31, P < 0.001) and for the time period from baseline to active tDCS (β1= 1.87, P < 0.001). CONCLUSION: The present findings suggest that GABA, Glx, and NAA play an important role in the pathophysiology of FM and its modulation by tDCS.
+DO  - 10.1002/art.38945 
+VL  - 67
+IS  - 2
+SP  - 576
+EP  - 81
+CY  - United States
+SN  - 2326-5191 (Linking)
+U1  - 132250797
+U2  - 25371383
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic levels of glutamate within the insula are associated with improvements in multiple pain domains in fibromyalgia.
+JF  - Arthritis and rheumatism
+A1  - Harris RE
+A1  - Sundgren PC
+A1  - Pang Y
+A1  - Hsu M
+A1  - Petrou M
+A1  - Kim SH
+A1  - McLean SA
+A1  - Gracely RH
+A1  - Clauw DJ
+ST  - Harris (2008)
+KW  - eppi-reviewer
+KW  - Acupuncture Therapy/methods
+KW  - Adult
+KW  - Biomarkers/metabolism
+KW  - Cerebral Cortex/*metabolism/pathology
+KW  - Female
+KW  - Fibromyalgia/*metabolism/pathology/therapy
+KW  - Glutamic Acid/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Pain/*metabolism/pathology
+KW  - Pain Management
+KW  - Severity of Illness Index
+KW  - Single-Blind Method
+PY  - 2008
+DA  - 2008/03//
+Y1  - 2008/03//
+AB  - OBJECTIVE: Fibromyalgia (FM) is a chronic widespread pain condition that is thought to arise from augmentation of central neural activity. Glutamate (Glu) is an excitatory neurotransmitter that functions in pain-processing pathways. This study was carried out to investigate the relationship between changing levels of Glu within the insula and changes in multiple pain domains in patients with FM. METHODS: Ten patients with FM underwent 2 sessions of proton magnetic resonance spectroscopy (H-MRS) and 2 sessions of functional magnetic resonance imaging (FMRI), each conducted before and after a nonpharmacologic intervention to reduce pain. During H-MRS, the anterior and posterior insular regions were examined separately using single-voxel spectroscopy. The levels of Glu and other metabolites were estimated relative to levels of creatine (Cr) (e.g., the Glu/Cr ratio). During FMRI, painful pressures were applied to the thumbnail to elicit neuronal activation. Experimental pressure-evoked pain thresholds and clinical pain ratings (on the Short Form of the McGill Pain Questionnaire [SF-MPQ]) were also assessed prior to each imaging session RESULTS: Both experimental pain (P = 0.047 versus pretreatment) and SF-MPQ-rated clinical pain (P = 0.043 versus pretreatment) were reduced following treatment. Changes from pre- to posttreatment in Glu/Cr were negatively correlated with changes in experimental pain thresholds (r = -0.95, P < 0.001) and positively correlated with changes in clinical pain (r = 0.85, P = 0.002). Changes in the FMRI-determined blood oxygenation level-dependent effect (a measure of neural activation) were positively correlated with changes in Glu/Cr within the contralateral insula (r = 0.81, P = 0.002). CONCLUSION: Changes in Glu levels within the insula are associated with changes in multiple pain domains in patients with FM. Thus, H-MRS data may serve as a useful biomarker and surrogate end point for clinical trials of FM.
+DO  - 10.1002/art.23223 
+VL  - 58
+IS  - 3
+SP  - 903
+EP  - 7
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250805
+U2  - 18311814
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Elevated insular glutamate in fibromyalgia is associated with experimental pain.
+JF  - Arthritis and rheumatism
+A1  - Harris RE
+A1  - Sundgren PC
+A1  - Craig AD
+A1  - Kirshenbaum E
+A1  - Sen A
+A1  - Napadow V
+A1  - Clauw DJ
+ST  - Harris (2009)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Case-Control Studies
+KW  - Cerebral Cortex/*metabolism
+KW  - Female
+KW  - Fibromyalgia/*metabolism/physiopathology
+KW  - Glutamic Acid/*metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Middle Aged
+KW  - Pain/*metabolism/physiopathology
+KW  - Pain Threshold/physiology
+PY  - 2009
+DA  - 2009/10//
+Y1  - 2009/10//
+AB  - OBJECTIVE: Central pain augmentation resulting from enhanced excitatory and/or decreased inhibitory neurotransmission is a proposed mechanism underlying the pathophysiology of functional pain syndromes such as fibromyalgia (FM). Multiple functional magnetic resonance imaging studies implicate the insula as a region of heightened neuronal activity in this condition. Since glutamate (Glu) is a major cortical excitatory neurotransmitter that functions in pain neurotransmission, we undertook this study to test our hypothesis that increased levels of insular Glu would be present in FM patients and that the concentration of this molecule would be correlated with pain report. METHODS: Nineteen FM patients and 14 age- and sex-matched pain-free controls underwent pressure pain testing and a proton magnetic resonance spectroscopy session in which the right anterior insula and right posterior insula were examined at rest. RESULTS: Compared with healthy controls, FM patients had significantly higher levels of Glu (mean +/- SD 8.09 +/- 0.72 arbitrary institutional units versus 6.86 +/- 1.29 arbitrary institutional units; P = 0.009) and combined glutamine and Glu (i.e., Glx) (mean +/- SD 12.38 +/- 0.94 arbitrary institutional units versus 10.59 +/- 1.48 arbitrary institutional units; P = 0.001) within the right posterior insula. No significant differences between groups were detected in any of the other major metabolites within this region (P > 0.05 for all comparisons), and no group differences were detected for any metabolite within the right anterior insula (P > 0.11 for all comparisons). Within the right posterior insula, higher levels of Glu and Glx were associated with lower pressure pain thresholds across both groups for medium pain (for Glu, r = -0.43, P = 0.012; for Glx, r = -0.50, P = 0.003). CONCLUSION: Enhanced glutamatergic neurotransmission resulting from higher concentrations of Glu within the posterior insula may play a role in the pathophysiology of FM and other central pain augmentation syndromes.
+DO  - 10.1002/art.24849 
+VL  - 60
+IS  - 10
+SP  - 3146
+EP  - 52
+CY  - United States
+SN  - 0004-3591 (Linking)
+U1  - 132250803
+U2  - 19790053
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Pregabalin rectifies aberrant brain chemistry, connectivity, and functional response in chronic pain patients.
+JF  - Anesthesiology
+A1  - Harris RE
+A1  - Napadow V
+A1  - Huggins JP
+A1  - Pauer L
+A1  - Kim J
+A1  - Hampson J
+A1  - Sundgren PC
+A1  - Foerster B
+A1  - Petrou M
+A1  - Schmidt-Wilcke T
+A1  - Clauw DJ
+ST  - Harris (2013)
+KW  - eppi-reviewer
+KW  - Adolescent
+KW  - Adult
+KW  - Aged
+KW  - Analgesics/*therapeutic use
+KW  - Brain Chemistry/*drug effects
+KW  - Chronic Pain/*drug therapy/*physiopathology
+KW  - Cross-Over Studies
+KW  - Double-Blind Method
+KW  - Female
+KW  - Fibromyalgia/drug therapy
+KW  - Glutamic Acid/physiology
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Middle Aged
+KW  - Neural Pathways/*drug effects
+KW  - Pain Measurement
+KW  - Pregabalin
+KW  - Young Adult
+KW  - gamma-Aminobutyric Acid/*analogs & derivatives/therapeutic use
+PY  - 2013
+DA  - 2013/12//
+Y1  - 2013/12//
+AB  - BACKGROUND: Chronic pain remains a significant challenge for modern health care as its pathologic mechanisms are largely unknown and preclinical animal models suffer from limitations in assessing this complex subjective experience. However, human brain neuroimaging techniques enable the assessment of functional and neurochemical alterations in patients experiencing chronic pain and how these factors may dynamically change with pharmacologic treatment. METHODS: To identify the clinical action of pregabalin, a proven analgesic, the authors performed three complementary brain neuroimaging procedures: (proton magnetic resonance spectroscopy, functional magnetic resonance imaging, and functional connectivity magnetic resonance imaging) in 17 chronic pain patients diagnosed with fibromyalgia. RESULTS: The authors found that pregabalin but not placebo reduces combined glutamate + glutamine levels within the posterior insula (pregabalin P = 0.016; placebo P = 0.71). Interestingly, reductions in clinical pain were associated with reductions in brain connectivity of this structure to brain regions within the default mode network during pregabalin (r = 0.82; P = 0.001) but not placebo (r = -0.13; P = 0.63). Response of default mode network regions to experimental pain was also reduced with pregabalin (P = 0.018) but not placebo (P = 0.182). Perhaps most importantly, baseline values for all three neuroimaging markers predicted subsequent analgesic response to pregabalin but not placebo. CONCLUSIONS: The results of this study suggest that pregabalin works in part by reducing insular glutamatergic activity, leading to a reduction of the increased functional connectivity seen between brain regions in chronic pain states. The study also supports a role for human brain imaging in the development, assessment, and personalized use of central-acting analgesics.
+DO  - 10.1097/ALN.0000000000000017 
+VL  - 119
+IS  - 6
+SP  - 1453
+EP  - 64
+CY  - United States
+SN  - 0003-3022 (Linking)
+U1  - 132250799
+U2  - 24343290
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Magnetic resonance imaging of neuroinflammation in chronic pain: a role for astrogliosis?
+JF  - Pain
+A1  - Jung C
+A1  - Ichesco E
+A1  - Ratai EM
+A1  - Gonzalez RG
+A1  - Burdo T
+A1  - Loggia ML
+A1  - Harris RE
+A1  - Napadow V
+ST  - Jung (2020)
+KW  - eppi-reviewer
+KW  - Choline
+KW  - *Chronic Pain/diagnostic imaging
+KW  - Creatine
+KW  - *Gliosis/diagnostic imaging
+KW  - Humans
+KW  - Inositol
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+KW  - Proton Magnetic Resonance Spectroscopy
+PY  - 2020
+DA  - 2020/07//
+Y1  - 2020/07//
+AB  - Noninvasive measures of neuroinflammatory processes in humans could substantially aid diagnosis and therapeutic development for many disorders, including chronic pain. Several proton magnetic resonance spectroscopy (H-MRS) metabolites have been linked with glial activity (ie, choline and myo-inositol) and found to be altered in chronic pain patients, but their role in the neuroinflammatory cascade is not well known. Our multimodal study evaluated resting functional magnetic resonance imaging connectivity and H-MRS metabolite concentration in insula cortex in 43 patients suffering from fibromyalgia, a chronic centralized pain disorder previously demonstrated to include a neuroinflammatory component, and 16 healthy controls. Patients demonstrated elevated choline (but not myo-inositol) in anterior insula (aIns) (P = 0.03), with greater choline levels linked with worse pain interference (r = 0.41, P = 0.01). In addition, reduced resting functional connectivity between aIns and putamen was associated with both pain interference (whole brain analysis, pcorrected < 0.01) and elevated aIns choline (r = -0.37, P = 0.03). In fact, aIns/putamen connectivity statistically mediated the link between aIns choline and pain interference (P < 0.01), highlighting the pathway by which neuroinflammation can impact clinical pain dysfunction. To further elucidate the molecular substrates of the effects observed, we investigated how putative neuroinflammatory H-MRS metabolites are linked with ex vivo tissue inflammatory markers in a nonhuman primate model of neuroinflammation. Results demonstrated that cortical choline levels were correlated with glial fibrillary acidic protein, a known marker for astrogliosis (Spearman r = 0.49, P = 0.03). Choline, a putative neuroinflammatory H-MRS-assessed metabolite elevated in fibromyalgia and associated with pain interference, may be linked with astrogliosis in these patients.
+DO  - 10.1097/j.pain.0000000000001815 
+VL  - 161
+IS  - 7
+SP  - 1555
+EP  - 1564
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250792
+U2  - 31990749
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Dysfunctional energy metabolisms in fibromyalgia compared with healthy subjects.
+JF  - Molecular pain
+A1  - Jung YH
+A1  - Kim H
+A1  - Lee D
+A1  - Lee JY
+A1  - Moon JY
+A1  - Choi SH
+A1  - Kang DH
+ST  - Jung (2021)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Creatine/metabolism
+KW  - Energy Metabolism/*physiology
+KW  - Female
+KW  - Fibromyalgia/*metabolism
+KW  - Gyrus Cinguli/*metabolism
+KW  - Healthy Volunteers
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Surveys and Questionnaires
+KW  - Thalamus/*metabolism
+KW  - Fibromyalgia
+KW  - creatine
+KW  - energy
+KW  - phosphocreatine
+KW  - post-traumatic stress disorder
+KW  - proton magnetic resonance spectroscopy
+KW  - stress
+PY  - 2021
+DA  - 2021/01//
+Y1  - 2021/01//
+AB  - This study aimed to investigate the levels of creatine (Cr) metabolites in the anterior cingulate cortex (ACC), thalamus, and insula of patients with fibromyalgia (FM) using proton magnetic resonance spectroscopy (MRS). The levels of Cr and phosphocreatine (PCr) relative to total Cr (tCr), which includes Cr and PCr, in the ACC, thalamus, and insula were determined using MRS in 12 patients with FM and in 13 healthy controls. The FM group had lower levels of PCr/tCr in the ACC and right insula compared to healthy controls. There was a negative correlation between Cr/tCr in the ACC and total pain levels (McGill Pain Questionnaire-Total; r = -0.579, p = 0.049) and between Cr/tCr in the left insula and affective pain levels (McGill Pain Questionnaire-Affective; r = -0.638, p = 0.047) in patients with FM. In addition, there were negative correlations between stress levels (Stress Response Inventory) and Cr/tCr in the right (r = -0.780, p = 0.005) and left thalamus (r = -0.740, p = 0.006), as well as in the right insula (r = -0.631, p = 0.028) in patients with FM. There were negative correlations between symptom levels of post-traumatic stress disorder (PTSD; PTSD checklist) and Cr/tCr in the right (r = -0.783, p = 0.004) and left thalamus (r = -0.642, p = 0.024) of patients with FM. These findings are paramount to understanding the decisive pathologies related to brain energy metabolism in patients with FM.
+DO  - 10.1177/17448069211012833 
+VL  - 17
+IS  - 
+SP  - 17448069211012833
+CY  - United States
+SN  - 1744-8069 (Linking)
+U1  - 132250789
+U2  - 33940974
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Abnormal neurometabolites in fibromyalgia patients: Magnetic resonance spectroscopy study.
+JF  - Molecular pain
+A1  - Jung YH
+A1  - Kim H
+A1  - Lee D
+A1  - Lee JY
+A1  - Lee WJ
+A1  - Moon JY
+A1  - Choi SH
+A1  - Kang DH
+ST  - Jung (2021)
+KW  - eppi-reviewer
+KW  - Brain/*metabolism/*pathology
+KW  - Case-Control Studies
+KW  - Choline/metabolism
+KW  - Creatine/metabolism
+KW  - Fibromyalgia/*metabolism
+KW  - Humans
+KW  - *Magnetic Resonance Spectroscopy
+KW  - *Metabolome
+KW  - Reference Standards
+KW  - Stress Disorders, Post-Traumatic/metabolism
+KW  - Stress, Psychological/genetics
+KW  - anterior cingulate cortex
+KW  - fibromyalgia
+KW  - insula
+KW  - magnetic resonance spectroscopy
+KW  - neurometabolites
+KW  - thalamus
+PY  - 2021
+DA  - 2021/01//
+Y1  - 2021/01//
+AB  - This study aimed to investigate distinct neurometabolites in the anterior cingulate cortex (ACC), right and left thalamus, and insula of patients with fibromyalgia (FM) compared with healthy controls using proton magnetic resonance spectroscopy (MRS). Levels of N-acetylaspartate (NAA), N-acetylaspartylglutamate (NAAG), total NAA (tNAA = NAA + NAAG), myo-inositol (ml), glutamine (Gln), glutamate (Glu), Glx (Glu + Gln), glycerophosphocholine (GPC), total choline (tCho = GPC + phosphocholine) and glutathione (GSH) levels relative to total creatine (tCr) levels including creatine (Cr) and phosphocreatine (PCr) and relative to Cr levels were determined in the ACC, right and left thalamus, and insula in 12 patients with FM and 13 healthy controls using MRS. In the ACC, NAA/tCr (P = 0.028) and tCho/tCr (P = 0.047) were higher in patients with FM. In the right and left insula, tNAA/tCr (P = 0.019, P = 0.007, respectively) was lower in patients with FM. Patients with FM showed lower levels of ml/Cr (P = 0.037) in the right insula than healthy controls. These findings are paramount to understand decisive pathophysiological mechanisms related to abnormal features in the brain and parasympathetic nervous systems in FM. We suggest that the results presented herein may be essential to understand hidden pathological mechanisms and also life system potential as protective and recovering metabolic strategies in patients with FM.
+DO  - 10.1177/1744806921990946 
+VL  - 17
+IS  - 
+SP  - 1744806921990946
+CY  - United States
+SN  - 1744-8069 (Linking)
+U1  - 132250790
+U2  - 33573464
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Central metabolites and peripheral parameters associated neuroinflammation in fibromyalgia patients: A preliminary study.
+JF  - Medicine
+A1  - Jung YH
+A1  - Kim H
+A1  - Seo S
+A1  - Lee D
+A1  - Lee JY
+A1  - Moon JY
+A1  - Cheon GJ
+A1  - Choi SH
+A1  - Kang DH
+ST  - Jung (2023)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Fibromyalgia/diagnostic imaging
+KW  - Neuroinflammatory Diseases
+KW  - Creatine
+KW  - Creatinine
+KW  - Tomography, X-Ray Computed
+KW  - Glutamic Acid/metabolism
+KW  - Receptors, Antigen, T-Cell
+KW  - Carbon Radioisotopes
+PY  - 2023
+DA  - 2023/03//
+Y1  - 2023/03//
+AB  - To identify central metabolites and peripheral measures associated with neuroinflammation in fibromyalgia (FM), we scanned [11C]-(R)-PK11195 positron emission tomography and magnetic resonance spectroscopy in FM patients. We measured associations between neurometabolite levels measured by magnetic resonance spectroscopy and the extent of neuroinflammation inferred by the distribution volume ratios of [11C]-(R)-PK11195 positron emission tomography in 12 FM patients and 13 healthy controls. We also examined the associations between peripheral parameters, such as creatinine and C-reactive protein, and neuroinflammation. In FM patients, we found negative correlations between neuroinflammation and the creatine (Cr)/total creatine (tCr; Cr + phosphocreatine) ratios in the right (r = -0.708, P = .015) and left thalamus (r = -0.718, P = .008). In FM patients, negative correlations were apparent between neuroinflammation and the glutamate/tCr ratio in the right insula (r = -0.746, P = .005). In FM patients, we found negative correlations between neuroinflammation in the left thalamus (r = -0.601, P = .039) and left insula (r = -0.598, P = .040) and the blood creatinine levels. Additionally, we found significant correlations of other peripheral measures with neuroinflammation in FM patients. Our results suggest that both central metabolites, such as Cr and glutamate, and peripheral creatinine and other parameters are associated with neuroinflammation in patients with FM.
+DO  - 10.1097/MD.0000000000033305 
+VL  - 102
+IS  - 13
+SP  - e33305
+CY  - United States
+SN  - 0025-7974 (Linking)
+U1  - 132250786
+U2  - 37000093
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Functional and neurochemical disruptions of brain hub topology in chronic pain.
+JF  - Pain
+A1  - Kaplan CM
+A1  - Schrepf A
+A1  - Vatansever D
+A1  - Larkin TE
+A1  - Mawla I
+A1  - Ichesco E
+A1  - Kochlefl L
+A1  - Harte SE
+A1  - Clauw DJ
+A1  - Mashour GA
+A1  - Harris RE
+ST  - Kaplan (2019)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Brain/*diagnostic imaging/*metabolism
+KW  - Brain Mapping
+KW  - Case-Control Studies
+KW  - Chronic Pain/*diagnostic imaging/*etiology
+KW  - Cohort Studies
+KW  - Female
+KW  - Fibromyalgia/*complications/diagnostic imaging
+KW  - Glutamic Acid/metabolism
+KW  - Glutamine/metabolism
+KW  - Humans
+KW  - Hyperalgesia/etiology
+KW  - Image Processing, Computer-Assisted
+KW  - Magnetic Resonance Imaging
+KW  - Male
+KW  - Middle Aged
+KW  - Neurotransmitter Agents/metabolism
+KW  - Oxygen/blood
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Visual Analog Scale
+PY  - 2019
+DA  - 2019/04//
+Y1  - 2019/04//
+AB  - A critical component of brain network architecture is a robust hub structure, wherein hub regions facilitate efficient information integration by occupying highly connected and functionally central roles in the network. Across a wide range of neurological disorders, hub brain regions seem to be disrupted, and the character of this disruption can yield insights into the pathophysiology of these disorders. We applied a brain network-based approach to examine hub topology in fibromyalgia, a chronic pain condition with prominent central nervous system involvement. Resting state functional magnetic resonance imaging data from 40 fibromyalgia patients and 46 healthy volunteers, and a small validation cohort of 11 fibromyalgia patients, were analyzed using graph theoretical techniques to model connections between 264 brain regions. In fibromyalgia, the anterior insulae functioned as hubs and were members of the rich club, a highly interconnected nexus of hubs. In fibromyalgia, rich-club membership varied with the intensity of clinical pain: the posterior insula, primary somatosensory, and motor cortices belonged to the rich club only in patients with the highest pain intensity. Furthermore, the eigenvector centrality (a measure of how connected a region is to other highly connected regions) of the posterior insula positively correlated with clinical pain and mediated the relationship between glutamate + glutamine (assessed by proton magnetic resonance spectroscopy) within this structure and the patient's clinical pain report. Together, these findings reveal altered hub topology in fibromyalgia and demonstrate, for the first time to our knowledge, a neurochemical basis for altered hub strength and its relationship to the perception of pain.
+DO  - 10.1097/j.pain.0000000000001480 
+VL  - 160
+IS  - 4
+SP  - 973
+EP  - 983
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250795
+U2  - 30763287
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - 3D magnetic resonance spectroscopic imaging reveals links between brain metabolites and multidimensional pain features in fibromyalgia.
+JF  - European journal of pain (London, England)
+A1  - Lee J
+A1  - Andronesi OC
+A1  - Torrado-Carvajal A
+A1  - Ratai EM
+A1  - Loggia ML
+A1  - Weerasekera A
+A1  - Berry MP
+A1  - Ellingsen DM
+A1  - Isaro L
+A1  - Lazaridou A
+A1  - Paschali M
+A1  - Grahl A
+A1  - Wasan AD
+A1  - Edwards RR
+A1  - Napadow V
+ST  - Lee (2021)
+KW  - eppi-reviewer
+KW  - Brain/diagnostic imaging
+KW  - *Chronic Pain/diagnostic imaging
+KW  - Female
+KW  - *Fibromyalgia/diagnostic imaging
+KW  - Glutamic Acid
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Magnetic Resonance Spectroscopy
+PY  - 2021
+DA  - 2021/10//
+Y1  - 2021/10//
+AB  - BACKGROUND: Fibromyalgia is a centralized multidimensional chronic pain syndrome, but its pathophysiology is not fully understood. METHODS: We applied 3D magnetic resonance spectroscopic imaging (MRSI), covering multiple cortical and subcortical brain regions, to investigate the association between neuro-metabolite (e.g. combined glutamate and glutamine, Glx; myo-inositol, mIno; and combined (total) N-acetylaspartate and N-acetylaspartylglutamate, tNAA) levels and multidimensional clinical/behavioural variables (e.g. pain catastrophizing, clinical pain severity and evoked pain sensitivity) in women with fibromyalgia (N = 87). RESULTS: Pain catastrophizing scores were positively correlated with Glx and tNAA levels in insular cortex, and negatively correlated with mIno levels in posterior cingulate cortex (PCC). Clinical pain severity was positively correlated with Glx levels in insula and PCC, and with tNAA levels in anterior midcingulate cortex (aMCC), but negatively correlated with mIno levels in aMCC and thalamus. Evoked pain sensitivity was negatively correlated with levels of tNAA in insular cortex, MCC, PCC and thalamus. CONCLUSIONS: These findings support single voxel placement targeting nociceptive processing areas in prior (1) H-MRS studies, but also highlight other areas not as commonly targeted, such as PCC, as important for chronic pain pathophysiology. Identifying target brain regions linked to multidimensional symptoms of fibromyalgia (e.g. negative cognitive/affective response to pain, clinical pain, evoked pain sensitivity) may aid the development of neuromodulatory and individualized therapies. Furthermore, efficient multi-region sampling with 3D MRSI could reduce the burden of lengthy scan time for clinical research applications of molecular brain-based mechanisms supporting multidimensional aspects of fibromyalgia. SIGNIFICANCE: This large N study linked brain metabolites and pain features in fibromyalgia patients, with a better spatial resolution and brain coverage, to understand a molecular mechanism underlying pain catastrophizing and other aspects of pain transmission. Metabolite levels in self-referential cognitive processing area as well as pain-processing regions were associated with pain outcomes. These results could help the understanding of its pathophysiology and treatment strategies for clinicians.
+DO  - 10.1002/ejp.1820 
+VL  - 25
+IS  - 9
+SP  - 2050
+EP  - 2064
+CY  - England
+SN  - 1090-3801 (Linking)
+U1  - 132250788
+U2  - 34102707
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Greater Somatosensory Afference With Acupuncture Increases Primary Somatosensory Connectivity and Alleviates Fibromyalgia Pain via Insular γ-Aminobutyric Acid: A Randomized Neuroimaging Trial.
+JF  - Arthritis & rheumatology (Hoboken, N.J.)
+A1  - Mawla I
+A1  - Ichesco E
+A1  - Zöllner HJ
+A1  - Edden RAE
+A1  - Chenevert T
+A1  - Buchtel H
+A1  - Bretz MD
+A1  - Sloan H
+A1  - Kaplan CM
+A1  - Harte SE
+A1  - Mashour GA
+A1  - Clauw DJ
+A1  - Napadow V
+A1  - Harris RE
+ST  - Mawla (2021)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Afferent Pathways
+KW  - Cerebral Cortex/diagnostic imaging/*metabolism
+KW  - Electroacupuncture/*methods
+KW  - Female
+KW  - Fibromyalgia/diagnostic imaging/metabolism/*therapy
+KW  - Functional Neuroimaging
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Middle Aged
+KW  - Neural Pathways
+KW  - Pain Measurement
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Somatosensory Cortex/*diagnostic imaging
+KW  - gamma-Aminobutyric Acid/*metabolism
+PY  - 2021
+DA  - 2021/07//
+Y1  - 2021/07//
+AB  - OBJECTIVE: Acupuncture is a complex multicomponent treatment that has shown promise in the treatment of fibromyalgia (FM). However, clinical trials have shown mixed results, possibly due to heterogeneous methodology and lack of understanding of the underlying mechanism of action. The present study was undertaken to understand the specific contribution of somatosensory afference to improvements in clinical pain, and the specific brain circuits involved. METHODS: Seventy-six patients with FM were randomized to receive either electroacupuncture (EA), with somatosensory afference, or mock laser acupuncture (ML), with no somatosensory afference, twice a week over 8 treatments. Patients with FM in each treatment group were assessed for pain severity levels, measured using Brief Pain Inventory (BPI) scores, and for levels of functional brain network connectivity, assessed using resting state functional magnetic resonance imaging (MRI) and proton magnetic resonance spectroscopy in the right anterior insula, before and after treatment. RESULTS: Fibromyalgia patients who received EA therapy experienced a greater reduction in pain severity, as measured by the BPI, compared to patients who received ML therapy (mean difference in BPI from pre- to posttreatment was -1.14 in the EA group versus -0.46 in the ML group; P for group × time interaction = 0.036). Participants receiving EA treatment, as compared to ML treatment, also exhibited resting functional connectivity between the primary somatosensory cortical representation of the leg (S1(leg) ; i.e. primary somatosensory subregion activated by EA) and the anterior insula. Increased S1(leg) -anterior insula connectivity was associated with both reduced levels of pain severity as measured by the BPI (r = -0.44, P = 0.01) and increased levels of γ-aminobutyric acid (GABA+) in the anterior insula (r = 0.48, P = 0.046) following EA therapy. Moreover, increased levels of GABA+ in the anterior insula were associated with reduced levels of pain severity as measured by the BPI (r = -0.59, P = 0.01). Finally, post-EA treatment changes in levels of GABA+ in the anterior insula mediated the relationship between changes in S1(leg) -anterior insula connectivity and pain severity on the BPI (bootstrap confidence interval -0.533, -0.037). CONCLUSION: The somatosensory component of acupuncture modulates primary somatosensory functional connectivity associated with insular neurochemistry to reduce pain severity in FM.
+DO  - 10.1002/art.41620 
+VL  - 73
+IS  - 7
+SP  - 1318
+EP  - 1328
+CY  - United States
+SN  - 2326-5191 (Linking)
+U1  - 132250791
+U2  - 33314799
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Large-scale momentary brain co-activation patterns are associated with hyperalgesia and mediate focal neurochemistry and cross-network functional connectivity in fibromyalgia.
+JF  - Pain
+A1  - Mawla I
+A1  - Huang Z
+A1  - Kaplan CM
+A1  - Ichesco E
+A1  - Waller N
+A1  - Larkin TE
+A1  - Zöllner HJ
+A1  - Edden RAE
+A1  - Harte SE
+A1  - Clauw DJ
+A1  - Mashour GA
+A1  - Napadow V
+A1  - Harris RE
+ST  - Mawla (2023)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Fibromyalgia/diagnostic imaging
+KW  - Hyperalgesia/diagnostic imaging
+KW  - *Neurochemistry
+KW  - Magnetic Resonance Imaging/methods
+KW  - Brain/diagnostic imaging
+KW  - Pain
+KW  - Brain Mapping
+KW  - Nerve Net/diagnostic imaging
+PY  - 2023
+DA  - 2023/12//
+Y1  - 2023/12//
+AB  - Fibromyalgia has been characterized by augmented cross-network functional communication between the brain's sensorimotor, default mode, and attentional (salience/ventral and dorsal) networks. However, the underlying mechanisms of these aberrant communication patterns are unknown. In this study, we sought to understand large-scale topographic patterns at instantaneous timepoints, known as co-activation patterns (CAPs). We found that a sustained pressure pain challenge temporally modulated the occurrence of CAPs. Using proton magnetic resonance spectroscopy, we found that greater basal excitatory over inhibitory neurotransmitter levels within the anterior insula orchestrated higher cross-network connectivity between the anterior insula and the default mode network through lower occurrence of a CAP encompassing the attentional networks during sustained pain. Moreover, we found that hyperalgesia in fibromyalgia was mediated through increased occurrence of a CAP encompassing the sensorimotor network during sustained pain. In conclusion, this study elucidates the role of momentary large-scale topographic brain patterns in shaping noxious information in patients with fibromyalgia, while laying the groundwork for using precise spatiotemporal dynamics of the brain for the potential development of therapeutics.
+DO  - 10.1097/j.pain.0000000000002973 
+VL  - 164
+IS  - 12
+SP  - 2737
+EP  - 2748
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250784
+U2  - 37751539
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Abnormal immune system response in the brain of women with Fibromyalgia after experimental endotoxin challenge.
+JF  - Brain, behavior, & immunity - health
+A1  - Mueller C
+A1  - Jordan I
+A1  - Jones C
+A1  - Lawson P
+A1  - Younger JW
+ST  - Mueller (2023)
+KW  - eppi-reviewer
+KW  - Endotoxin
+KW  - Fibromyalgia
+KW  - Immune system
+KW  - Lipopolysaccharide
+KW  - Magnetic resonance spectroscopy
+KW  - Neuroinflammation
+PY  - 2023
+DA  - 2023/07//
+Y1  - 2023/07//
+AB  - BACKGROUND: The pathophysiology of fibromyalgia (FM) is thought to include an overactive immune system, leading to central nervous system sensitization, allodynia, and hyperalgesia. We aimed to test this theory using an experimental immune system activation procedure and neuroimaging with magnetic resonance spectroscopic imaging (MRSI). METHODS: Twelve women with FM and 13 healthy women (healthy controls; HC) received 0.3 or 0.4 ng/kg endotoxin and underwent MRSI before and after the infusion. Changes in brain levels of choline (CHO), myo-inositol (MI), N-Acetylaspartate (NAA), and MRSI-derived brain temperature were compared between groups and dosage levels using mixed analyses of variance. RESULTS: Significant group-by-time interactions in brain temperature were found in the right thalamus. Post-hoc testing revealed that brain temperature increased by 0.55 °C in the right thalamus in FM (t(10) = -3.483, p = 0.006), but not in HCs (p > 0.05). Dose-by-time interactions revealed brain temperature increases in the right insula after 0.4 ng/kg (t(12) = -4.074, p = 0.002), but not after 0.3 ng/kg (p > 0.05). Dose-by-time interactions revealed decreased CHO in the right Rolandic operculum after 0.4 ng/kg endotoxin (t(13) = 3.242, p = 0.006) but not 0.3 ng/kg. In the left paracentral lobule, CHO decreased after 0.3 ng/kg (t(9) = 2.574, p = 0.030) but not 0.4 ng/kg. Dose-by-time interactions affected MI in several brain regions. MI increased after 0.3 ng/kg in the right Rolandic operculum (t(10) = -2.374, p = 0.039), left supplementary motor area (t(9) = -2.303, p = 0.047), and left occipital lobe (t(10) = -3.757, p = 0.004), with no changes after 0.4 ng/kg (p > 0.05). Group-by time interactions revealed decreased NAA in the left Rolandic operculum in FM (t(13) = 2.664, p = 0.019), but not in HCs (p > 0.05). A dose-by-time interaction showed decreased NAA in the left paracentral lobule after 0.3 ng/kg (t(9) = 3.071, p = 0.013) but not after 0.4 ng/kg (p > 0.05). In the combined sample, there was a main effect of time whereby NAA decreased in the left anterior cingulate (F[1,21] = 4.458, p = 0.047) and right parietal lobe (F[1,21] = 5.457, p = 0.029). CONCLUSION: We found temperature increases and NAA decreases in FM that were not seen in HCs, suggesting that FM patients may have abnormal immune responses in the brain. The 0.3 and 0.4 ng/kg had differential effects on brain temperature and metabolites, with neither dose effecting a stronger response overall. There is insufficient evidence provided by the study to determine whether FM involves abnormal central responses to low-level immune challenges.
+DO  - 10.1016/j.bbih.2023.100624 
+VL  - 30
+IS  - 
+SP  - 100624
+CY  - United States
+SN  - 2666-3546 (Linking)
+U1  - 132250785
+U2  - 37114015
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of the efficacy of memantine in the treatment of fibromyalgia: study protocol for a doubled-blind randomized controlled trial with six-month follow-up.
+JF  - Trials
+A1  - Olivan-Blázquez B
+A1  - Puebla M
+A1  - Masluk B
+A1  - Pérez-Yus MC
+A1  - Arcega R
+A1  - Andrés E
+A1  - López-del-Hoyo Y
+A1  - Magallon R
+A1  - Roca M
+A1  - Garcia-Campayo J
+ST  - Olivan-Blázquez (2013)
+KW  - eppi-reviewer
+KW  - Brain/*drug effects/metabolism
+KW  - Clinical Protocols
+KW  - Cognition/drug effects
+KW  - Double-Blind Method
+KW  - Drug Administration Schedule
+KW  - Excitatory Amino Acid Antagonists/administration & dosage/adverse
+KW  - effects/*therapeutic use
+KW  - Fibromyalgia/diagnosis/*drug therapy/metabolism/psychology
+KW  - Glutamic Acid/metabolism
+KW  - Health Status
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy
+KW  - Memantine/administration & dosage/adverse effects/*therapeutic use
+KW  - Pain/diagnosis/*drug therapy/metabolism/parasitology
+KW  - Pain Measurement
+KW  - Pain Perception/drug effects
+KW  - Pain Threshold/drug effects
+KW  - Quality of Life
+KW  - *Research Design
+KW  - Spain
+KW  - Time Factors
+KW  - Treatment Outcome
+PY  - 2013
+DA  - 2013/01//
+Y1  - 2013/01//
+AB  - BACKGROUND: Fibromyalgia is a prevalent chronic rheumatic disease of great clinical importance. Recent studies have found raised levels of glutamate in the insula, hippocampus and posterior cingulate cortex regions of the brains of fibromyalgia (FM) patients. This finding has led researchers to speculate about the usefulness of glutamate-blocking drugs such as memantine in the treatment of fibromyalgia. The hypothesis of this study is that the administration of memantine will reduce the glutamate levels, and futhermore, will decrease the perceived pain. The aim of this study is to evaluate the efficacy of memantine in the treatment of pain (pain perception). A secondary objective is to evaluate the efficacy of memantine in the treatment of other clinical symptoms of FM, and to evaluate the efficacy of memantine in reducing brain levels of glutamate, and its effects on the central nervous system as a whole. METHOD/DESIGN: A double-blind parallel randomized controlled trial. Participants, Seventy patients diagnosed with FM will be recruited from primary health care centers in Zaragoza, Spain. Intervention. The subjects will be randomized in two groups: A) A treatment group (n = 35), which will receive 20 mg of memantine daily; B) A control group (n = 35), to which will be administered a placebo. There will be a six-month follow-up period (including a titration period of one month). Outcomes. The main efficacy variable of this study is pain (pain perception). The secondary efficacy variables are clinical symptoms (pain threshold, cognitive function, health status, anxiety, depression, clinical impression and quality of life) and glutamate levels in different regions of the brain, which will be assessed by magnetic resonance spectroscopy. Randomization and blinding. Randomization has been computer-generated, and the random allocation sequence will be implemented by telephone. Subjects of the study and the research assistants will be blinded to group assignment. DISCUSSION: There is a need for the development of innovative and more effective treatments for fibromyalgia. This clinical trial will determine whether memantine can be an effective pharmacological treatment for fibromyalgia patients. TRIAL REGISTRATION: Current Controlled Trials http://ISRCTN45127327 EUDRACT 2011-006244-73.
+DO  - 10.1186/1745-6215-14-3 
+VL  - 14
+IS  - 
+SP  - 3
+CY  - England
+SN  - 1745-6215 (Linking)
+U1  - 132250800
+U2  - 23286311
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Proton MR spectroscopy in the evaluation of cerebral metabolism in patients with fibromyalgia: comparison with healthy controls and correlation with symptom severity.
+JF  - AJNR. American journal of neuroradiology
+A1  - Petrou M
+A1  - Harris RE
+A1  - Foerster BR
+A1  - McLean SA
+A1  - Sen A
+A1  - Clauw DJ
+A1  - Sundgren PC
+ST  - Petrou (2008)
+KW  - eppi-reviewer
+KW  - Adult
+KW  - Brain/*metabolism
+KW  - Female
+KW  - Fibromyalgia/*diagnosis/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Spectroscopy/*methods
+KW  - Male
+KW  - Middle Aged
+KW  - *Protons
+KW  - Reference Values
+KW  - Reproducibility of Results
+KW  - Sensitivity and Specificity
+KW  - *Severity of Illness Index
+KW  - Statistics as Topic
+PY  - 2008
+DA  - 2008/05//
+Y1  - 2008/05//
+AB  - BACKGROUND AND PURPOSE: Widespread pain sensitivity in patients with fibromyalgia (FM) suggests a central nervous system (CNS)-processing problem. Therefore, it is conceivable that metabolic alterations exist in pain-processing brain regions of people with FM compared with healthy controls (HC) and that such metabolic data could correlate with clinical symptoms. The purpose of this study was to test these hypotheses using proton MR spectroscopy ((1)H-MR spectroscopy). MATERIALS AND METHODS: There were 21 patients with FM and 27 HC who underwent conventional structural MR imaging and additional 2D-chemical shift imaging (CSI) MR-spectroscopy sequences. For the 2D-CSI spectroscopy, larger volumes of interest (VOIs) were centered at the level of the basal ganglia and the supraventricular white matter. Within these larger areas, 16 smaller voxels were placed in a number of regions previously implicated in pain processing. N-acetylaspartate (NAA)/creatine(Cr), choline (Cho)/Cr and NAA/Cho ratios were calculated for each voxel. Subjects underwent clinical and experimental pain assessment. RESULTS: Mean metabolite ratios and ratio variability for each region were analyzed by using repeated-measures analysis of variance (ANOVA). Correlations between clinical symptoms and metabolite ratios were assessed. Cho/Cr variability in the right dorsolateral prefrontal cortex (DLPFC) was significantly different in the 2 groups; a significant correlation between Cho/Cr in this location and clinical pain was present in the FM group. Evoked pain threshold correlated significantly with NAA/Cho ratios in the left insula and left basal ganglia. CONCLUSION: Our data suggest that there are baseline differences in the variability of brain metabolite relative concentrations between patients with FM and HC, especially in the right DLPFC. Furthermore, there are significant correlations between metabolite ratios and clinical and experimental pain parameters in patients with FM.
+DO  - 10.3174/ajnr.A0959 
+VL  - 29
+IS  - 5
+SP  - 913
+EP  - 8
+CY  - United States
+SN  - 0195-6108 (Linking)
+U1  - 132250804
+U2  - 18339723
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Upregulation of cortical GABAA receptor concentration in fibromyalgia.
+JF  - Pain
+A1  - Pomares FB
+A1  - Roy S
+A1  - Funck T
+A1  - Feier NA
+A1  - Thiel A
+A1  - Fitzcharles MA
+A1  - Schweinhardt P
+ST  - Pomares (2020)
+KW  - eppi-reviewer
+KW  - Aged
+KW  - Attention/physiology
+KW  - Cerebral Cortex/diagnostic imaging/*metabolism
+KW  - Female
+KW  - Fibromyalgia/diagnostic imaging/*metabolism
+KW  - Humans
+KW  - Magnetic Resonance Imaging
+KW  - Mental Recall/physiology
+KW  - Middle Aged
+KW  - Neuropsychological Tests
+KW  - Pain Measurement
+KW  - Pain Threshold/*physiology
+KW  - Positron-Emission Tomography
+KW  - Receptors, GABA-A/*metabolism
+KW  - *Up-Regulation
+PY  - 2020
+DA  - 2020/01//
+Y1  - 2020/01//
+AB  - An imbalance between excitatory and inhibitory neurotransmission has been linked to fibromyalgia (FM). Magnetic resonance spectroscopy has shown increased levels of glutamate in the insula and posterior cingulate cortex in FM as well as reduced insular levels of gamma-aminobutyric acid (GABA). Both of these changes have been associated with increased pain sensitivity. However, it is not clear whether excitatory and/or inhibitory neurotransmission is altered across the brain. Therefore, the aim of this study was to quantify GABAA receptor concentration on the whole brain level in FM to investigate a potential dysregulation of the GABAergic system. Fifty-one postmenopausal women (26 FM, 25 matched controls) underwent assessments of pain sensitivity, attention and memory, psychological status and function, as well as positron emission tomography imaging using a tracer for GABAA receptors, [F]flumazenil. Patients showed increased pain sensitivity, impaired immediate memory, and increased cortical GABAA receptor concentration in the attention and default-mode networks. No decrease of GABAA receptor concentration was observed. Across the 2 groups, GABAA receptor concentration correlated positively with functional scores and current pain in areas overlapping with regions of increased GABAA receptor concentration. This study shows increased GABAA receptor concentration in FM, associated with pain symptoms and impaired function. The changes were widespread and not restricted to pain-processing regions. These findings suggest that the GABAergic system is altered, possibly indicating an imbalance between excitatory and inhibitory neurotransmission. Future studies should try to understand the nature of the dysregulation of the GABAergic system in FM and in other pain syndromes.
+DO  - 10.1097/j.pain.0000000000001707 
+VL  - 161
+IS  - 1
+SP  - 74
+EP  - 82
+CY  - United States
+SN  - 0304-3959 (Linking)
+U1  - 132250793
+U2  - 31569142
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Measuring Glutamate Levels in the Brains of Fibromyalgia Patients and a Potential Role for Glutamate in the Pathophysiology of Fibromyalgia Symptoms: A Systematic Review.
+JF  - The Clinical journal of pain
+A1  - Pyke TL
+A1  - Osmotherly PG
+A1  - Baines S
+ST  - Pyke (2017)
+KW  - eppi-reviewer
+KW  - Brain/diagnostic imaging/*metabolism
+KW  - Fibromyalgia/diagnostic imaging/*metabolism
+KW  - Glutamic Acid/*metabolism
+KW  - Humans
+KW  - *Proton Magnetic Resonance Spectroscopy
+PY  - 2017
+DA  - 2017/10//
+Y1  - 2017/10//
+AB  - OBJECTIVES: The aim of this study was to systematically review the literature concerning proton magnetic resonance spectroscopy (H-MRS) measured glutamate levels in specific brain regions of fibromyalgia (FM) patients to determine if there is a correlation between raised glutamate levels and the presentation of FM. MATERIALS AND METHODS: The electronic databases-MEDLINE, EMBASE Classic+Embase, PsychINFO, Cochrane Database of Systematic Reviews, Cochrane Database of Abstracts of Reviews of Effect, Cochrane Central Register of Controlled Trials-were searched to find original studies that used H-MRS to measure glutamate concentrations in the brains of FM patients. RESULTS: Nine studies with a total of 482 participants were selected for inclusion in the review. Seven of the 8 studies that investigated an association between cerebral glutamate levels and FM, showed a positive association. Brain regions identified as having increased glutamate levels include the posterior cingulate gyrus, posterior insula, ventrolateral prefrontal cortex, and amygdala. One study reported a decrease in glutamate levels in the hippocampus of FM patients compared with healthy controls. Seven of the 8 studies that analyzed the correlations between cerebral glutamate levels and FM symptoms, found a significant positive correlation. DISCUSSION: Although the cause of FM remains inconclusive, there is converging data in favor of a dysregulation of pain processing in the central nervous system of FM patients, particularly associated with an increase in cerebral glutamate levels. Furthermore, there is evidence to support an association between increased glutamate levels and an increase in FM symptoms.
+DO  - 10.1097/AJP.0000000000000474 
+VL  - 33
+IS  - 10
+SP  - 944
+EP  - 954
+CY  - United States
+SN  - 0749-8047 (Linking)
+U1  - 132250796
+U2  - 28033157
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Brain imaging in fibromyalgia syndrome.
+JF  - Clinical and experimental rheumatology
+A1  - Staud R
+ST  - Staud (2011)
+KW  - eppi-reviewer
+KW  - Brain/*pathology/physiopathology
+KW  - Chronic Pain/*diagnosis/physiopathology
+KW  - Fibromyalgia/*diagnosis/physiopathology
+KW  - Humans
+KW  - Magnetic Resonance Imaging/*methods
+KW  - Syndrome
+PY  - 2011
+DA  - 2011/11//
+Y1  - 2011/11//
+AB  - Fibromyalgia (FM) is a chronic musculoskeletal pain syndrome which is characterised by clinical pain as well as widespread hyperalgesia/allodynia to mechanical, thermal, electrical, and chemical stimuli. Lack of consistent tissue abnormalities in FM patients has more and more shifted the focus away from peripheral factors and towards central nervous system abnormalities including central sensitisation as well as aberrant pain facilitation and inhibition. Besides quantitative sensory testing, functional brain imaging has been increasingly utilised to characterise the abnormal pain processing of FM patients. Whereas initial work in FM patients identified abnormally increased pain-related brain activity within the thalamus, insula, anterior cingulate, S1, and prefrontal cortex (so-called 'pain matrix'), more recent research focused on altered 'connectivity' between multiple interconnected brain networks in these patients. Additionally, magnetic resonance spectroscopy studies demonstrated high concentration of the excitatory neurotransmitter glutamate in FM patients in pain-related brain areas which correlated not only with experimental but also with clinical pain ratings. Overall, functional brain imaging studies have provided compelling evidence for abnormal pain processing in FM, including brain activity that correlated with patients' augmented pain sensitivity (hyperalgesia/allodynia), temporal summation of pain, and prolonged pain aftersensations. Future imaging work needs to focus on identifying the neural correlates of FM patients' abnormal endogenous pain modulation which will likely not only shed more light on this important pain regulatory mechanism but may also provide useful information for future treatments of FM symptoms.
+VL  - 29
+IS  - 6 Suppl 69
+SP  - S109
+EP  - 17
+CY  - Italy
+SN  - 0392-856X (Linking)
+U1  - 132250801
+U2  - 22243558
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Percutaneous electric nerve field stimulation alters cortical thickness in a pilot study of veterans with fibromyalgia.
+JF  - Neurobiology of pain (Cambridge, Mass.)
+A1  - Woodbury A
+A1  - Krishnamurthy LC
+A1  - Bohsali A
+A1  - Krishnamurthy V
+A1  - Smith JL
+A1  - Gebre M
+A1  - Tyler K
+A1  - Vernon M
+A1  - Crosson B
+A1  - Kalangara JP
+A1  - Napadow V
+A1  - Allen JW
+A1  - Harper D
+ST  - Woodbury (2022)
+KW  - eppi-reviewer
+KW  - Fibromyalgia
+KW  - Nerve Stimulation
+KW  - Neuroimaging
+KW  - Pain
+KW  - Percutaneous Electric
+KW  - Veterans
+PY  - 2022
+DA  - 2022/08//
+Y1  - 2022/08//
+AB  - OBJECTIVE: To evaluate changes in cortical thickness and right posterior insula (r-pIns) gamma-aminobutyric acid (GABA) concentrations in veterans with fibromyalgia treated with auricular percutaneous electric nerve field stimulation (PENFS). MATERIALS & METHODS: This was a randomized, controlled, open label investigation conducted in a government hospital. Twenty-one veterans with fibromyalgia were randomized to receive either standard therapy (ST; i.e., 4 weekly visits with a pain practitioner) or ST with auricular PENFS (ST + PENFS). Neuroimaging data was collected at baseline (i.e. before the first treatment session) and again within 2 weeks post-treatment.​ Clinical pain and physical function were also assessed at these timepoints. Single-voxel magnetic resonance spectroscopy was carried out in r-pIns to assess changes in r-pIns GABA concentrations and high-resolution T1-weighted images were collected to assess changes in regional gray matter volume using cortical thickness. RESULTS: Both the ST + PENFS and ST groups reported a decrease in pain with treatment. Volumetric: Cortical thickness significantly decreased in the left middle posterior cingulate (p = 0.018) and increased in the left cuneus (p = 0.014) following ST + PENFS treatment. These findings were significant following FDR correction for multiple comparisons. ST group right hemisphere insula cortical thickness increased post-treatment and was significantly (p = 0.02) inversely correlated with pain scores. ST + PENFS group right hemisphere posterior dorsal cingulate size significantly (p = 0.044) positively correlated with pain scores. GABA: There were no significant correlations with GABA, though a trend was noted towards increased GABA following treatment in both groups (p = 0.083) using a linear mixed effects model. CONCLUSIONS: Results suggest a novel effect of PENFS reflected by differential volumetric changes compared to ST. The changes in GABA that occur in both groups are more likely related to ST. Insular GABA and cortical thickness in key regions of interest may be developed as potential biomarkers for evaluating chronic pain pathology and treatment outcomes.
+DO  - 10.1016/j.ynpai.2022.100093 
+VL  - 12
+IS  - 
+SP  - 100093
+CY  - United States
+SN  - 2452-073X (Linking)
+U1  - 132250787
+U2  - 35733704
+N1  - 
+ER  - 
+
+TY  - JOUR
+T1  - Elevated posterior insula glutamate in patients with sickle cell disease.
+JF  - The journal of pain
+A1  - Zhou X
+A1  - Ichesco E
+A1  - Pucka AQ
+A1  - Liu Z
+A1  - O'Brien AR
+A1  - Harte SE
+A1  - Harris RE
+A1  - Wang Y
+ST  - Zhou (2025)
+KW  - eppi-reviewer
+KW  - Humans
+KW  - *Anemia, Sickle Cell/metabolism/diagnostic imaging/complications
+KW  - Male
+KW  - Female
+KW  - *Glutamic Acid/metabolism
+KW  - Adult
+KW  - *Insular Cortex/metabolism/diagnostic imaging
+KW  - Middle Aged
+KW  - Proton Magnetic Resonance Spectroscopy
+KW  - Glutamine/metabolism
+KW  - Young Adult
+KW  - (1)H-MRS
+KW  - Brain metabolites
+KW  - Glutamate
+KW  - Pain
+KW  - Sickle cell disease
+KW  - Vaso-occlusive crisis
+PY  - 2025
+DA  - 2025/02//
+Y1  - 2025/02//
+AB  - Sickle cell disease (SCD) is an inherited hemolytic disorder accompanied by chronic pain and recurrent acute painful episodes known as vaso-occlusive crises (VOCs). Increased Glx (glutamate+glutamine) and lowered GABA concentration have been reported in the insula of patients with fibromyalgia, a nociplastic chronic pain condition, and may affect the pathophysiology of pain-related syndromes.Therefore, proton magnetic resonance spectroscopy ((1)H-MRS) was conducted to measure levels of Glx and other brain metabolites using a single voxel (size: 2×3×3 cm(3)) in the right posterior insula cortex (PIC) in 17 individuals with SCD and 17 ethnicity-, age- and sex-matched healthy controls (HCs). The frequency of VOCs in the preceding 12 months was recorded. The concentration of Glx (p=0.019) and the ratio of Glx to tCr (total creatine, p=0.035) in the PIC were significantly higher in patients with SCD as compared to matched HCs (n=17). Secondary analyses with the unpaired full sample of 24 SCD also showed a significantly higher level of Glx/tCr than HCs (n=19), with a positive correlation between the level of Glx/tCr and the number of VOCs (p=0.034, r=0.476), as well as a negative correlation between Glx and sensory sensitivity assessed by tonic pressure pain in gastrocnemius area of the non-dominant leg (p=0.040, r=-0.462). The unpaired full sample additionally revealed a significant difference in sensory sensitivity (p=0.050). Altered metabolites such as GABA and myo-inositol were also observed between SCD and HCs. These results suggest that elevated excitatory neurotransmission in the insula might contribute to nociplastic pain in SCD. PERSPECTIVE: Our work highlighted the innovative finding of elevated levels of the excitatory neurotransmitter glutamate with glutamine in patients with SCD compared to healthy controls. The positive relationship between Glx/tCr and the frequency of VOCs suggests that an excitatory brain neurotransmitter imbalance may be involved in VOCs.
+DO  - 10.1016/j.jpain.2024.104743 
+VL  - 27
+IS  - 
+SP  - 104743
+CY  - United States
+SN  - 1526-5900 (Linking)
+U1  - 132250783
+U2  - 39615812
+N1  - 
+ER  - 
+
