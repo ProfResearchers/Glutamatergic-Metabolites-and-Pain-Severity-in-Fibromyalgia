@@ -1,0 +1,206 @@
+(async function launchScholarExtractor() {
+    const PAGE_DELAY = 3000; // Delay between page loads (ms) to avoid instant CAPTCHAs
+
+    let isRunning = true;
+    let isProcessing = false;
+    let pageCount = 1;
+    let totalStudiesCount = 0;
+    let extractedData = []; // Array storing all page outputs
+
+    const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+    const currentUrl = window.location.href;
+
+    // 1. Build Dashboard Layout
+    document.body.innerHTML = '';
+    document.body.style.margin = '0';
+    document.body.style.padding = '0';
+    document.body.style.fontFamily = 'Arial, sans-serif';
+    document.body.style.display = 'flex';
+    document.body.style.flexDirection = 'column';
+    document.body.style.height = '100vh';
+    document.body.style.backgroundColor = '#f1f3f4';
+
+    const dashboard = document.createElement('div');
+    dashboard.style.padding = '12px 20px';
+    dashboard.style.backgroundColor = '#ffffff';
+    dashboard.style.borderBottom = '2px solid #1a73e8';
+    dashboard.style.boxShadow = '0 2px 6px rgba(0,0,0,0.1)';
+    dashboard.style.display = 'flex';
+    dashboard.style.alignItems = 'center';
+    dashboard.style.justifyContent = 'space-between';
+    dashboard.style.zIndex = '10000';
+
+    dashboard.innerHTML = `
+        <div style="display:flex; align-items:center; gap: 15px;">
+            <h3 style="margin:0; color:#1a73e8; font-size: 16px;">🎓 Scholar Content & Link Extractor</h3>
+            <span id="sas-status" style="font-weight:bold; font-size:13px; color:#1a73e8; background:#e8f0fe; padding:5px 12px; border-radius:4px;">Initializing...</span>
+        </div>
+        <div style="display:flex; align-items:center; gap:10px;">
+            <span id="sas-stats" style="font-size:13px; color:#5f6368; font-weight:bold;">Pages: 1 | Extracted: 0</span>
+            <button id="sas-download" style="padding: 7px 15px; background: #34a853; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">Download TXT Now</button>
+            <button id="sas-toggle" style="padding: 7px 15px; background: #ea4335; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">Stop & Download</button>
+        </div>
+    `;
+    document.body.appendChild(dashboard);
+
+    const statusEl = document.getElementById('sas-status');
+    const statsEl = document.getElementById('sas-stats');
+    const toggleBtn = document.getElementById('sas-toggle');
+    const downloadBtn = document.getElementById('sas-download');
+
+    // Trigger File Download
+    function downloadTxtFile() {
+        if (extractedData.length === 0) {
+            alert('No data extracted yet!');
+            return;
+        }
+        const fullText = extractedData.join('\n\n' + '='.repeat(80) + '\n\n');
+        const blob = new Blob([fullText], { type: 'text/plain;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `scholar_extracted_pages_${Date.now()}.txt`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+
+    downloadBtn.addEventListener('click', downloadTxtFile);
+
+    toggleBtn.addEventListener('click', () => {
+        if (isRunning) {
+            isRunning = false;
+            statusEl.innerText = '⏸️ Stopped. Downloading file...';
+            statusEl.style.backgroundColor = '#fce8e6';
+            statusEl.style.color = '#c5221f';
+            toggleBtn.innerText = 'Resume Scraper';
+            toggleBtn.style.backgroundColor = '#1a73e8';
+            downloadTxtFile();
+        } else {
+            isRunning = true;
+            toggleBtn.innerText = 'Stop & Download';
+            toggleBtn.style.backgroundColor = '#ea4335';
+            statusEl.innerText = 'Resuming...';
+            processIframePage();
+        }
+    });
+
+    // 2. Create Live Display Frame
+    const iframe = document.createElement('iframe');
+    iframe.style.flex = '1';
+    iframe.style.width = '100%';
+    iframe.style.border = 'none';
+
+    iframe.onload = async () => {
+        if (!isRunning || isProcessing) return;
+        await processIframePage();
+    };
+
+    document.body.appendChild(iframe);
+    iframe.src = currentUrl;
+
+    statusEl.innerText = 'Loading initial search page...';
+
+    // 3. Automated Content Extraction Engine
+    async function processIframePage() {
+        if (!isRunning) return;
+        isProcessing = true;
+
+        const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+        // CAPTCHA Detection
+        if (iframeDoc.getElementById('gs_captcha_c') || iframeDoc.body.innerText.includes('verify you are a human')) {
+            statusEl.innerText = '🛑 CAPTCHA Detected! Please solve it below and click Resume.';
+            statusEl.style.backgroundColor = '#fce8e6';
+            statusEl.style.color = '#c5221f';
+            isRunning = false;
+            toggleBtn.innerText = 'Resume Scraper';
+            toggleBtn.style.backgroundColor = '#1a73e8';
+            isProcessing = false;
+            return;
+        }
+
+        statusEl.innerText = `Extracting Page ${pageCount}...`;
+        statusEl.style.backgroundColor = '#e8f0fe';
+        statusEl.style.color = '#1a73e8';
+
+        await sleep(1500); // Allow DOM to settle
+
+        let pageFormattedText = `================================================================================\n`;
+        pageFormattedText += `PAGE ${pageCount} - SOURCE URL: ${iframe.contentWindow.location.href}\n`;
+        pageFormattedText += `================================================================================\n\n`;
+
+        // Extract Structured Study Details + Links
+        const results = Array.from(iframeDoc.querySelectorAll('.gs_r.gs_or.gs_scl'));
+        
+        if (results.length > 0) {
+            pageFormattedText += `--- EXTRACTED STUDY LINKS & METADATA (${results.length} Studies) ---\n\n`;
+            
+            results.forEach((item, index) => {
+                totalStudiesCount++;
+                
+                // Study Title and Primary Link
+                const titleEl = item.querySelector('.gs_rt a');
+                const title = titleEl ? titleEl.textContent.trim() : (item.querySelector('.gs_rt') ? item.querySelector('.gs_rt').textContent.trim() : 'No Title');
+                const studyUrl = titleEl ? titleEl.href : 'No Link Available';
+
+                // PDF / Direct File Link (if available)
+                const pdfEl = item.querySelector('.gs_ggs a');
+                const pdfUrl = pdfEl ? pdfEl.href : null;
+
+                // Authors / Journal / Year Info
+                const authorEl = item.querySelector('.gs_a');
+                const authorInfo = authorEl ? authorEl.textContent.trim() : 'N/A';
+
+                // Snippet / Abstract preview
+                const snippetEl = item.querySelector('.gs_rs');
+                const snippetText = snippetEl ? snippetEl.textContent.trim() : 'No snippet';
+
+                pageFormattedText += `[Study #${totalStudiesCount}]\n`;
+                pageFormattedText += `TITLE:       ${title}\n`;
+                pageFormattedText += `STUDY LINK:  ${studyUrl}\n`;
+                if (pdfUrl) {
+                    pageFormattedText += `DIRECT PDF:  ${pdfUrl}\n`;
+                }
+                pageFormattedText += `AUTHORS/INFO:${authorInfo}\n`;
+                pageFormattedText += `SNIPPET:     ${snippetText}\n`;
+                pageFormattedText += `--------------------------------------------------------------------------------\n`;
+            });
+        }
+
+        // Extract Entire Raw Page Text Content
+        pageFormattedText += `\n--- WHOLE PAGE RAW TEXT CONTENT ---\n\n`;
+        pageFormattedText += iframeDoc.body.innerText;
+
+        // Push Page Data to Array
+        extractedData.push(pageFormattedText);
+
+        statsEl.innerText = `Pages: ${pageCount} | Extracted: ${totalStudiesCount}`;
+
+        // Turn Page Logic
+        statusEl.innerText = `Finished Page ${pageCount}. Navigating to next page...`;
+        await sleep(PAGE_DELAY);
+
+        if (!isRunning) {
+            isProcessing = false;
+            return;
+        }
+
+        const nextIcon = iframeDoc.querySelector('.gs_ico_nav_next');
+        const nextButton = nextIcon ? nextIcon.closest('a') : Array.from(iframeDoc.querySelectorAll('a')).find(el => el.textContent.trim().toLowerCase() === 'next');
+
+        if (nextButton && nextButton.href) {
+            pageCount++;
+            isProcessing = false;
+            nextButton.click();
+        } else {
+            statusEl.innerText = '✅ Extraction Complete! Downloading file...';
+            statusEl.style.backgroundColor = '#e6f4ea';
+            statusEl.style.color = '#137333';
+            isRunning = false;
+            isProcessing = false;
+            downloadTxtFile();
+        }
+    }
+})();
